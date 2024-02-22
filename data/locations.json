@@ -1,0 +1,2267 @@
+[
+    {
+        "name": "Reach Level 2",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 3",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 4",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 5",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 6",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 7",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 8",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 9",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 10",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 11",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 12",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 13",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 14",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 15",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 16",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 17",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 18",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 19",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 20",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Primary Quest - Message from a Friend",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Primary Quest - War Preparations",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:1|"
+    },
+    {
+        "name": "Primary Quest - Class Test",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:2|"
+    },
+    {
+        "name": "Primary Quest - Further Adventures",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:3|"
+    },
+    {
+        "name": "Primary Quest - Unsettling Rumors",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:4|"
+    },
+    {
+        "name": "Primary Quest - A Second Profession",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|@Base Class:2| and |Progressive Main Story:5|"
+    },
+    {
+        "name": "Primary Quest - The Path to Glory",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:6|"
+    },
+    {
+        "name": "Primary Quest - Ascalon Academy",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": "|Progressive Main Story:7|"
+    },
+    {
+        "name": "Primary Quest - The Krytan Ambassador",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Primary Quest - Defend the Wall",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:9|"
+    },
+    {
+        "name": "Mission - The Great Northern Wall",
+        "category": [
+            "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:10|"
+    },
+    {
+        "name": "Bonus - The Great Northern Wall",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:10|"
+    },
+    {
+        "name": "Mission - Fort Ranik",
+        "category": [
+            "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:11|"
+    },
+    {
+        "name": "Bonus - Fort Ranik",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:11|"
+    },
+    {
+        "name": "Primary Quest - Ruins of Surmia",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:12|"
+    },
+    {
+        "name": "Mission - Ruins of Surmia",
+        "category": [
+            "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:13|"
+    },
+    {
+        "name": "Bonus - Ruins of Surmia",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:13|"
+    },
+    {
+        "name": "Mission - Nolani Academy",
+        "category": [
+            "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:14|"
+    },
+    {
+        "name": "Bonus - Nolani Academy",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:14|"
+    },
+    {
+        "name": "Primary Quest - The Way is Blocked",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Mission - Borlis Pass",
+        "category": [
+            "Story",
+            "Mission",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:16|"
+    },
+    {
+        "name": "Bonus - Borlis Pass",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:16|"
+    },
+    {
+        "name": "Mission - The Frost Gate",
+        "category": [
+            "Story",
+            "Mission",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:17|"
+    },
+    {
+        "name": "Bonus - The Frost Gate",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:17|"
+    },
+    {
+        "name": "Primary Quest - To Kryta: Refugees",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:18|"
+    },
+    {
+        "name": "Primary Quest - To Kryta: The Ice Cave",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:19|"
+    },
+    {
+        "name": "Primary Quest - To Kryta: Journey's End",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:20|"
+    },
+    {
+        "name": "Mission - Gates of Kryta",
+        "category": [
+            "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Bonus - Gates of Kryta",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Primary Quest - Report to the White Mantle",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:22|"
+    },
+    {
+        "name": "Mission - D'Alessio Seaboard",
+        "category": [
+            "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:23|"
+    },
+    {
+        "name": "Bonus - D'Alessio Seaboard",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:23|"
+    },
+    {
+        "name": "Mission - Divinity Coast",
+        "category": [
+            "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:24|"
+    },
+    {
+        "name": "Bonus - Divinity Coast",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:24|"
+    },
+    {
+        "name": "Primary Quest - A Brother's Fury",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Mission - The Wilds",
+        "category": [
+            "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:26|"
+    },
+    {
+        "name": "Bonus - The Wilds",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:26|"
+    },
+    {
+        "name": "Mission - Bloodstone Fen",
+        "category": [
+            "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:27|"
+    },
+    {
+        "name": "Bonus - Bloodstone Fen",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:27|"
+    },
+    {
+        "name": "Primary Quest - White Mantle Wrath: Demagogue's Vanguard",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:28|"
+    },
+    {
+        "name": "Primary Quest - White Mantle Wrath: A Helping Hand OR Urgent Warning",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:29|"
+    },
+    {
+        "name": "Mission - Aurora Glade",
+        "category": [
+            "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:30|"
+    },
+    {
+        "name": "Bonus - Aurora Glade",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:30|"
+    },
+    {
+        "name": "Primary Quest - Passage Through The Dark River",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:31|"
+    },
+    {
+        "name": "Mission - Riverside Province",
+        "category": [
+            "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Bonus - Riverside Province",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Mission - Sanctum Cay",
+        "category": [
+            "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:33|"
+    },
+    {
+        "name": "Bonus - Sanctum Cay",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:33|"
+    },
+    {
+        "name": "Primary Quest - Sands of Souls",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Mission - Dunes of Despair",
+        "category": [
+            "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:35|"
+    },
+    {
+        "name": "Bonus - Dunes of Despair",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:35|"
+    },
+    {
+        "name": "Mission - Thirsty River",
+        "category": [
+            "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:36|"
+    },
+    {
+        "name": "Bonus - Thirsty River",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:36|"
+    },
+    {
+        "name": "Mission - Elona Reach",
+        "category": [
+            "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:37|"
+    },
+    {
+        "name": "Bonus - Elona Reach",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:37|"
+    },
+    {
+        "name": "Mission - Augury Rock",
+        "category": [
+            "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:38|"
+    },
+    {
+        "name": "Bonus - Augury Rock",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:38|"
+    },
+    {
+        "name": "Mission - The Dragon's Lair",
+        "category": [
+            "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:39|"
+    },
+    {
+        "name": "Bonus - The Dragon's Lair",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:39|"
+    },
+    {
+        "name": "Primary Quest - Seeking the Seer",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Mission - Ice Caves of Sorrow",
+        "category": [
+            "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:41|"
+    },
+    {
+        "name": "Bonus - Ice Caves of Sorrow",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:41|"
+    },
+    {
+        "name": "Mission - Iron Mines of Moladune",
+        "category": [
+            "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:42|"
+    },
+    {
+        "name": "Bonus - Iron Mines of Moladune",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:42|"
+    },
+    {
+        "name": "Mission - Thunderhead Keep",
+        "category": [
+            "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:43|"
+    },
+    {
+        "name": "Bonus - Thunderhead Keep",
+        "category": [
+            "Story",
+            "Bonus",
+            "Primary Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:43|"
+    },
+    {
+        "name": "Primary Quest - Final Blow",
+        "category": [
+            "Story",
+            "Primary Quest",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Mission - Ring of Fire",
+        "category": [
+            "Story",
+            "Mission",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:45|"
+    },
+    {
+        "name": "Bonus - Ring of Fire",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:45|"
+    },
+    {
+        "name": "Mission - Abaddon's Mouth",
+        "category": [
+            "Story",
+            "Mission",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:46|"
+    },
+    {
+        "name": "Bonus - Abaddon's Mouth",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:46|"
+    },
+    {
+        "name": "Mission - Hell's Precipice",
+        "category": [
+            "Story",
+            "Mission",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:47|",
+        "place_item": [
+            "Victory"
+        ]
+    },
+    {
+        "name": "The Lich is defeated",
+        "category": [
+            "Story",
+            "Victory"
+        ],
+        "victory": "true",
+        "requires": [
+            "Victory"
+        ]
+    },
+    {
+        "name": "Quest - A Gift for Althea",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Across the Wall",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Adventure with an Ally",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Bandit Raid",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Charr at the Gate",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Charr in the Catacombs",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Gwen's Flute",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Little Thom's Big Cloak",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Opposition to the King",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Poor Tenant",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Rites of Remembrance",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Egg Hunter",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Hunter's Horn",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Orchard",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Poison Devourer",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Prize Moa Bird",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Rogue's Replacement",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The True King",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Wayward Wizard",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - The Worm Problem",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Tithe for Ashford Abbey",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Trouble in the Woods",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Annihilation: Bandits",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Annihilation: Charr",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Annihilation: Undead",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Bounty: Blazefiend Griefblade",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Bounty: Countess Nadya",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Bounty: Utini Wupwup",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Rescue: Farmer Hamnet",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Rescue: Footman Tate",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - Vanguard Rescue: Save the Ascalonian Noble",
+        "category": [
+            "Quest",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Quest - A Mission of Peace",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Althea's Ashes",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Barradin's Advance",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Barradin's Stand",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Caravan in Trouble",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Casualty Report",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Cities of Ascalon",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Counting the Fallen",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Deliver a Message to My Wife",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Family Ties",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Fires in the East",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Fires in the North",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Frontier Gate Fugitives",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Garfazz Bloodfang",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Hammer and Anvil",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Helping The People of Ascalon",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Rastin's Ritual",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Recruits for Hollis",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Regent Valley Defense",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Scavengers in Old Ascalon",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Supplies for the Duke",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Symon's History of Ascalon",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The Ambassador's Quandary",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The Duke's Daughter",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The King's Message",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The Red-Cloaked Deserter",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The Siege of Piken Square",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - The Troublesome Artifact",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Vanguard Equipment",
+        "category": [
+            "Quest",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Quest - Helping the Dwarves",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Hungry Devourer",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Iron Horse War Machine",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Minaar's Trouble",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Minaar's Worry",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Oswalt's Epitaph",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Shiverpeak Stragglers",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - The Deserters",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - The Missing Artisan",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - The Road to Borlis Pass",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Quest - Bandit Trouble",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Blankets for the Settlers",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Duties of a Lionguard",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Graven Images",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Malaquire's Test",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Merchant's Plea",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Orrian Excavation",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Reversing the Skales",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Ascalon Settlement",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The False Gods",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Hot Springs Murders",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Last Hog",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Lost Princess",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Royal Papers",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Undead Hordes",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Villainy of Galrath",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - The Weaver of Nebo",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Quest - Blood And Smoke",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - Dropping Eaves",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - Eye For Profit",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - Mysterious Message",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - The Price of Steel",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - Wisdom of the Druids",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Quest - A Belated Betrothal",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - Ancient Secrets",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - Forgotten Wisdom",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - Ghostly Vengeance",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - Into the Unknown",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - The Forgotten Ones",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Quest - Cold One",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Fire in the Hole",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Gathering Resources",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Kilroy Stonekin",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Noble Intentions",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Noble Intentions Plan B",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Political Ramifications",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Subversive Ideas",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Summit Slaves",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Tasca's Reprise",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - The Final Assault",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - The Forge Heart",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - The Hero's Challenge",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - The Hero's Journey",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - To Sorrow's Furnace",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Unruly Slaves",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Unspeakable, Unknowable",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Quest - Wrenches In The Gears",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Ascalon City (pre-Searing)",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Ashford Abbey",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Foible's Fair",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Fort Ranik (pre-Searing)",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach The Barradin Estate",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Ascalon City",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Frontier Gate",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Grendich Courthouse",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Piken Square",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Sardelac Sanitarium",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Serenity Temple",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Fort Ranik",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Nolani Academy",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Ruins of Surmia",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach The Great Northern Wall",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Ascalon Arena",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Beacon's Perch",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Ice Tooth Cave",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Yak's Bend",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Borlis Pass",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach The Frost Gate",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Shiverpeak Arena",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Lion's Arch",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Beetletun",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Bergen Hot Springs",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Fishermen's Haven",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Temple of the Ages",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach D'Alessio Seaboard",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Divinity Coast",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Gates of Kryta",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Riverside Province",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Sanctum Cay",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Henge of Denravi",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Druid's Overlook",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Maguuma Stade",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Quarrel Falls",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Ventari's Refuge",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Aurora Glade",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Bloodstone Fen",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach The Wilds",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach The Amnoon Oasis",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Destiny's Gorge",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Heroes' Audience",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Seeker's Passage",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Tomb of the Primeval Kings",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Augury Rock",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Dunes of Despair",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Elona Reach",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Thirsty River",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach The Dragon's Lair",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Droknar's Forge",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Camp Rankor",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Copperhammer Mines",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Deldrimor War Camp",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Marhan's Grotto",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Port Sledge",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach The Granite Citadel",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Ice Caves of Sorrow",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Iron Mines of Moladune",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Thunderhead Keep",
+        "category": [
+            "Location",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Ember Light Camp",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Abaddon's Mouth",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Hell's Precipice",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Ring of Fire",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    }
+]
