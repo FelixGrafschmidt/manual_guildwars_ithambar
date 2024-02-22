@@ -1,0 +1,20 @@
+{
+  "game": "GuildWars",
+  "creator": "Ithambar",
+  "player": "Hero",
+  "filler_item_name": "Signet of Capture",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Base Class"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Attribute"
+      ],
+      "random": 1
+    }
+  ]
+}
