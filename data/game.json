@@ -1,9 +1,14 @@
 {
-  "$schema": "./../../schemas/Manual.game.schema.json",
   "game": "GuildWars",
   "creator": "Ithambar",
   "filler_item_name": "Signet of Capture",
   "starting_items": [
+    {
+      "items": [
+        "Merchant - Armorer",
+        "Merchant - Rune trader"
+      ]
+    },
     {
       "item_categories": [
         "Base Class"
