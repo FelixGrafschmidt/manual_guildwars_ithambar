@@ -1,7 +1,7 @@
 {
+  "$schema": "./../../schemas/Manual.game.schema.json",
   "game": "GuildWars",
   "creator": "Ithambar",
-  "player": "Hero",
   "filler_item_name": "Signet of Capture",
   "starting_items": [
     {
@@ -11,8 +11,56 @@
       "random": 1
     },
     {
+      "if_previous_item": [
+        "Class - Warrior"
+      ],
       "item_categories": [
-        "Attribute"
+        "Attribute Warrior"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Class - Ranger"
+      ],
+      "item_categories": [
+        "Attribute Ranger"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Class - Monk"
+      ],
+      "item_categories": [
+        "Attribute Monk"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Class - Necromancer"
+      ],
+      "item_categories": [
+        "Attribute Necromancer"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Class - Mesmer"
+      ],
+      "item_categories": [
+        "Attribute Mesmer"
+      ],
+      "random": 1
+    },
+    {
+      "if_previous_item": [
+        "Class - Elementalist"
+      ],
+      "item_categories": [
+        "Attribute Elementalist"
       ],
       "random": 1
     }

@@ -62,6 +62,42 @@
         "progression": true
     },
     {
+        "name": "Attribute - Mesmer:Fast Casting",
+        "category": [
+            "Attribute",
+            "Attribute Mesmer"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Mesmer:Domination Magic",
+        "category": [
+            "Attribute",
+            "Attribute Mesmer"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Mesmer:Illusion Magic",
+        "category": [
+            "Attribute",
+            "Attribute Mesmer"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Mesmer:Inspiration Magic",
+        "category": [
+            "Attribute",
+            "Attribute Mesmer"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
         "name": "Additional Attribute",
         "category": [
             "Attribute"
