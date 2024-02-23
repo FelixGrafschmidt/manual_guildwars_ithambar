@@ -98,6 +98,51 @@
         "progression": true
     },
     {
+        "name": "Attribute - Warrior:Strength",
+        "category": [
+            "Attribute",
+            "Attribute Warrior"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Warrior:Axe Mastery",
+        "category": [
+            "Attribute",
+            "Attribute Warrior"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Warrior:Hammer Mastery",
+        "category": [
+            "Attribute",
+            "Attribute Warrior"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Warrior:Swordsmanship",
+        "category": [
+            "Attribute",
+            "Attribute Warrior"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Warrior:Tactics",
+        "category": [
+            "Attribute",
+            "Attribute Warrior"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
         "name": "Additional Attribute",
         "category": [
             "Attribute"
