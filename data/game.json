@@ -15,7 +15,7 @@
         "Class - Warrior"
       ],
       "item_categories": [
-        "Attribute Warrior"
+        "Warrior Attributes"
       ],
       "random": 1
     },
@@ -24,7 +24,7 @@
         "Class - Ranger"
       ],
       "item_categories": [
-        "Attribute Ranger"
+        "Ranger Attributes"
       ],
       "random": 1
     },
@@ -33,7 +33,7 @@
         "Class - Monk"
       ],
       "item_categories": [
-        "Attribute Monk"
+        "Monk Attributes"
       ],
       "random": 1
     },
@@ -42,7 +42,7 @@
         "Class - Necromancer"
       ],
       "item_categories": [
-        "Attribute Necromancer"
+        "Necromancer Attributes"
       ],
       "random": 1
     },
@@ -51,7 +51,7 @@
         "Class - Mesmer"
       ],
       "item_categories": [
-        "Attribute Mesmer"
+        "Mesmer Attributes"
       ],
       "random": 1
     },
@@ -60,7 +60,7 @@
         "Class - Elementalist"
       ],
       "item_categories": [
-        "Attribute Elementalist"
+        "Elementalist Attributes"
       ],
       "random": 1
     }

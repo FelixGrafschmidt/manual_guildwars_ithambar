@@ -62,118 +62,235 @@
         "progression": true
     },
     {
-        "name": "Attribute - Mesmer:Fast Casting",
+        "name": "Attribute - Fast Casting",
         "category": [
-            "Attribute",
-            "Attribute Mesmer"
+            "Attributes",
+            "Mesmer Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Mesmer:Domination Magic",
+        "name": "Attribute - Domination Magic",
         "category": [
-            "Attribute",
-            "Attribute Mesmer"
+            "Attributes",
+            "Mesmer Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Mesmer:Illusion Magic",
+        "name": "Attribute - Illusion Magic",
         "category": [
-            "Attribute",
-            "Attribute Mesmer"
+            "Attributes",
+            "Mesmer Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Mesmer:Inspiration Magic",
+        "name": "Attribute - Inspiration Magic",
         "category": [
-            "Attribute",
-            "Attribute Mesmer"
+            "Attributes",
+            "Mesmer Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Warrior:Strength",
+        "name": "Attribute - Strength",
         "category": [
-            "Attribute",
-            "Attribute Warrior"
+            "Attributes",
+            "Warrior Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Warrior:Axe Mastery",
+        "name": "Attribute - Axe Mastery",
         "category": [
-            "Attribute",
-            "Attribute Warrior"
+            "Attributes",
+            "Warrior Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Warrior:Hammer Mastery",
+        "name": "Attribute - Hammer Mastery",
         "category": [
-            "Attribute",
-            "Attribute Warrior"
+            "Attributes",
+            "Warrior Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Warrior:Swordsmanship",
+        "name": "Attribute - Swordsmanship",
         "category": [
-            "Attribute",
-            "Attribute Warrior"
+            "Attributes",
+            "Warrior Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Warrior:Tactics",
+        "name": "Attribute - Tactics",
         "category": [
-            "Attribute",
-            "Attribute Warrior"
+            "Attributes",
+            "Warrior Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Ranger:Expertise",
+        "name": "Attribute - Expertise",
         "category": [
-            "Attribute",
-            "Attribute Ranger"
+            "Attributes",
+            "Ranger Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Ranger:Beast Mastery",
+        "name": "Attribute - Beast Mastery",
         "category": [
-            "Attribute",
-            "Attribute Ranger"
+            "Attributes",
+            "Ranger Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Ranger:Marksmanship",
+        "name": "Attribute - Marksmanship",
         "category": [
-            "Attribute",
-            "Attribute Ranger"
+            "Attributes",
+            "Ranger Attributes"
         ],
         "count": "2",
         "progression": true
     },
     {
-        "name": "Attribute - Ranger:Wilderness Survival",
+        "name": "Attribute - Wilderness Survival",
         "category": [
-            "Attribute",
-            "Attribute Ranger"
+            "Attributes",
+            "Ranger Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Divine Favor",
+        "category": [
+            "Attributes",
+            "Monk Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Healing Prayers",
+        "category": [
+            "Attributes",
+            "Monk Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Smiting Prayers",
+        "category": [
+            "Attributes",
+            "Monk Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Protection Prayers",
+        "category": [
+            "Attributes",
+            "Monk Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Soul Reaping ",
+        "category": [
+            "Attributes",
+            "Necromancer Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Curses",
+        "category": [
+            "Attributes",
+            "Necromancer Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Blood Magic",
+        "category": [
+            "Attributes",
+            "Necromancer Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Death Magic",
+        "category": [
+            "Attributes",
+            "Necromancer Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Energy Storage",
+        "category": [
+            "Attributes",
+            "Elementalist Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Air Magic",
+        "category": [
+            "Attributes",
+            "Elementalist Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Earth Magic",
+        "category": [
+            "Attributes",
+            "Elementalist Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Fire Magic",
+        "category": [
+            "Attributes",
+            "Elementalist Attributes"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Water Magic",
+        "category": [
+            "Attributes",
+            "Elementalist Attributes"
         ],
         "count": "2",
         "progression": true
