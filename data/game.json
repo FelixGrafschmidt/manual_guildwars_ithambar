@@ -6,14 +6,21 @@
     {
       "items": [
         "Merchant - Armorer",
-        "Merchant - Rune trader"
+        "Merchant - Merchant",
+        "Merchant - Rune trader",
+        "Attribute - Fast Casting",
+        "Attribute - Strength",
+        "Attribute - Expertise",
+        "Attribute - Divine Favor",
+        "Attribute - Soul Reaping",
+        "Attribute - Energy Storage"
       ]
     },
     {
       "item_categories": [
         "Base Class"
       ],
-      "random": 1
+      "random": 2
     },
     {
       "if_previous_item": [

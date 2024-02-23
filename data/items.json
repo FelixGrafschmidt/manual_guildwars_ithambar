@@ -10,6 +10,7 @@
     {
         "name": "Progressive Armor",
         "category": [
+            "Armor",
             "Equipment"
         ],
         "count": 10,
@@ -69,7 +70,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -105,7 +106,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -150,7 +151,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -186,7 +187,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -217,12 +218,12 @@
         "progression": true
     },
     {
-        "name": "Attribute - Soul Reaping ",
+        "name": "Attribute - Soul Reaping",
         "category": [
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -258,7 +259,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -1505,6 +1506,15 @@
     },
     {
         "name": "Merchant - Rune trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Merchant",
         "category": [
             "Merchant"
         ],
