@@ -5,8 +5,8 @@ import pkgutil
 from .DataValidation import DataValidation, ValidationError
 
 from .hooks.Data import \
-    after_load_item_file, after_load_progressive_item_file, \
-    after_load_location_file, after_load_region_file, after_load_category_file
+    after_load_item_file, after_load_location_file, \
+    after_load_region_file, after_load_category_file
 
 # blatantly copied from the minecraft ap world because why not
 def load_data_file(*args) -> dict:
@@ -21,15 +21,12 @@ def load_data_file(*args) -> dict:
 
 game_table = load_data_file('game.json')
 item_table = load_data_file('items.json')
-#progressive_item_table = load_data_file('progressive_items.json')
-progressive_item_table = {}
 location_table = load_data_file('locations.json')
 region_table = load_data_file('regions.json')
 category_table = load_data_file('categories.json') or {}
 
 # hooks
 item_table = after_load_item_file(item_table)
-progressive_item_table = after_load_progressive_item_file(progressive_item_table)
 location_table = after_load_location_file(location_table)
 region_table = after_load_region_file(region_table)
 category_table = after_load_category_file(category_table)
@@ -85,8 +82,23 @@ except ValidationError as e: validation_errors.append(e)
 try: DataValidation.checkForDuplicateRegionNames()
 except ValidationError as e: validation_errors.append(e)
 
+# check that starting items are actually valid starting item definitions
+try: DataValidation.checkStartingItemsForBadSyntax()
+except ValidationError as e: validation_errors.append(e)
+
 # check that starting items and starting item categories actually exist in the items json
 try: DataValidation.checkStartingItemsForValidItemsAndCategories()
+except ValidationError as e: validation_errors.append(e)
+
+# check that placed items are actually valid place item definitions
+try: DataValidation.checkPlacedItemsAndCategoriesForBadSyntax()
+except ValidationError as e: validation_errors.append(e)
+
+# check placed item and item categories for valid options for each
+try: DataValidation.checkPlacedItemsForValidItems()
+except ValidationError as e: validation_errors.append(e)
+
+try: DataValidation.checkPlacedItemCategoriesForValidItemCategories()
 except ValidationError as e: validation_errors.append(e)
 
 # check that the game's default filler item name doesn't match an item name that they defined in their items
@@ -96,7 +108,6 @@ except ValidationError as e: validation_errors.append(e)
 # check for regions that are set as non-starting regions and have no connectors to them (so are unreachable)
 try: DataValidation.checkForNonStartingRegionsThatAreUnreachable()
 except ValidationError as e: validation_errors.append(e)
-
 
 
 ############
