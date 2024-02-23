@@ -143,11 +143,39 @@
         "progression": true
     },
     {
-        "name": "Additional Attribute",
+        "name": "Attribute - Ranger:Expertise",
         "category": [
-            "Attribute"
+            "Attribute",
+            "Attribute Ranger"
         ],
-        "count": "30",
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Ranger:Beast Mastery",
+        "category": [
+            "Attribute",
+            "Attribute Ranger"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Ranger:Marksmanship",
+        "category": [
+            "Attribute",
+            "Attribute Ranger"
+        ],
+        "count": "2",
+        "progression": true
+    },
+    {
+        "name": "Attribute - Ranger:Wilderness Survival",
+        "category": [
+            "Attribute",
+            "Attribute Ranger"
+        ],
+        "count": "2",
         "progression": true
     },
     {
