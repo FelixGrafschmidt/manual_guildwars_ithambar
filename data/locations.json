@@ -1,132 +1,132 @@
 [
     {
-        "name": "Reach Level 2",
+        "name": "Advance to Level 2",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 3",
+        "name": "Advance to Level 3",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 4",
+        "name": "Advance to Level 4",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 5",
+        "name": "Advance to Level 5",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 6",
+        "name": "Advance to Level 6",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 7",
+        "name": "Advance to Level 7",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 8",
+        "name": "Advance to Level 8",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 9",
+        "name": "Advance to Level 9",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 10",
+        "name": "Advance to Level 10",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 11",
+        "name": "Advance to Level 11",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 12",
+        "name": "Advance to Level 12",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 13",
+        "name": "Advance to Level 13",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 14",
+        "name": "Advance to Level 14",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 15",
+        "name": "Advance to Level 15",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 16",
+        "name": "Advance to Level 16",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 17",
+        "name": "Advance to Level 17",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 18",
+        "name": "Advance to Level 18",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 19",
+        "name": "Advance to Level 19",
         "category": [
             "Level"
         ],
         "requires": []
     },
     {
-        "name": "Reach Level 20",
+        "name": "Advance to Level 20",
         "category": [
             "Level"
         ],
@@ -811,7 +811,7 @@
             "Story",
             "Victory"
         ],
-        "victory": "true",
+        "victory": true,
         "requires": [
             "Victory"
         ]

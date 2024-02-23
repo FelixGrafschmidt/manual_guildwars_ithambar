@@ -1,8 +1,10 @@
 [
     {
         "name": "Progressive Main Story",
-        "category": [],
-        "count": "75",
+        "category": [
+            "Progression"
+        ],
+        "count": 50,
         "progression": true
     },
     {
@@ -10,7 +12,7 @@
         "category": [
             "Equipment"
         ],
-        "count": "10",
+        "count": 10,
         "progression": true
     },
     {
@@ -18,7 +20,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -26,7 +28,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -34,7 +36,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -42,7 +44,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -50,7 +52,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -58,7 +60,7 @@
         "category": [
             "Base Class"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -67,7 +69,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -76,7 +78,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -85,7 +87,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -94,7 +96,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -103,7 +105,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -112,7 +114,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -121,7 +123,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -130,7 +132,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -139,7 +141,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -148,7 +150,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -157,7 +159,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -166,7 +168,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -175,7 +177,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -184,7 +186,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -193,7 +195,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -202,7 +204,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -211,7 +213,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -220,7 +222,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -229,7 +231,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -238,7 +240,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -247,7 +249,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -256,7 +258,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -265,7 +267,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -274,7 +276,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -283,7 +285,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -292,7 +294,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": "2",
+        "count": 2,
         "progression": true
     },
     {
@@ -300,7 +302,7 @@
         "category": [
             "Victory"
         ],
-        "count": "1",
+        "count": 1,
         "progression": true
     },
     {
@@ -309,7 +311,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -318,7 +320,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -327,7 +329,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -336,7 +338,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -345,7 +347,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -354,7 +356,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -363,7 +365,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -372,7 +374,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -381,7 +383,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -390,7 +392,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -399,7 +401,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -408,7 +410,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -417,7 +419,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -426,7 +428,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -435,7 +437,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -444,7 +446,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -453,7 +455,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -462,7 +464,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -471,7 +473,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -480,7 +482,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -489,7 +491,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -498,7 +500,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -507,7 +509,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -516,7 +518,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -525,7 +527,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -534,7 +536,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -543,7 +545,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -552,7 +554,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -561,7 +563,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -570,7 +572,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -579,7 +581,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -588,7 +590,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -597,7 +599,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -606,7 +608,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -615,7 +617,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -624,7 +626,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -633,7 +635,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -642,7 +644,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -651,7 +653,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -660,7 +662,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -669,7 +671,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -678,7 +680,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -687,7 +689,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -696,7 +698,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -705,7 +707,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -714,7 +716,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -723,7 +725,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -732,7 +734,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -741,7 +743,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -750,7 +752,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -759,7 +761,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -768,7 +770,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -777,7 +779,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -786,7 +788,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -795,7 +797,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -804,7 +806,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -813,7 +815,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -822,7 +824,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -831,7 +833,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -840,7 +842,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -849,7 +851,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -858,7 +860,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -867,7 +869,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -876,7 +878,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -885,7 +887,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -894,7 +896,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -903,7 +905,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -912,7 +914,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -921,7 +923,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -930,7 +932,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -939,7 +941,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -948,7 +950,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -957,7 +959,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -966,7 +968,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -975,7 +977,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -984,7 +986,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -993,7 +995,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1002,7 +1004,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1011,7 +1013,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1020,7 +1022,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1029,7 +1031,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1038,7 +1040,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1047,7 +1049,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1056,7 +1058,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1065,7 +1067,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1074,7 +1076,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1083,7 +1085,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1092,7 +1094,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1101,7 +1103,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1110,7 +1112,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1119,7 +1121,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1128,7 +1130,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1137,7 +1139,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1146,7 +1148,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1155,7 +1157,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1164,7 +1166,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1173,7 +1175,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1182,7 +1184,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1191,7 +1193,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1200,7 +1202,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1209,7 +1211,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1218,7 +1220,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1227,7 +1229,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1236,7 +1238,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1245,7 +1247,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1254,7 +1256,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1263,7 +1265,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1272,7 +1274,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1281,7 +1283,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1290,7 +1292,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1299,7 +1301,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1308,7 +1310,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1317,7 +1319,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1326,7 +1328,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1335,7 +1337,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1344,7 +1346,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1353,7 +1355,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1362,7 +1364,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1371,7 +1373,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1380,7 +1382,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1389,7 +1391,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1398,7 +1400,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1407,7 +1409,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1416,7 +1418,7 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
         "progression": false
     },
     {
@@ -1425,7 +1427,89 @@
             "Equipment",
             "Rune"
         ],
-        "count": "1",
+        "count": 1,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Armorer",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Consumables",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Weaponsmith",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Skill trainer",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "early": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Dye trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": false,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Material trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Rare material trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Rare scroll trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
+        "progression": false
+    },
+    {
+        "name": "Merchant - Rune trader",
+        "category": [
+            "Merchant"
+        ],
+        "count": 1,
+        "useful": true,
         "progression": false
     }
 ]
