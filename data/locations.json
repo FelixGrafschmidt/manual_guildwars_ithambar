@@ -3287,5 +3287,157 @@
             "Crystal Desert"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Stone Summit Badges with Ornhelm Brightaxe",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frozen Shells with Nord Stonegrimm",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mountain Troll Tusks with Trego Stonebreaker",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Feathered Avicara Scalps with Goran Grimyak",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Alpine Seeds with Bariel Darkroot",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Azure Remains with Hoknil the Lesser",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mountain Troll Tusks with Merin Trollsbane",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Huge Jawbones with Radamon",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frosted Griffon Wings with Hagnon Warblade",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Emboldened Carapace Shield with Yorik Warblade",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Feathered Avicara Scalps with Volsung Stoneketil",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frigid Hearts with Cember Goreaxe",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Intricate Grawl Necklaces with Mag Ironwall",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Alpine Seeds with Kagan Treesplitter",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frigid Hearts with Turlo Oakenspear",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Huge Jawbones with Hoknil the Greater",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Azure Remains with Vania Sewell",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Enslavement Stones with Molenin",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dredge Manifestos with Makar Thoughtslayer",
+        "category": [
+            "Collector",
+            "Southern Shiverpeaks"
+        ],
+        "requires": []
     }
 ]
