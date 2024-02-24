@@ -2911,5 +2911,197 @@
             "Kryta"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Ancient Eyes with Vargil the White",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jungle Troll Tusks with Crispin Bryllis",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mossy Mandibles with Farmer Conklin",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Maguuma Manes with Lady Engelram",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Behemoth Jaws with Seris the Red",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ancient Eyes with Orson Cooper",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jungle Skale Fins with Serah Shaes",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Tangled Seeds with Tully Blackvine",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade White Mantle Emblems with Adam Solstrum",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jungle Troll Tusks with Loreen Cranford",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade White Mantle Emblems with Thyfir Greenleaf",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mossy Mandibles with Ingrid Larson",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ebon Spider Legs with Mosreh the Exile",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Thorny Carapaces with Hember",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade White Mantle Emblems with Horton Longsnout",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Maguuma Manes with Lord Engelram",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ebon Spider Legs with Elene the Vigilant",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ancient Eyes with Aaron Fletcher",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Tangled Seeds with Elwynn Kirby",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Behemoth Jaws with Agrippa Stonehands",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jungle Skale Fins with Llourdes the Arcane",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jungle Troll Tusks with Meghan the Bright",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Tangled Seeds with Slayton Redblade",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ancient Eyes with Jaden Fletcher",
+        "category": [
+            "Collector",
+            "Maguuma Jungle"
+        ],
+        "requires": []
     }
 ]
