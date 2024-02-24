@@ -2430,7 +2430,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scorched Seeds with Sally Kaugie",
@@ -2438,7 +2438,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Fetid Carapaces with Fytch",
@@ -2446,7 +2446,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Ornate Grawl Necklaces with Guardsman Noell",
@@ -2454,7 +2454,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Charr Carvings with Paige Osbourne",
@@ -2462,7 +2462,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Stormy Eyes with Raymon Elsworth",
@@ -2470,7 +2470,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scorched Lodestones with Nicanor Gannel",
@@ -2478,7 +2478,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Ornate Grawl Necklaces with Corwin Luceinne",
@@ -2486,7 +2486,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Rawhide Belts with Sir Nyman",
@@ -2494,7 +2494,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Singed Gargoyle Skulls with Valeria Benes",
@@ -2502,7 +2502,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Singed Gargoyle Skulls with Innis the White",
@@ -2510,7 +2510,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Fetid Carapaces with Dreaz Bowem",
@@ -2518,7 +2518,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scorched Lodestones with Saba Blackstone",
@@ -2526,7 +2526,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scorched Seeds with Penelope Hoode",
@@ -2534,7 +2534,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Charr Carvings with Louise Haup",
@@ -2542,7 +2542,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Singed Gargoyle Skulls with Lenerd Aberold",
@@ -2550,7 +2550,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scorched Lodestones with Martel Bastions",
@@ -2558,7 +2558,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Charr Carvings with Wain Hughes",
@@ -2566,7 +2566,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Leathery Claws with Dael",
@@ -2574,7 +2574,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Gruesome Ribcages with Nazag Fenn",
@@ -2582,7 +2582,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Scar Behemoth Jaws with Ashram Fenn",
@@ -2590,7 +2590,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Ornate Grawl Necklaces with Palben Tunne",
@@ -2598,7 +2598,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Leathery Claws with Gil Moriddan",
@@ -2606,7 +2606,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Fetid Carapaces with Graine Hathorn",
@@ -2614,7 +2614,7 @@
             "Collector",
             "Ascalon"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Trade Curved Minotaur Horns with Maccus Ironjaw",
@@ -2622,7 +2622,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Frostfire Fangs with Sander the Gray",
@@ -2630,7 +2630,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Icy Humps with Lenn Giantsbane",
@@ -2638,7 +2638,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Shiverpeak Manes with Rothgar Hoofsplitter",
@@ -2646,7 +2646,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Frostfire Fangs with Norin Stonegrimm",
@@ -2654,7 +2654,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Stone Summit Badges with Asgrim Brightaxe",
@@ -2662,7 +2662,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Shiverpeak Manes with Pyrs Harven",
@@ -2670,7 +2670,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Alpine Seeds with Sadira Powell",
@@ -2678,7 +2678,7 @@
             "Collector",
             "Northern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Trade Decayed Orr Emblems with Camryn Jamison",
@@ -2686,7 +2686,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Leather Belts with Alton Thorne",
@@ -2694,7 +2694,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Bog Skale Fins with Leighton Cranford",
@@ -2702,7 +2702,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Feathered Caromi Scalps with Wintun the Black",
@@ -2710,7 +2710,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Hardened Humps with Helton Wills",
@@ -2718,7 +2718,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Glowing Hearts with Kira Thorne",
@@ -2726,7 +2726,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Mergoyle Skulls with Beldon the Blade",
@@ -2734,7 +2734,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Mergoyle Skulls with Milny Samhammil",
@@ -2742,7 +2742,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Decayed Orr Emblems with Kolleen Redstone",
@@ -2750,7 +2750,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Bog Skale Fins with Liris the Sage",
@@ -2758,7 +2758,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Abnormal Seeds with Sir Robert",
@@ -2766,7 +2766,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Forest Minotaur Horns with Brion Elston",
@@ -2774,7 +2774,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Ivory Troll Tusks with William Pennington",
@@ -2782,7 +2782,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Gargantuan Jawbones with Brynden Cromwell",
@@ -2790,7 +2790,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Spiked Crests with Arris Weston",
@@ -2798,7 +2798,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Abnormal Seeds with Daved Logsdon",
@@ -2806,7 +2806,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Thorny Carapaces with Isabaeux Navarre",
@@ -2814,7 +2814,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Gargantuan Jawbones with Delves the Dodgy",
@@ -2822,7 +2822,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Shadowy Remnants with Robin Neils",
@@ -2830,7 +2830,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Glowing Hearts with Jamora the Wise",
@@ -2838,7 +2838,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Spiked Crests with Vardis",
@@ -2846,7 +2846,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Forest Minotaur Horns with Ember Whisperwind",
@@ -2854,7 +2854,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Mergoyle Skulls with Galstaff the Light",
@@ -2862,7 +2862,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Glowing Hearts with Julianna Furst",
@@ -2870,7 +2870,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Shadowy Remnants with Ian Borish",
@@ -2878,7 +2878,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Mergoyle Skulls with Falhurst",
@@ -2886,7 +2886,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Bog Skale Fins with Gruhn the Fisher",
@@ -2894,7 +2894,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Feathered Caromi Scalps with Ian Sturmme",
@@ -2902,7 +2902,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Abnormal Seeds with Tenlach Silverhand",
@@ -2910,7 +2910,7 @@
             "Collector",
             "Kryta"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Trade Ancient Eyes with Vargil the White",
@@ -2918,7 +2918,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Jungle Troll Tusks with Crispin Bryllis",
@@ -2926,7 +2926,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Mossy Mandibles with Farmer Conklin",
@@ -2934,7 +2934,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Maguuma Manes with Lady Engelram",
@@ -2942,7 +2942,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Behemoth Jaws with Seris the Red",
@@ -2950,7 +2950,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Ancient Eyes with Orson Cooper",
@@ -2958,7 +2958,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Jungle Skale Fins with Serah Shaes",
@@ -2966,7 +2966,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Tangled Seeds with Tully Blackvine",
@@ -2974,7 +2974,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade White Mantle Emblems with Adam Solstrum",
@@ -2982,7 +2982,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Jungle Troll Tusks with Loreen Cranford",
@@ -2990,7 +2990,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade White Mantle Emblems with Thyfir Greenleaf",
@@ -2998,7 +2998,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Mossy Mandibles with Ingrid Larson",
@@ -3006,7 +3006,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Ebon Spider Legs with Mosreh the Exile",
@@ -3014,7 +3014,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Thorny Carapaces with Hember",
@@ -3022,7 +3022,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade White Mantle Emblems with Horton Longsnout",
@@ -3030,7 +3030,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Maguuma Manes with Lord Engelram",
@@ -3038,7 +3038,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Ebon Spider Legs with Elene the Vigilant",
@@ -3046,7 +3046,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Ancient Eyes with Aaron Fletcher",
@@ -3054,7 +3054,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Tangled Seeds with Elwynn Kirby",
@@ -3062,7 +3062,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Behemoth Jaws with Agrippa Stonehands",
@@ -3070,7 +3070,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Jungle Skale Fins with Llourdes the Arcane",
@@ -3078,7 +3078,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Jungle Troll Tusks with Meghan the Bright",
@@ -3086,7 +3086,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Tangled Seeds with Slayton Redblade",
@@ -3094,7 +3094,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Ancient Eyes with Jaden Fletcher",
@@ -3102,7 +3102,7 @@
             "Collector",
             "Maguuma Jungle"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Trade Minotaur Horns with Luven Underwood",
@@ -3110,7 +3110,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Bleached Carapaces with Cinder Linnwood",
@@ -3118,7 +3118,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Iridescent Griffon Wings with Arliss Vaughn",
@@ -3126,7 +3126,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Topaz Crests with John Verado",
@@ -3134,7 +3134,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Dessicated Hydra Claws with Mourn Drakespur",
@@ -3142,7 +3142,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Spiny Seeds with Rylan Paval",
@@ -3150,7 +3150,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Dune Burrower Jaws with Sir Pohl Sanbert",
@@ -3158,7 +3158,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Bleached Shells with Lord Dorn Lendrigen",
@@ -3166,7 +3166,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Jade Mandibles with Uderit Ignis",
@@ -3174,7 +3174,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Massive Jawbones with Karl Jakobs",
@@ -3182,7 +3182,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Iridescent Griffon Wings with Kraviec the Cursed",
@@ -3190,7 +3190,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Encrusted Lodestones with Brandon Harlin",
@@ -3198,7 +3198,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Minotaur Horns with Fenster the Golden",
@@ -3206,7 +3206,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Dune Burrower Jaws with Gustov the Silent",
@@ -3214,7 +3214,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Losaru Manes with Kyle the Rich",
@@ -3222,7 +3222,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Bleached Carapaces with Winfield Michelson",
@@ -3230,7 +3230,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Jade Mandibles with Kelsay Pradist",
@@ -3238,7 +3238,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Shriveled Eyes with Sir Norrington",
@@ -3246,7 +3246,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Bleached Shells with Ardenoth Oakenshield",
@@ -3254,7 +3254,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Forgotten Seals with Ekimeel Trueshot",
@@ -3262,7 +3262,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Massive Jawbones with Sir Kaufman",
@@ -3270,7 +3270,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Losaru Manes with Cedric Rogers",
@@ -3278,7 +3278,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Dune Burrower Jaws with Jamie the Wanderer",
@@ -3286,7 +3286,7 @@
             "Collector",
             "Crystal Desert"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Trade Stone Summit Badges with Ornhelm Brightaxe",
@@ -3294,7 +3294,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Frozen Shells with Nord Stonegrimm",
@@ -3302,7 +3302,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Mountain Troll Tusks with Trego Stonebreaker",
@@ -3310,7 +3310,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Feathered Avicara Scalps with Goran Grimyak",
@@ -3318,7 +3318,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Alpine Seeds with Bariel Darkroot",
@@ -3326,7 +3326,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Azure Remains with Hoknil the Lesser",
@@ -3334,7 +3334,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Mountain Troll Tusks with Merin Trollsbane",
@@ -3342,7 +3342,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Huge Jawbones with Radamon",
@@ -3350,7 +3350,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Frosted Griffon Wings with Hagnon Warblade",
@@ -3358,7 +3358,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Emboldened Carapace Shield with Yorik Warblade",
@@ -3366,7 +3366,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Feathered Avicara Scalps with Volsung Stoneketil",
@@ -3374,7 +3374,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Frigid Hearts with Cember Goreaxe",
@@ -3382,7 +3382,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Intricate Grawl Necklaces with Mag Ironwall",
@@ -3390,7 +3390,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Alpine Seeds with Kagan Treesplitter",
@@ -3398,7 +3398,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Frigid Hearts with Turlo Oakenspear",
@@ -3406,7 +3406,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Huge Jawbones with Hoknil the Greater",
@@ -3414,7 +3414,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Azure Remains with Vania Sewell",
@@ -3422,7 +3422,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Enslavement Stones with Molenin",
@@ -3430,7 +3430,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Dredge Manifestos with Makar Thoughtslayer",
@@ -3438,7 +3438,7 @@
             "Collector",
             "Southern Shiverpeaks"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Trade Seared Ribcages with Collector Corbis",
@@ -3446,7 +3446,7 @@
             "Collector",
             "Ring of Fire Islands"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:42|"
     },
     {
         "name": "Trade Mahgo Claws with Collector Gabrian",
@@ -3454,7 +3454,7 @@
             "Collector",
             "Ring of Fire Islands"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:42|"
     },
     {
         "name": "Trade Unctuous Remains with Collector Terra",
@@ -3462,6 +3462,6 @@
             "Collector",
             "Ring of Fire Islands"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:42|"
     }
 ]
