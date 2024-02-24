@@ -19,9 +19,6 @@
 
 ## Additional checks
 
-* Hunters party
-* Collectors
-
 ## To note
 
 * Armor merchant !== Armor collector
