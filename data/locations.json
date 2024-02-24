@@ -3439,5 +3439,29 @@
             "Southern Shiverpeaks"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Seared Ribcages with Collector Corbis",
+        "category": [
+            "Collector",
+            "Ring of Fire Islands"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mahgo Claws with Collector Gabrian",
+        "category": [
+            "Collector",
+            "Ring of Fire Islands"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Unctuous Remains with Collector Terra",
+        "category": [
+            "Collector",
+            "Ring of Fire Islands"
+        ],
+        "requires": []
     }
 ]
