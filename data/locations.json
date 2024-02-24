@@ -2679,5 +2679,237 @@
             "Northern Shiverpeaks"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Decayed Orr Emblems with Camryn Jamison",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Leather Belts with Alton Thorne",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bog Skale Fins with Leighton Cranford",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Feathered Caromi Scalps with Wintun the Black",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Hardened Humps with Helton Wills",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Glowing Hearts with Kira Thorne",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mergoyle Skulls with Beldon the Blade",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mergoyle Skulls with Milny Samhammil",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Decayed Orr Emblems with Kolleen Redstone",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bog Skale Fins with Liris the Sage",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Abnormal Seeds with Sir Robert",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Forest Minotaur Horns with Brion Elston",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Ivory Troll Tusks with William Pennington",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Gargantuan Jawbones with Brynden Cromwell",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Spiked Crests with Arris Weston",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Abnormal Seeds with Daved Logsdon",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Thorny Carapaces with Isabaeux Navarre",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Gargantuan Jawbones with Delves the Dodgy",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Shadowy Remnants with Robin Neils",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Glowing Hearts with Jamora the Wise",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Spiked Crests with Vardis",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Forest Minotaur Horns with Ember Whisperwind",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mergoyle Skulls with Galstaff the Light",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Glowing Hearts with Julianna Furst",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Shadowy Remnants with Ian Borish",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Mergoyle Skulls with Falhurst",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bog Skale Fins with Gruhn the Fisher",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Feathered Caromi Scalps with Ian Sturmme",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Abnormal Seeds with Tenlach Silverhand",
+        "category": [
+            "Collector",
+            "Kryta"
+        ],
+        "requires": []
     }
 ]
