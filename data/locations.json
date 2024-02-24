@@ -3103,5 +3103,189 @@
             "Maguuma Jungle"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Minotaur Horns with Luven Underwood",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bleached Carapaces with Cinder Linnwood",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Iridescent Griffon Wings with Arliss Vaughn",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Topaz Crests with John Verado",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dessicated Hydra Claws with Mourn Drakespur",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Spiny Seeds with Rylan Paval",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dune Burrower Jaws with Sir Pohl Sanbert",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bleached Shells with Lord Dorn Lendrigen",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jade Mandibles with Uderit Ignis",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Massive Jawbones with Karl Jakobs",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Iridescent Griffon Wings with Kraviec the Cursed",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Encrusted Lodestones with Brandon Harlin",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Minotaur Horns with Fenster the Golden",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dune Burrower Jaws with Gustov the Silent",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Losaru Manes with Kyle the Rich",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bleached Carapaces with Winfield Michelson",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Jade Mandibles with Kelsay Pradist",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Shriveled Eyes with Sir Norrington",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Bleached Shells with Ardenoth Oakenshield",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Forgotten Seals with Ekimeel Trueshot",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Massive Jawbones with Sir Kaufman",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Losaru Manes with Cedric Rogers",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dune Burrower Jaws with Jamie the Wanderer",
+        "category": [
+            "Collector",
+            "Crystal Desert"
+        ],
+        "requires": []
     }
 ]
