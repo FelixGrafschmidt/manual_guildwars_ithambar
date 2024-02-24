@@ -1,5 +1,21 @@
 [
     {
+        "name": "Get a Hunter's Ale from the bear hunters",
+        "category": [
+            "Misc",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Drive the Prize-Winning Hogs back into their pen.",
+        "category": [
+            "Misc",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
         "name": "Advance to Level 2",
         "category": [
             "Level"
@@ -67,70 +83,70 @@
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 12",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 13",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 14",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 15",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 16",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 17",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 18",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 19",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Advance to Level 20",
         "category": [
             "Level"
         ],
-        "requires": []
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Primary Quest - Message from a Friend",
@@ -2311,5 +2327,101 @@
             "Ring of Fire Islands"
         ],
         "requires": "|Progressive Main Story:42|"
+    },
+    {
+        "name": "Trade Skale Fins with Brownlow",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Worn Belts with Humphreys",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Baked Husks with Jacobs",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Grawl Necklaces with Kaylee",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Unnatural Seeds with Walden",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Dull Carapaces with Rownan",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Skeletal Limbs with Gwynn",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Enchanted Lodestones with Mindle",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Unnatural Seeds with Hatcher",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Spider Legs with Varis",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Gargoyle Skulls with Karleen",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Icy Lodestones with Savich",
+        "category": [
+            "Collector",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
     }
 ]

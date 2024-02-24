@@ -2,31 +2,26 @@
 
 ## Region requirements
 
-* Pre-searing Ascalon: 0
-* Ascalon: 8
-* Northern Shiverpeaks: 15
-* Kryta: 21
-* Maguuma Jungle: 25
-* Crystal Desert: 34
-* Southern Shiverpeaks: 40
-* Ring of Fire Islands: 44
+* Ascalon (Pre-searing): 0
+* Ascalon: 6
+* Northern Shiverpeaks: 13
+* Kryta: 19
+* Maguuma Jungle: 23
+* Crystal Desert: 32
+* Southern Shiverpeaks: 38
+* Ring of Fire Islands: 42
 
-## Quests in Ascalon (Pre-searing)
+## Secondary Quests
 
-* 37
+* Ascalon (Pre-searing): 37
 
 ## To change
-
-* first three main quests w/o unlocks
-* only unlock rune types, not levels
-* limit levels to after tutorial
-* always allow armor from gatherers
 
 ## Additional checks
 
 * Hunters party
-* Gatherers
+* Collectors
 
 ## To note
 
-* which items from the tutorial are relevant outside?
+* Armor merchant !== Armor collector
