@@ -22,3 +22,4 @@
 ## To note
 
 * Armor merchant !== Armor collector
+* If a quest requires you to use a skill you are not allowed to use, you may use it for the purpose of this quest (primarily relevant in the tutorial).
