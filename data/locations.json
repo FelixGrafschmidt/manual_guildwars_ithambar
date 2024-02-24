@@ -252,7 +252,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Ascalon"
         ],
         "requires": "|Progressive Main Story:8|"
@@ -271,7 +270,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Ascalon"
         ],
         "requires": "|Progressive Main Story:9|"
@@ -299,7 +297,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Ascalon"
         ],
         "requires": "|Progressive Main Story:11|"
@@ -318,7 +315,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Ascalon"
         ],
         "requires": "|Progressive Main Story:12|"
@@ -346,7 +342,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:14|"
@@ -365,7 +360,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:15|"
@@ -411,7 +405,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Kryta"
         ],
         "requires": "|Progressive Main Story:19|"
@@ -439,7 +432,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Kryta"
         ],
         "requires": "|Progressive Main Story:21|"
@@ -458,7 +450,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Kryta"
         ],
         "requires": "|Progressive Main Story:22|"
@@ -486,7 +477,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:24|"
@@ -505,7 +495,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:25|"
@@ -542,7 +531,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:28|"
@@ -570,7 +558,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Kryta"
         ],
         "requires": "|Progressive Main Story:30|"
@@ -589,7 +576,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Kryta"
         ],
         "requires": "|Progressive Main Story:31|"
@@ -617,7 +603,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:33|"
@@ -636,7 +621,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:34|"
@@ -655,7 +639,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:35|"
@@ -674,7 +657,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:36|"
@@ -693,7 +675,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:37|"
@@ -721,7 +702,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:39|"
@@ -740,7 +720,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:40|"
@@ -759,7 +738,6 @@
         "category": [
             "Story",
             "Bonus",
-            "Primary Quest",
             "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:41|"
@@ -993,828 +971,604 @@
         "requires": []
     },
     {
-        "name": "Complete 21 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 22 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 23 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 24 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 25 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 26 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 27 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 28 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 29 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 30 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 31 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 32 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 33 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 34 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 35 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 36 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 37 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Quest - A Mission of Peace",
+        "name": "Complete 1 Secondary Quest - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Althea's Ashes",
+        "name": "Complete 2 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Barradin's Advance",
+        "name": "Complete 3 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Barradin's Stand",
+        "name": "Complete 4 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Caravan in Trouble",
+        "name": "Complete 5 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Casualty Report",
+        "name": "Complete 6 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Cities of Ascalon",
+        "name": "Complete 7 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Counting the Fallen",
+        "name": "Complete 8 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Deliver a Message to My Wife",
+        "name": "Complete 9 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Family Ties",
+        "name": "Complete 10 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Fires in the East",
+        "name": "Complete 11 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Fires in the North",
+        "name": "Complete 12 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Frontier Gate Fugitives",
+        "name": "Complete 13 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Garfazz Bloodfang",
+        "name": "Complete 14 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Hammer and Anvil",
+        "name": "Complete 15 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Helping The People of Ascalon",
+        "name": "Complete 16 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Rastin's Ritual",
+        "name": "Complete 17 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Recruits for Hollis",
+        "name": "Complete 18 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Regent Valley Defense",
+        "name": "Complete 19 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Scavengers in Old Ascalon",
+        "name": "Complete 20 Secondary Quests - Ascalon",
         "category": [
             "Quest",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Quest - Supplies for the Duke",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - Symon's History of Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The Ambassador's Quandary",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The Duke's Daughter",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The King's Message",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The Red-Cloaked Deserter",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The Siege of Piken Square",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - The Troublesome Artifact",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - Vanguard Equipment",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Quest - Helping the Dwarves",
+        "name": "Complete 1 Secondary Quest - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Hungry Devourer",
+        "name": "Complete 2 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Iron Horse War Machine",
+        "name": "Complete 3 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Minaar's Trouble",
+        "name": "Complete 4 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Minaar's Worry",
+        "name": "Complete 5 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Oswalt's Epitaph",
+        "name": "Complete 6 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Shiverpeak Stragglers",
+        "name": "Complete 7 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - The Deserters",
+        "name": "Complete 8 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - The Missing Artisan",
+        "name": "Complete 9 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - The Road to Borlis Pass",
+        "name": "Complete 10 Secondary Quests - Northern Shiverpeaks",
         "category": [
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Quest - Bandit Trouble",
+        "name": "Complete 1 Secondary Quest - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Blankets for the Settlers",
+        "name": "Complete 2 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Duties of a Lionguard",
+        "name": "Complete 3 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Graven Images",
+        "name": "Complete 4 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Malaquire's Test",
+        "name": "Complete 5 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Merchant's Plea",
+        "name": "Complete 6 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Orrian Excavation",
+        "name": "Complete 7 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - Reversing the Skales",
+        "name": "Complete 8 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Ascalon Settlement",
+        "name": "Complete 9 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The False Gods",
+        "name": "Complete 10 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Hot Springs Murders",
+        "name": "Complete 11 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Last Hog",
+        "name": "Complete 12 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Lost Princess",
+        "name": "Complete 13 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Royal Papers",
+        "name": "Complete 14 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Undead Hordes",
+        "name": "Complete 15 Secondary Quests - Kryta",
         "category": [
             "Quest",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:19|"
     },
     {
-        "name": "Quest - The Villainy of Galrath",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:21|"
-    },
-    {
-        "name": "Quest - The Weaver of Nebo",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:21|"
-    },
-    {
-        "name": "Quest - Blood And Smoke",
+        "name": "Complete 1 Secondary Quest - Maguuma Jungle",
         "category": [
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:23|"
     },
     {
-        "name": "Quest - Dropping Eaves",
+        "name": "Complete 2 Secondary Quests - Maguuma Jungle",
         "category": [
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:23|"
     },
     {
-        "name": "Quest - Eye For Profit",
+        "name": "Complete 3 Secondary Quests - Maguuma Jungle",
         "category": [
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:23|"
     },
     {
-        "name": "Quest - Mysterious Message",
+        "name": "Complete 4 Secondary Quests - Maguuma Jungle",
         "category": [
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:23|"
     },
     {
-        "name": "Quest - The Price of Steel",
+        "name": "Complete 5 Secondary Quests - Maguuma Jungle",
         "category": [
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:23|"
     },
     {
-        "name": "Quest - Wisdom of the Druids",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:25|"
-    },
-    {
-        "name": "Quest - A Belated Betrothal",
+        "name": "Complete 1 Secondary Quest - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - Ancient Secrets",
+        "name": "Complete 2 Secondary Quests - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - Forgotten Wisdom",
+        "name": "Complete 3 Secondary Quests - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - Ghostly Vengeance",
+        "name": "Complete 4 Secondary Quests - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - Into the Unknown",
+        "name": "Complete 5 Secondary Quests - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - The Forgotten Ones",
+        "name": "Complete 6 Secondary Quests - Crystal Desert",
         "category": [
             "Quest",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:32|"
     },
     {
-        "name": "Quest - Cold One",
+        "name": "Complete 7 Secondary Quests - Crystal Desert",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Complete 8 Secondary Quests - Crystal Desert",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Complete 9 Secondary Quests - Crystal Desert",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Complete 10 Secondary Quests - Crystal Desert",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Complete 1 Secondary Quest - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Fire in the Hole",
+        "name": "Complete 2 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Gathering Resources",
+        "name": "Complete 3 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Kilroy Stonekin",
+        "name": "Complete 4 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Noble Intentions",
+        "name": "Complete 5 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Noble Intentions Plan B",
+        "name": "Complete 6 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Political Ramifications",
+        "name": "Complete 7 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Subversive Ideas",
+        "name": "Complete 8 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Summit Slaves",
+        "name": "Complete 9 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - Tasca's Reprise",
+        "name": "Complete 10 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - The Final Assault",
+        "name": "Complete 11 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - The Forge Heart",
+        "name": "Complete 12 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - The Hero's Challenge",
+        "name": "Complete 13 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - The Hero's Journey",
+        "name": "Complete 14 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
-        "name": "Quest - To Sorrow's Furnace",
+        "name": "Complete 15 Secondary Quests - Southern Shiverpeaks",
         "category": [
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
-    },
-    {
-        "name": "Quest - Unruly Slaves",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:40|"
-    },
-    {
-        "name": "Quest - Unspeakable, Unknowable",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:40|"
-    },
-    {
-        "name": "Quest - Wrenches In The Gears",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Reach Ascalon City (pre-Searing)",
