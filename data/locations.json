@@ -2615,5 +2615,69 @@
             "Ascalon"
         ],
         "requires": []
+    },
+    {
+        "name": "Trade Curved Minotaur Horns with Maccus Ironjaw",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frostfire Fangs with Sander the Gray",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Icy Humps with Lenn Giantsbane",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Shiverpeak Manes with Rothgar Hoofsplitter",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Frostfire Fangs with Norin Stonegrimm",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Stone Summit Badges with Asgrim Brightaxe",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Shiverpeak Manes with Pyrs Harven",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Trade Alpine Seeds with Sadira Powell",
+        "category": [
+            "Collector",
+            "Northern Shiverpeaks"
+        ],
+        "requires": []
     }
 ]
