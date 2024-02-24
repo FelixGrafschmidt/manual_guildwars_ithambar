@@ -8,7 +8,7 @@
         "progression": true
     },
     {
-        "name": "Progressive Armor",
+        "name": "Progressive Armor Merchant",
         "category": [
             "Armor",
             "Equipment"
@@ -370,7 +370,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Attunement",
+        "name": "Runes of Attunement",
         "category": [
             "Equipment",
             "Rune"
@@ -379,7 +379,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Clarity",
+        "name": "Runes of Clarity",
         "category": [
             "Equipment",
             "Rune"
@@ -388,7 +388,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Purity",
+        "name": "Runes of Purity",
         "category": [
             "Equipment",
             "Rune"
@@ -397,7 +397,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Recovery",
+        "name": "Runes of Recovery",
         "category": [
             "Equipment",
             "Rune"
@@ -406,7 +406,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Restoration",
+        "name": "Runes of Restoration",
         "category": [
             "Equipment",
             "Rune"
@@ -415,7 +415,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Vigor",
+        "name": "Runes of Vigor",
         "category": [
             "Equipment",
             "Rune"
@@ -424,25 +424,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Vigor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Vigor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Vitae",
+        "name": "Runes of Vitae",
         "category": [
             "Equipment",
             "Rune"
@@ -496,7 +478,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Absorption",
+        "name": "Runes of Absorption",
         "category": [
             "Equipment",
             "Rune"
@@ -505,7 +487,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Absorption",
+        "name": "Runes of Axe Mastery",
         "category": [
             "Equipment",
             "Rune"
@@ -514,7 +496,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Absorption",
+        "name": "Runes of Hammer Mastery",
         "category": [
             "Equipment",
             "Rune"
@@ -523,7 +505,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Axe Mastery",
+        "name": "Runes of Strength",
         "category": [
             "Equipment",
             "Rune"
@@ -532,7 +514,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Axe Mastory",
+        "name": "Runes of Swordsmanship",
         "category": [
             "Equipment",
             "Rune"
@@ -541,115 +523,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Axe Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Tactics",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Tactics",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Tactics",
+        "name": "Runes of Tactics",
         "category": [
             "Equipment",
             "Rune"
@@ -712,7 +586,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Beast Mastery",
+        "name": "Runes of Beast Mastery",
         "category": [
             "Equipment",
             "Rune"
@@ -721,7 +595,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Beast Mastery",
+        "name": "Runes of Expertise",
         "category": [
             "Equipment",
             "Rune"
@@ -730,7 +604,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Beast Mastery",
+        "name": "Runes of Marksmanship",
         "category": [
             "Equipment",
             "Rune"
@@ -739,79 +613,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Wilderness Survival",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Wilderness Survival",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Wilderness Survival",
+        "name": "Runes of Wilderness Survival",
         "category": [
             "Equipment",
             "Rune"
@@ -847,7 +649,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Divine Favor",
+        "name": "Runes of Divine Favor",
         "category": [
             "Equipment",
             "Rune"
@@ -856,7 +658,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Divine Favor",
+        "name": "Runes of Healing Prayers",
         "category": [
             "Equipment",
             "Rune"
@@ -865,7 +667,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Divine Favor",
+        "name": "Runes of Protection Prayers",
         "category": [
             "Equipment",
             "Rune"
@@ -874,79 +676,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Smiting Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Smiting Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Smiting Prayers",
+        "name": "Runes of Smiting Prayers",
         "category": [
             "Equipment",
             "Rune"
@@ -1009,7 +739,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Blood Magic",
+        "name": "Runes of Blood Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1018,7 +748,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Blood Magic",
+        "name": "Runes of Curses",
         "category": [
             "Equipment",
             "Rune"
@@ -1027,7 +757,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Blood Magic",
+        "name": "Runes of Death Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1036,79 +766,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Soul Reaping",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Soul Reaping",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Soul Reaping",
+        "name": "Runes of Soul Reaping",
         "category": [
             "Equipment",
             "Rune"
@@ -1144,7 +802,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Domination Magic",
+        "name": "Runes of Domination Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1153,7 +811,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Domination Magic",
+        "name": "Runes of Fast Casting",
         "category": [
             "Equipment",
             "Rune"
@@ -1162,7 +820,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Domination Magic",
+        "name": "Runes of Illusion Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1171,79 +829,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Inspiration Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Inspiration Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Inspiration Magic",
+        "name": "Runes of Inspiration Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1297,7 +883,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Air Magic",
+        "name": "Runes of Air Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1306,7 +892,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Air Magic",
+        "name": "Runes of Earth Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1315,7 +901,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Superior Air Magic",
+        "name": "Runes of Energy Storage",
         "category": [
             "Equipment",
             "Rune"
@@ -1324,7 +910,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Minor Earth Magic",
+        "name": "Runes of Fire Magic",
         "category": [
             "Equipment",
             "Rune"
@@ -1333,97 +919,7 @@
         "progression": false
     },
     {
-        "name": "Rune of Major Earth Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Earth Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Water Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Water Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Water Magic",
+        "name": "Runes of Water Magic",
         "category": [
             "Equipment",
             "Rune"
