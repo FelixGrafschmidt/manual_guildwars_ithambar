@@ -4,16 +4,7 @@
         "category": [
             "Progression"
         ],
-        "count": 50,
-        "progression": true
-    },
-    {
-        "name": "Progressive Armor Merchant",
-        "category": [
-            "Armor",
-            "Equipment"
-        ],
-        "count": 10,
+        "count": 30,
         "progression": true
     },
     {
@@ -79,7 +70,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -88,7 +79,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -97,7 +88,7 @@
             "Attributes",
             "Mesmer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -115,7 +106,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -124,7 +115,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -133,7 +124,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -142,7 +133,7 @@
             "Attributes",
             "Warrior Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -160,7 +151,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -169,7 +160,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -178,7 +169,7 @@
             "Attributes",
             "Ranger Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -196,7 +187,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -205,7 +196,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -214,7 +205,7 @@
             "Attributes",
             "Monk Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -232,7 +223,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -241,7 +232,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -250,7 +241,7 @@
             "Attributes",
             "Necromancer Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -268,7 +259,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -277,7 +268,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -286,7 +277,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -295,7 +286,7 @@
             "Attributes",
             "Elementalist Attributes"
         ],
-        "count": 2,
+        "count": 1,
         "progression": true
     },
     {
@@ -307,1219 +298,11 @@
         "progression": true
     },
     {
-        "name": "Insignia - Blessed",
+        "name": "Tutorial",
         "category": [
-            "Equipment",
-            "Rune"
+            "Tutorial"
         ],
         "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Brawler's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Herald's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Radiant",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Sentry's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Stalwart",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Survivor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Attunement",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Clarity",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Purity",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Recovery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Restoration",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Vigor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Vigor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Vigor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Vitae",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Dreadnought",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Knight's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Lieutenant's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Sentinel's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Stonefist",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Absorption",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Absorption",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Absorption",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Axe Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Axe Mastory",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Axe Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Hammer Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Strength",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Swordsmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Tactics",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Tactics",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Tactics",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Beastmaster's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Earthbound",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Frostbound",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Pyrebound",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Scout's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Stormbound",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Beast Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Beast Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Beast Mastery",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Expertise",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Marksmanship",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Wilderness Survival",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Wilderness Survival",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Wilderness Survival",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Anchorite's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Disciple's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Wanderer's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Divine Favor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Divine Favor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Divine Favor",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Healing Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Protection Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Smiting Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Smiting Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Smiting Prayers",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Blighter's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Bloodstained",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Bonelace",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Minion Master's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Tormentor's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Undertaker's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Blood Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Blood Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Blood Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Curses",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Death Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Soul Reaping",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Soul Reaping",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Soul Reaping",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Artificer's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Prodigy's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Virtuoso's",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Domination Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Domination Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Domination Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Fast Casting",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Illusion Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Inspiration Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Inspiration Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Inspiration Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Aeromancer",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Geomancer",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Hydromancer",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Prismatic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Insignia - Pyromancer",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Air Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Air Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Air Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Earth Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Earth Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Earth Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Energy Storage",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Fire Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Minor Water Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Major Water Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Rune of Superior Water Magic",
-        "category": [
-            "Equipment",
-            "Rune"
-        ],
-        "count": 1,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Armorer",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Consumables",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Weaponsmith",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Skill trainer",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "early": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Dye trader",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": false,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Material trader",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Rare material trader",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Rare scroll trader",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Rune trader",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
-    },
-    {
-        "name": "Merchant - Merchant",
-        "category": [
-            "Merchant"
-        ],
-        "count": 1,
-        "useful": true,
-        "progression": false
+        "progression": true
     }
 ]
