@@ -4,9 +4,6 @@
         "category": [
             "Story",
             "Ascalon (pre-Searing)"
-        ],
-        "place_item": [
-            "Tutorial"
         ]
     },
     {
@@ -15,8 +12,7 @@
             "Story",
             "Mission",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Bonus - The Great Northern Wall",
@@ -24,8 +20,7 @@
             "Story",
             "Bonus",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Mission - Fort Ranik",
@@ -504,40 +499,35 @@
         "category": [
             "Trade",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Trade for chest armor in Ascalon",
         "category": [
             "Trade",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Trade for a hand armor in Ascalon",
         "category": [
             "Trade",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Trade for a leg armor in Ascalon",
         "category": [
             "Trade",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Trade for footwear in Ascalon",
         "category": [
             "Trade",
             "Ascalon"
-        ],
-        "requires": "|Tutorial:1|"
+        ]
     },
     {
         "name": "Trade for headgear in the Northern Shiverpeaks",

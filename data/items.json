@@ -296,13 +296,5 @@
         ],
         "count": 1,
         "progression": true
-    },
-    {
-        "name": "Tutorial",
-        "category": [
-            "Tutorial"
-        ],
-        "count": 1,
-        "progression": true
     }
 ]
