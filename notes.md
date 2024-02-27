@@ -2,14 +2,12 @@
 
 ## Region requirements
 
-* Ascalon (Pre-searing): 0
-* Ascalon: 6
-* Northern Shiverpeaks: 13
-* Kryta: 19
-* Maguuma Jungle: 23
-* Crystal Desert: 32
-* Southern Shiverpeaks: 38
-* Ring of Fire Islands: 42
+* Northern Shiverpeaks: 4
+* Kryta: 6
+* Maguuma Jungle: 9
+* Crystal Desert: 14
+* Southern Shiverpeaks: 19
+* Ring of Fire Islands: 22
 
 ## Secondary Quests
 

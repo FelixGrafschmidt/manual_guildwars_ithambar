@@ -1,242 +1,13 @@
 [
     {
-        "name": "Get a Hunter's Ale from the bear hunters",
-        "category": [
-            "Misc",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Drive the Prize-Winning Hogs back into their pen.",
-        "category": [
-            "Misc",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 2",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 3",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 4",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 5",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 6",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 7",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 8",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 9",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 10",
-        "category": [
-            "Level"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Advance to Level 11",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 12",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 13",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 14",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 15",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 16",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 17",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 18",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 19",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Advance to Level 20",
-        "category": [
-            "Level"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Primary Quest - Message from a Friend",
+        "name": "Complete Tutorial",
         "category": [
             "Story",
-            "Primary Quest",
             "Ascalon (pre-Searing)"
         ],
-        "requires": []
-    },
-    {
-        "name": "Primary Quest - War Preparations",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": ""
-    },
-    {
-        "name": "Primary Quest - Class Test",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": ""
-    },
-    {
-        "name": "Primary Quest - Further Adventures",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": "|Progressive Main Story:1|"
-    },
-    {
-        "name": "Primary Quest - Unsettling Rumors",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": "|Progressive Main Story:2|"
-    },
-    {
-        "name": "Primary Quest - A Second Profession",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": "|Progressive Main Story:3|"
-    },
-    {
-        "name": "Primary Quest - The Path to Glory",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Primary Quest - Ascalon Academy",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": "|Progressive Main Story:5|"
-    },
-    {
-        "name": "Primary Quest - The Krytan Ambassador",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Primary Quest - Defend the Wall",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:7|"
+        "place_item": [
+            "Tutorial"
+        ]
     },
     {
         "name": "Mission - The Great Northern Wall",
@@ -245,7 +16,16 @@
             "Mission",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:8|"
+        "requires": "|Tutorial:1|"
+    },
+    {
+        "name": "Bonus - The Great Northern Wall",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ascalon"
+        ],
+        "requires": "|Tutorial:1|"
     },
     {
         "name": "Mission - Fort Ranik",
@@ -254,16 +34,16 @@
             "Mission",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:9|"
+        "requires": "|Progressive Main Story:1|"
     },
     {
-        "name": "Primary Quest - Ruins of Surmia",
+        "name": "Bonus - Fort Ranik",
         "category": [
             "Story",
-            "Primary Quest",
+            "Bonus",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:10|"
+        "requires": "|Progressive Main Story:1|"
     },
     {
         "name": "Mission - Ruins of Surmia",
@@ -272,7 +52,16 @@
             "Mission",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:11|"
+        "requires": "|Progressive Main Story:2|"
+    },
+    {
+        "name": "Bonus - Ruins of Surmia",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:2|"
     },
     {
         "name": "Mission - Nolani Academy",
@@ -281,16 +70,16 @@
             "Mission",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:12|"
+        "requires": "|Progressive Main Story:3|"
     },
     {
-        "name": "Primary Quest - The Way is Blocked",
+        "name": "Bonus - Nolani Academy",
         "category": [
             "Story",
-            "Primary Quest",
-            "Northern Shiverpeaks"
+            "Bonus",
+            "Ascalon"
         ],
-        "requires": "|Progressive Main Story:13|"
+        "requires": "|Progressive Main Story:3|"
     },
     {
         "name": "Mission - Borlis Pass",
@@ -299,7 +88,16 @@
             "Mission",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:14|"
+        "requires": "|Progressive Main Story:4|"
+    },
+    {
+        "name": "Bonus - Borlis Pass",
+        "category": [
+            "Story",
+            "Bonus",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:4|"
     },
     {
         "name": "Mission - The Frost Gate",
@@ -308,34 +106,16 @@
             "Mission",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:15|"
+        "requires": "|Progressive Main Story:5|"
     },
     {
-        "name": "Primary Quest - To Kryta: Refugees",
+        "name": "Bonus - The Frost Gate",
         "category": [
             "Story",
-            "Primary Quest",
+            "Bonus",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:16|"
-    },
-    {
-        "name": "Primary Quest - To Kryta: The Ice Cave",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:17|"
-    },
-    {
-        "name": "Primary Quest - To Kryta: Journey's End",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:18|"
+        "requires": "|Progressive Main Story:5|"
     },
     {
         "name": "Mission - Gates of Kryta",
@@ -344,16 +124,16 @@
             "Mission",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:19|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Primary Quest - Report to the White Mantle",
+        "name": "Bonus - Gates of Kryta",
         "category": [
             "Story",
-            "Primary Quest",
+            "Bonus",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:20|"
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Mission - D'Alessio Seaboard",
@@ -362,7 +142,16 @@
             "Mission",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:21|"
+        "requires": "|Progressive Main Story:7|"
+    },
+    {
+        "name": "Bonus - D'Alessio Seaboard",
+        "category": [
+            "Story",
+            "Bonus",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:7|"
     },
     {
         "name": "Mission - Divinity Coast",
@@ -371,16 +160,16 @@
             "Mission",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:22|"
+        "requires": "|Progressive Main Story:8|"
     },
     {
-        "name": "Primary Quest - A Brother's Fury",
+        "name": "Bonus - Divinity Coast",
         "category": [
             "Story",
-            "Primary Quest",
-            "Maguuma Jungle"
+            "Bonus",
+            "Kryta"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Mission - The Wilds",
@@ -389,7 +178,16 @@
             "Mission",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:24|"
+        "requires": "|Progressive Main Story:9|"
+    },
+    {
+        "name": "Bonus - The Wilds",
+        "category": [
+            "Story",
+            "Bonus",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:9|"
     },
     {
         "name": "Mission - Bloodstone Fen",
@@ -398,25 +196,16 @@
             "Mission",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:25|"
+        "requires": "|Progressive Main Story:10|"
     },
     {
-        "name": "Primary Quest - White Mantle Wrath: Demagogue's Vanguard",
+        "name": "Bonus - Bloodstone Fen",
         "category": [
             "Story",
-            "Primary Quest",
+            "Bonus",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:26|"
-    },
-    {
-        "name": "Primary Quest - White Mantle Wrath: A Helping Hand OR Urgent Warning",
-        "category": [
-            "Story",
-            "Primary Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:27|"
+        "requires": "|Progressive Main Story:10|"
     },
     {
         "name": "Mission - Aurora Glade",
@@ -425,16 +214,16 @@
             "Mission",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:28|"
+        "requires": "|Progressive Main Story:11|"
     },
     {
-        "name": "Primary Quest - Passage Through The Dark River",
+        "name": "Bonus - Aurora Glade",
         "category": [
             "Story",
-            "Primary Quest",
+            "Bonus",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:29|"
+        "requires": "|Progressive Main Story:11|"
     },
     {
         "name": "Mission - Riverside Province",
@@ -443,7 +232,16 @@
             "Mission",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:30|"
+        "requires": "|Progressive Main Story:12|"
+    },
+    {
+        "name": "Bonus - Riverside Province",
+        "category": [
+            "Story",
+            "Bonus",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:12|"
     },
     {
         "name": "Mission - Sanctum Cay",
@@ -452,16 +250,16 @@
             "Mission",
             "Kryta"
         ],
-        "requires": "|Progressive Main Story:31|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
-        "name": "Primary Quest - Sands of Souls",
+        "name": "Bonus - Sanctum Cay",
         "category": [
             "Story",
-            "Primary Quest",
-            "Crystal Desert"
+            "Bonus",
+            "Kryta"
         ],
-        "requires": "|Progressive Main Story:32|"
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Mission - Dunes of Despair",
@@ -470,7 +268,16 @@
             "Mission",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:33|"
+        "requires": "|Progressive Main Story:14|"
+    },
+    {
+        "name": "Bonus - Dunes of Despair",
+        "category": [
+            "Story",
+            "Bonus",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:14|"
     },
     {
         "name": "Mission - Thirsty River",
@@ -479,7 +286,16 @@
             "Mission",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:34|"
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Bonus - Thirsty River",
+        "category": [
+            "Story",
+            "Bonus",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Mission - Elona Reach",
@@ -488,7 +304,16 @@
             "Mission",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:35|"
+        "requires": "|Progressive Main Story:16|"
+    },
+    {
+        "name": "Bonus - Elona Reach",
+        "category": [
+            "Story",
+            "Bonus",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:16|"
     },
     {
         "name": "Mission - Augury Rock",
@@ -497,7 +322,16 @@
             "Mission",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:36|"
+        "requires": "|Progressive Main Story:17|"
+    },
+    {
+        "name": "Bonus - Augury Rock",
+        "category": [
+            "Story",
+            "Bonus",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:17|"
     },
     {
         "name": "Mission - The Dragon's Lair",
@@ -506,16 +340,16 @@
             "Mission",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:37|"
+        "requires": "|Progressive Main Story:18|"
     },
     {
-        "name": "Primary Quest - Seeking the Seer",
+        "name": "Bonus - The Dragon's Lair",
         "category": [
             "Story",
-            "Primary Quest",
-            "Southern Shiverpeaks"
+            "Bonus",
+            "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:38|"
+        "requires": "|Progressive Main Story:18|"
     },
     {
         "name": "Mission - Ice Caves of Sorrow",
@@ -524,7 +358,16 @@
             "Mission",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:39|"
+        "requires": "|Progressive Main Story:19|"
+    },
+    {
+        "name": "Bonus - Ice Caves of Sorrow",
+        "category": [
+            "Story",
+            "Bonus",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Mission - Iron Mines of Moladune",
@@ -533,7 +376,16 @@
             "Mission",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:40|"
+        "requires": "|Progressive Main Story:20|"
+    },
+    {
+        "name": "Bonus - Iron Mines of Moladune",
+        "category": [
+            "Story",
+            "Bonus",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:20|"
     },
     {
         "name": "Mission - Thunderhead Keep",
@@ -542,16 +394,16 @@
             "Mission",
             "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:41|"
+        "requires": "|Progressive Main Story:21|"
     },
     {
-        "name": "Primary Quest - Final Blow",
+        "name": "Bonus - Thunderhead Keep",
         "category": [
             "Story",
-            "Primary Quest",
-            "Ring of Fire Islands"
+            "Bonus",
+            "Southern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:42|"
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Mission - Ring of Fire",
@@ -560,7 +412,16 @@
             "Mission",
             "Ring of Fire Islands"
         ],
-        "requires": "|Progressive Main Story:43|"
+        "requires": "|Progressive Main Story:22|"
+    },
+    {
+        "name": "Bonus - Ring of Fire",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:22|"
     },
     {
         "name": "Mission - Abaddon's Mouth",
@@ -569,7 +430,16 @@
             "Mission",
             "Ring of Fire Islands"
         ],
-        "requires": "|Progressive Main Story:44|"
+        "requires": "|Progressive Main Story:23|"
+    },
+    {
+        "name": "Bonus - Abaddon's Mouth",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Mission - Hell's Precipice",
@@ -578,7 +448,7 @@
             "Mission",
             "Ring of Fire Islands"
         ],
-        "requires": "|Progressive Main Story:45|",
+        "requires": "|Progressive Main Story:24|",
         "place_item": [
             "Victory"
         ]
@@ -595,2411 +465,230 @@
         ]
     },
     {
-        "name": "Complete 1 Secondary Quest - Ascalon pre-Searing",
+        "name": "Trade for headgear in Ascalon (pre-Searing)",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon (pre-Searing)"
-        ],
-        "requires": []
+        ]
     },
     {
-        "name": "Complete 2 Secondary Quests - Ascalon pre-Searing",
+        "name": "Trade for chest armor in Ascalon (pre-Searing)",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon (pre-Searing)"
-        ],
-        "requires": []
+        ]
     },
     {
-        "name": "Complete 3 Secondary Quests - Ascalon pre-Searing",
+        "name": "Trade for a hand armor in Ascalon (pre-Searing)",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon (pre-Searing)"
-        ],
-        "requires": []
+        ]
     },
     {
-        "name": "Complete 4 Secondary Quests - Ascalon pre-Searing",
+        "name": "Trade for a leg armor in Ascalon (pre-Searing)",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon (pre-Searing)"
-        ],
-        "requires": []
+        ]
     },
     {
-        "name": "Complete 5 Secondary Quests - Ascalon pre-Searing",
+        "name": "Trade for footwear in Ascalon (pre-Searing)",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon (pre-Searing)"
-        ],
-        "requires": []
+        ]
     },
     {
-        "name": "Complete 6 Secondary Quests - Ascalon pre-Searing",
+        "name": "Trade for headgear in Ascalon",
         "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 11 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 12 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 13 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 14 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 15 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 16 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 17 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 18 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 19 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 20 Secondary Quests - Ascalon pre-Searing",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Ascalon",
-        "category": [
-            "Quest",
+            "Trade",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:6|"
+        "requires": "|Tutorial:1|"
     },
     {
-        "name": "Complete 2 Secondary Quests - Ascalon",
+        "name": "Trade for chest armor in Ascalon",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:6|"
+        "requires": "|Tutorial:1|"
     },
     {
-        "name": "Complete 3 Secondary Quests - Ascalon",
+        "name": "Trade for a hand armor in Ascalon",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:6|"
+        "requires": "|Tutorial:1|"
     },
     {
-        "name": "Complete 4 Secondary Quests - Ascalon",
+        "name": "Trade for a leg armor in Ascalon",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:6|"
+        "requires": "|Tutorial:1|"
     },
     {
-        "name": "Complete 5 Secondary Quests - Ascalon",
+        "name": "Trade for footwear in Ascalon",
         "category": [
-            "Quest",
+            "Trade",
             "Ascalon"
         ],
-        "requires": "|Progressive Main Story:6|"
+        "requires": "|Tutorial:1|"
     },
     {
-        "name": "Complete 6 Secondary Quests - Ascalon",
+        "name": "Trade for headgear in the Northern Shiverpeaks",
         "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 11 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 12 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 13 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 14 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 15 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 16 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 17 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 18 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 19 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 20 Secondary Quests - Ascalon",
-        "category": [
-            "Quest",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Northern Shiverpeaks",
-        "category": [
-            "Quest",
+            "Trade",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:13|"
+        "requires": "|Progressive Main Story:4|"
     },
     {
-        "name": "Complete 2 Secondary Quests - Northern Shiverpeaks",
+        "name": "Trade for chest armor in the Northern Shiverpeaks",
         "category": [
-            "Quest",
+            "Trade",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:13|"
+        "requires": "|Progressive Main Story:4|"
     },
     {
-        "name": "Complete 3 Secondary Quests - Northern Shiverpeaks",
+        "name": "Trade for a hand armor in the Northern Shiverpeaks",
         "category": [
-            "Quest",
+            "Trade",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:13|"
+        "requires": "|Progressive Main Story:4|"
     },
     {
-        "name": "Complete 4 Secondary Quests - Northern Shiverpeaks",
+        "name": "Trade for footwear in the Northern Shiverpeaks",
         "category": [
-            "Quest",
+            "Trade",
             "Northern Shiverpeaks"
         ],
-        "requires": "|Progressive Main Story:13|"
+        "requires": "|Progressive Main Story:4|"
     },
     {
-        "name": "Complete 5 Secondary Quests - Northern Shiverpeaks",
+        "name": "Trade for headgear in Kryta",
         "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 6 Secondary Quests - Northern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Northern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Northern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Northern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Northern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Kryta",
-        "category": [
-            "Quest",
+            "Trade",
             "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 2 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 3 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 4 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 5 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 6 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 11 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 12 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 13 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 14 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 15 Secondary Quests - Kryta",
-        "category": [
-            "Quest",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Maguuma Jungle",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Complete 2 Secondary Quests - Maguuma Jungle",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Complete 3 Secondary Quests - Maguuma Jungle",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Complete 4 Secondary Quests - Maguuma Jungle",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Complete 5 Secondary Quests - Maguuma Jungle",
-        "category": [
-            "Quest",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 2 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 3 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 4 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 5 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 6 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Crystal Desert",
-        "category": [
-            "Quest",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Complete 1 Secondary Quest - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 2 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 3 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 4 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 5 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 6 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 7 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 8 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 9 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 10 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 11 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 12 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 13 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 14 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Complete 15 Secondary Quests - Southern Shiverpeaks",
-        "category": [
-            "Quest",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Ascalon City (pre-Searing)",
-        "category": [
-            "Location",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Reach Ashford Abbey",
-        "category": [
-            "Location",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Reach Foible's Fair",
-        "category": [
-            "Location",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Reach Fort Ranik (pre-Searing)",
-        "category": [
-            "Location",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Reach The Barradin Estate",
-        "category": [
-            "Location",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Reach Ascalon City",
-        "category": [
-            "Location",
-            "Ascalon"
         ],
         "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Reach Frontier Gate",
+        "name": "Trade for chest armor in Kryta",
         "category": [
-            "Location",
-            "Ascalon"
+            "Trade",
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Reach Grendich Courthouse",
+        "name": "Trade for a hand armor in Kryta",
         "category": [
-            "Location",
-            "Ascalon"
+            "Trade",
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Reach Piken Square",
+        "name": "Trade for a leg armor in Kryta",
         "category": [
-            "Location",
-            "Ascalon"
+            "Trade",
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Reach Sardelac Sanitarium",
+        "name": "Trade for footwear in Kryta",
         "category": [
-            "Location",
-            "Ascalon"
+            "Trade",
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:6|"
     },
     {
-        "name": "Reach Serenity Temple",
+        "name": "Trade for headgear in Maguuma Jungle",
         "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach Fort Ranik",
-        "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach Nolani Academy",
-        "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach Ruins of Surmia",
-        "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach The Great Northern Wall",
-        "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach Ascalon Arena",
-        "category": [
-            "Location",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Reach Beacon's Perch",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach Ice Tooth Cave",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach Yak's Bend",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach Borlis Pass",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach The Frost Gate",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach Shiverpeak Arena",
-        "category": [
-            "Location",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Reach Lion's Arch",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Beetletun",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Bergen Hot Springs",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Fishermen's Haven",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Temple of the Ages",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach D'Alessio Seaboard",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Divinity Coast",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Gates of Kryta",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Riverside Province",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Sanctum Cay",
-        "category": [
-            "Location",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Reach Henge of Denravi",
-        "category": [
-            "Location",
+            "Trade",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:9|"
     },
     {
-        "name": "Reach Druid's Overlook",
+        "name": "Trade for chest armor in Maguuma Jungle",
         "category": [
-            "Location",
+            "Trade",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:9|"
     },
     {
-        "name": "Reach Maguuma Stade",
+        "name": "Trade for a hand armor in Maguuma Jungle",
         "category": [
-            "Location",
+            "Trade",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:9|"
     },
     {
-        "name": "Reach Quarrel Falls",
+        "name": "Trade for a leg armor in Maguuma Jungle",
         "category": [
-            "Location",
+            "Trade",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:9|"
     },
     {
-        "name": "Reach Ventari's Refuge",
+        "name": "Trade for footwear in Maguuma Jungle",
         "category": [
-            "Location",
+            "Trade",
             "Maguuma Jungle"
         ],
-        "requires": "|Progressive Main Story:23|"
+        "requires": "|Progressive Main Story:9|"
     },
     {
-        "name": "Reach Aurora Glade",
+        "name": "Trade for headgear in Crystal Desert",
         "category": [
-            "Location",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Reach Bloodstone Fen",
-        "category": [
-            "Location",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Reach The Wilds",
-        "category": [
-            "Location",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Reach The Amnoon Oasis",
-        "category": [
-            "Location",
+            "Trade",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:32|"
+        "requires": "|Progressive Main Story:14|"
     },
     {
-        "name": "Reach Destiny's Gorge",
+        "name": "Trade for chest armor in Crystal Desert",
         "category": [
-            "Location",
+            "Trade",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:32|"
+        "requires": "|Progressive Main Story:14|"
     },
     {
-        "name": "Reach Heroes' Audience",
+        "name": "Trade for a hand armor in Crystal Desert",
         "category": [
-            "Location",
+            "Trade",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:32|"
+        "requires": "|Progressive Main Story:14|"
     },
     {
-        "name": "Reach Seeker's Passage",
+        "name": "Trade for a leg armor in Crystal Desert",
         "category": [
-            "Location",
+            "Trade",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:32|"
+        "requires": "|Progressive Main Story:14|"
     },
     {
-        "name": "Reach Tomb of the Primeval Kings",
+        "name": "Trade for footwear in Crystal Desert",
         "category": [
-            "Location",
+            "Trade",
             "Crystal Desert"
         ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach Augury Rock",
-        "category": [
-            "Location",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach Dunes of Despair",
-        "category": [
-            "Location",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach Elona Reach",
-        "category": [
-            "Location",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach Thirsty River",
-        "category": [
-            "Location",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach The Dragon's Lair",
-        "category": [
-            "Location",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Reach Droknar's Forge",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Camp Rankor",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Copperhammer Mines",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Deldrimor War Camp",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Marhan's Grotto",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Port Sledge",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach The Granite Citadel",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Ice Caves of Sorrow",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Iron Mines of Moladune",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Thunderhead Keep",
-        "category": [
-            "Location",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Reach Ember Light Camp",
-        "category": [
-            "Location",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Reach Abaddon's Mouth",
-        "category": [
-            "Location",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Reach Hell's Precipice",
-        "category": [
-            "Location",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Reach Ring of Fire",
-        "category": [
-            "Location",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Trade Skale Fins with Brownlow",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Worn Belts with Humphreys",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Baked Husks with Jacobs",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Grawl Necklaces with Kaylee",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Unnatural Seeds with Walden",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Dull Carapaces with Rownan",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Skeletal Limbs with Gwynn",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Enchanted Lodestones with Mindle",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Unnatural Seeds with Hatcher",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Spider Legs with Varis",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Gargoyle Skulls with Karleen",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Icy Lodestones with Savich",
-        "category": [
-            "Collector",
-            "Ascalon (pre-Searing)"
-        ],
-        "requires": []
-    },
-    {
-        "name": "Trade Charr Hides with Calissa Sedgwick",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scorched Seeds with Sally Kaugie",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Fetid Carapaces with Fytch",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Ornate Grawl Necklaces with Guardsman Noell",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Charr Carvings with Paige Osbourne",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Stormy Eyes with Raymon Elsworth",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scorched Lodestones with Nicanor Gannel",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Ornate Grawl Necklaces with Corwin Luceinne",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Rawhide Belts with Sir Nyman",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Singed Gargoyle Skulls with Valeria Benes",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Singed Gargoyle Skulls with Innis the White",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Fetid Carapaces with Dreaz Bowem",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scorched Lodestones with Saba Blackstone",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scorched Seeds with Penelope Hoode",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Charr Carvings with Louise Haup",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Singed Gargoyle Skulls with Lenerd Aberold",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scorched Lodestones with Martel Bastions",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Charr Carvings with Wain Hughes",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Leathery Claws with Dael",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Gruesome Ribcages with Nazag Fenn",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Scar Behemoth Jaws with Ashram Fenn",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Ornate Grawl Necklaces with Palben Tunne",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Leathery Claws with Gil Moriddan",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Fetid Carapaces with Graine Hathorn",
-        "category": [
-            "Collector",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade Curved Minotaur Horns with Maccus Ironjaw",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Frostfire Fangs with Sander the Gray",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Icy Humps with Lenn Giantsbane",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Shiverpeak Manes with Rothgar Hoofsplitter",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Frostfire Fangs with Norin Stonegrimm",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Stone Summit Badges with Asgrim Brightaxe",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Shiverpeak Manes with Pyrs Harven",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Alpine Seeds with Sadira Powell",
-        "category": [
-            "Collector",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Trade Decayed Orr Emblems with Camryn Jamison",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Leather Belts with Alton Thorne",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Bog Skale Fins with Leighton Cranford",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Feathered Caromi Scalps with Wintun the Black",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Hardened Humps with Helton Wills",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Glowing Hearts with Kira Thorne",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Mergoyle Skulls with Beldon the Blade",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Mergoyle Skulls with Milny Samhammil",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Decayed Orr Emblems with Kolleen Redstone",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Bog Skale Fins with Liris the Sage",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Abnormal Seeds with Sir Robert",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Forest Minotaur Horns with Brion Elston",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Ivory Troll Tusks with William Pennington",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Gargantuan Jawbones with Brynden Cromwell",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Spiked Crests with Arris Weston",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Abnormal Seeds with Daved Logsdon",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Thorny Carapaces with Isabaeux Navarre",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Gargantuan Jawbones with Delves the Dodgy",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Shadowy Remnants with Robin Neils",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Glowing Hearts with Jamora the Wise",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Spiked Crests with Vardis",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Forest Minotaur Horns with Ember Whisperwind",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Mergoyle Skulls with Galstaff the Light",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Glowing Hearts with Julianna Furst",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Shadowy Remnants with Ian Borish",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Mergoyle Skulls with Falhurst",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Bog Skale Fins with Gruhn the Fisher",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Feathered Caromi Scalps with Ian Sturmme",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Abnormal Seeds with Tenlach Silverhand",
-        "category": [
-            "Collector",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Trade Ancient Eyes with Vargil the White",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Jungle Troll Tusks with Crispin Bryllis",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Mossy Mandibles with Farmer Conklin",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Maguuma Manes with Lady Engelram",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Behemoth Jaws with Seris the Red",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Ancient Eyes with Orson Cooper",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Jungle Skale Fins with Serah Shaes",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Tangled Seeds with Tully Blackvine",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade White Mantle Emblems with Adam Solstrum",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Jungle Troll Tusks with Loreen Cranford",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade White Mantle Emblems with Thyfir Greenleaf",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Mossy Mandibles with Ingrid Larson",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Ebon Spider Legs with Mosreh the Exile",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Thorny Carapaces with Hember",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade White Mantle Emblems with Horton Longsnout",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Maguuma Manes with Lord Engelram",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Ebon Spider Legs with Elene the Vigilant",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Ancient Eyes with Aaron Fletcher",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Tangled Seeds with Elwynn Kirby",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Behemoth Jaws with Agrippa Stonehands",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Jungle Skale Fins with Llourdes the Arcane",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Jungle Troll Tusks with Meghan the Bright",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Tangled Seeds with Slayton Redblade",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Ancient Eyes with Jaden Fletcher",
-        "category": [
-            "Collector",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Trade Minotaur Horns with Luven Underwood",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Bleached Carapaces with Cinder Linnwood",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Iridescent Griffon Wings with Arliss Vaughn",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Topaz Crests with John Verado",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Dessicated Hydra Claws with Mourn Drakespur",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Spiny Seeds with Rylan Paval",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Dune Burrower Jaws with Sir Pohl Sanbert",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Bleached Shells with Lord Dorn Lendrigen",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Jade Mandibles with Uderit Ignis",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Massive Jawbones with Karl Jakobs",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Iridescent Griffon Wings with Kraviec the Cursed",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Encrusted Lodestones with Brandon Harlin",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Minotaur Horns with Fenster the Golden",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Dune Burrower Jaws with Gustov the Silent",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Losaru Manes with Kyle the Rich",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Bleached Carapaces with Winfield Michelson",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Jade Mandibles with Kelsay Pradist",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Shriveled Eyes with Sir Norrington",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Bleached Shells with Ardenoth Oakenshield",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Forgotten Seals with Ekimeel Trueshot",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Massive Jawbones with Sir Kaufman",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Losaru Manes with Cedric Rogers",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Dune Burrower Jaws with Jamie the Wanderer",
-        "category": [
-            "Collector",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:32|"
-    },
-    {
-        "name": "Trade Stone Summit Badges with Ornhelm Brightaxe",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Frozen Shells with Nord Stonegrimm",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Mountain Troll Tusks with Trego Stonebreaker",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Feathered Avicara Scalps with Goran Grimyak",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Alpine Seeds with Bariel Darkroot",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Azure Remains with Hoknil the Lesser",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Mountain Troll Tusks with Merin Trollsbane",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Huge Jawbones with Radamon",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Frosted Griffon Wings with Hagnon Warblade",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Emboldened Carapace Shield with Yorik Warblade",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Feathered Avicara Scalps with Volsung Stoneketil",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Frigid Hearts with Cember Goreaxe",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Intricate Grawl Necklaces with Mag Ironwall",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Alpine Seeds with Kagan Treesplitter",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Frigid Hearts with Turlo Oakenspear",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Huge Jawbones with Hoknil the Greater",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Azure Remains with Vania Sewell",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Enslavement Stones with Molenin",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Dredge Manifestos with Makar Thoughtslayer",
-        "category": [
-            "Collector",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:38|"
-    },
-    {
-        "name": "Trade Seared Ribcages with Collector Corbis",
-        "category": [
-            "Collector",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Trade Mahgo Claws with Collector Gabrian",
-        "category": [
-            "Collector",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
-    },
-    {
-        "name": "Trade Unctuous Remains with Collector Terra",
-        "category": [
-            "Collector",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:42|"
+        "requires": "|Progressive Main Story:14|"
     }
 ]
