@@ -1,10 +1,10 @@
 {
-    "Example Logic only category": {
-        "hidden": true
-    },
-    "Example Yaml-option category": {
-        "yaml_option": [
-            "DLC_enabled"
-        ]
-    }
+	"Progression": {
+		"hidden": false
+	},
+	"Factions": {
+		"yaml_option": [
+			"Factions"
+		]
+	}
 }

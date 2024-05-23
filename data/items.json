@@ -1,300 +1,307 @@
 [
-    {
-        "name": "Progressive Main Story",
-        "category": [
-            "Progression"
-        ],
-        "count": 30,
-        "progression": true
-    },
-    {
-        "name": "Class - Mesmer",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Class - Warrior",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Class - Monk",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Class - Ranger",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Class - Elementalist",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Class - Necromancer",
-        "category": [
-            "Base Class"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Fast Casting",
-        "category": [
-            "Attributes",
-            "Mesmer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Domination Magic",
-        "category": [
-            "Attributes",
-            "Mesmer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Illusion Magic",
-        "category": [
-            "Attributes",
-            "Mesmer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Inspiration Magic",
-        "category": [
-            "Attributes",
-            "Mesmer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Strength",
-        "category": [
-            "Attributes",
-            "Warrior Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Axe Mastery",
-        "category": [
-            "Attributes",
-            "Warrior Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Hammer Mastery",
-        "category": [
-            "Attributes",
-            "Warrior Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Swordsmanship",
-        "category": [
-            "Attributes",
-            "Warrior Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Tactics",
-        "category": [
-            "Attributes",
-            "Warrior Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Expertise",
-        "category": [
-            "Attributes",
-            "Ranger Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Beast Mastery",
-        "category": [
-            "Attributes",
-            "Ranger Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Marksmanship",
-        "category": [
-            "Attributes",
-            "Ranger Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Wilderness Survival",
-        "category": [
-            "Attributes",
-            "Ranger Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Divine Favor",
-        "category": [
-            "Attributes",
-            "Monk Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Healing Prayers",
-        "category": [
-            "Attributes",
-            "Monk Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Smiting Prayers",
-        "category": [
-            "Attributes",
-            "Monk Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Protection Prayers",
-        "category": [
-            "Attributes",
-            "Monk Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Soul Reaping",
-        "category": [
-            "Attributes",
-            "Necromancer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Curses",
-        "category": [
-            "Attributes",
-            "Necromancer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Blood Magic",
-        "category": [
-            "Attributes",
-            "Necromancer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Death Magic",
-        "category": [
-            "Attributes",
-            "Necromancer Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Energy Storage",
-        "category": [
-            "Attributes",
-            "Elementalist Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Air Magic",
-        "category": [
-            "Attributes",
-            "Elementalist Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Earth Magic",
-        "category": [
-            "Attributes",
-            "Elementalist Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Fire Magic",
-        "category": [
-            "Attributes",
-            "Elementalist Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Attribute - Water Magic",
-        "category": [
-            "Attributes",
-            "Elementalist Attributes"
-        ],
-        "count": 1,
-        "progression": true
-    },
-    {
-        "name": "Victory",
-        "category": [
-            "Victory"
-        ],
-        "count": 1,
-        "progression": true
-    }
+	{
+		"name": "Signet of Capture",
+		"category": [],
+		"count": 1,
+		"progression": false
+	},
+	{
+		"name": "Progressive Main Story",
+		"category": [
+			"Progression",
+			"Factions"
+		],
+		"count": 30,
+		"progression": true
+	},
+	{
+		"name": "Class - Mesmer",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Warrior",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Monk",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Ranger",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Elementalist",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Necromancer",
+		"category": [
+			"Base Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Fast Casting",
+		"category": [
+			"Attributes",
+			"Mesmer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Domination Magic",
+		"category": [
+			"Attributes",
+			"Mesmer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Illusion Magic",
+		"category": [
+			"Attributes",
+			"Mesmer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Inspiration Magic",
+		"category": [
+			"Attributes",
+			"Mesmer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Strength",
+		"category": [
+			"Attributes",
+			"Warrior Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Axe Mastery",
+		"category": [
+			"Attributes",
+			"Warrior Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Hammer Mastery",
+		"category": [
+			"Attributes",
+			"Warrior Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Swordsmanship",
+		"category": [
+			"Attributes",
+			"Warrior Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Tactics",
+		"category": [
+			"Attributes",
+			"Warrior Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Expertise",
+		"category": [
+			"Attributes",
+			"Ranger Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Beast Mastery",
+		"category": [
+			"Attributes",
+			"Ranger Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Marksmanship",
+		"category": [
+			"Attributes",
+			"Ranger Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Wilderness Survival",
+		"category": [
+			"Attributes",
+			"Ranger Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Divine Favor",
+		"category": [
+			"Attributes",
+			"Monk Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Healing Prayers",
+		"category": [
+			"Attributes",
+			"Monk Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Smiting Prayers",
+		"category": [
+			"Attributes",
+			"Monk Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Protection Prayers",
+		"category": [
+			"Attributes",
+			"Monk Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Soul Reaping",
+		"category": [
+			"Attributes",
+			"Necromancer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Curses",
+		"category": [
+			"Attributes",
+			"Necromancer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Blood Magic",
+		"category": [
+			"Attributes",
+			"Necromancer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Death Magic",
+		"category": [
+			"Attributes",
+			"Necromancer Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Energy Storage",
+		"category": [
+			"Attributes",
+			"Elementalist Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Air Magic",
+		"category": [
+			"Attributes",
+			"Elementalist Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Earth Magic",
+		"category": [
+			"Attributes",
+			"Elementalist Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Fire Magic",
+		"category": [
+			"Attributes",
+			"Elementalist Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Water Magic",
+		"category": [
+			"Attributes",
+			"Elementalist Attributes"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Victory",
+		"category": [
+			"Victory"
+		],
+		"count": 1,
+		"progression": true
+	}
 ]

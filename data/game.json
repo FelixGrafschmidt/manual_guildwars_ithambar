@@ -1,77 +1,77 @@
 {
-  "game": "GuildWars",
-  "creator": "Ithambar",
-  "filler_item_name": "Signet of Capture",
-  "starting_items": [
-    {
-      "items": [
-        "Attribute - Fast Casting",
-        "Attribute - Strength",
-        "Attribute - Expertise",
-        "Attribute - Divine Favor",
-        "Attribute - Soul Reaping",
-        "Attribute - Energy Storage"
-      ]
-    },
-    {
-      "item_categories": [
-        "Base Class"
-      ],
-      "random": 2
-    },
-    {
-      "if_previous_item": [
-        "Class - Warrior"
-      ],
-      "item_categories": [
-        "Warrior Attributes"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Class - Ranger"
-      ],
-      "item_categories": [
-        "Ranger Attributes"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Class - Monk"
-      ],
-      "item_categories": [
-        "Monk Attributes"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Class - Necromancer"
-      ],
-      "item_categories": [
-        "Necromancer Attributes"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Class - Mesmer"
-      ],
-      "item_categories": [
-        "Mesmer Attributes"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Class - Elementalist"
-      ],
-      "item_categories": [
-        "Elementalist Attributes"
-      ],
-      "random": 1
-    }
-  ]
+	"game": "GuildWars",
+	"creator": "Ithambar",
+	"filler_item_name": "Signet of Capture",
+	"starting_items": [
+		{
+			"items": [
+				"Attribute - Fast Casting",
+				"Attribute - Strength",
+				"Attribute - Expertise",
+				"Attribute - Divine Favor",
+				"Attribute - Soul Reaping",
+				"Attribute - Energy Storage"
+			]
+		},
+		{
+			"item_categories": [
+				"Base Class"
+			],
+			"random": 2
+		},
+		{
+			"if_previous_item": [
+				"Class - Warrior"
+			],
+			"item_categories": [
+				"Warrior Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Ranger"
+			],
+			"item_categories": [
+				"Ranger Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Monk"
+			],
+			"item_categories": [
+				"Monk Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Necromancer"
+			],
+			"item_categories": [
+				"Necromancer Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Mesmer"
+			],
+			"item_categories": [
+				"Mesmer Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Elementalist"
+			],
+			"item_categories": [
+				"Elementalist Attributes"
+			],
+			"random": 1
+		}
+	]
 }

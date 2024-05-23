@@ -1,670 +1,670 @@
 [
-    {
-        "name": "Complete Tutorial",
-        "category": [
-            "Story",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Mission - The Great Northern Wall",
-        "category": [
-            "Story",
-            "Mission",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Bonus - The Great Northern Wall",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Mission - Fort Ranik",
-        "category": [
-            "Story",
-            "Mission",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:1|"
-    },
-    {
-        "name": "Bonus - Fort Ranik",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:1|"
-    },
-    {
-        "name": "Mission - Ruins of Surmia",
-        "category": [
-            "Story",
-            "Mission",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:2|"
-    },
-    {
-        "name": "Bonus - Ruins of Surmia",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:2|"
-    },
-    {
-        "name": "Mission - Nolani Academy",
-        "category": [
-            "Story",
-            "Mission",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:3|"
-    },
-    {
-        "name": "Bonus - Nolani Academy",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ascalon"
-        ],
-        "requires": "|Progressive Main Story:3|"
-    },
-    {
-        "name": "Mission - Borlis Pass",
-        "category": [
-            "Story",
-            "Mission",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Bonus - Borlis Pass",
-        "category": [
-            "Story",
-            "Bonus",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Mission - The Frost Gate",
-        "category": [
-            "Story",
-            "Mission",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:5|"
-    },
-    {
-        "name": "Bonus - The Frost Gate",
-        "category": [
-            "Story",
-            "Bonus",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:5|"
-    },
-    {
-        "name": "Mission - Gates of Kryta",
-        "category": [
-            "Story",
-            "Mission",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Bonus - Gates of Kryta",
-        "category": [
-            "Story",
-            "Bonus",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Mission - D'Alessio Seaboard",
-        "category": [
-            "Story",
-            "Mission",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:7|"
-    },
-    {
-        "name": "Bonus - D'Alessio Seaboard",
-        "category": [
-            "Story",
-            "Bonus",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:7|"
-    },
-    {
-        "name": "Mission - Divinity Coast",
-        "category": [
-            "Story",
-            "Mission",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Bonus - Divinity Coast",
-        "category": [
-            "Story",
-            "Bonus",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:8|"
-    },
-    {
-        "name": "Mission - The Wilds",
-        "category": [
-            "Story",
-            "Mission",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Bonus - The Wilds",
-        "category": [
-            "Story",
-            "Bonus",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Mission - Bloodstone Fen",
-        "category": [
-            "Story",
-            "Mission",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:10|"
-    },
-    {
-        "name": "Bonus - Bloodstone Fen",
-        "category": [
-            "Story",
-            "Bonus",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:10|"
-    },
-    {
-        "name": "Mission - Aurora Glade",
-        "category": [
-            "Story",
-            "Mission",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:11|"
-    },
-    {
-        "name": "Bonus - Aurora Glade",
-        "category": [
-            "Story",
-            "Bonus",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:11|"
-    },
-    {
-        "name": "Mission - Riverside Province",
-        "category": [
-            "Story",
-            "Mission",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:12|"
-    },
-    {
-        "name": "Bonus - Riverside Province",
-        "category": [
-            "Story",
-            "Bonus",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:12|"
-    },
-    {
-        "name": "Mission - Sanctum Cay",
-        "category": [
-            "Story",
-            "Mission",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Bonus - Sanctum Cay",
-        "category": [
-            "Story",
-            "Bonus",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:13|"
-    },
-    {
-        "name": "Mission - Dunes of Despair",
-        "category": [
-            "Story",
-            "Mission",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Bonus - Dunes of Despair",
-        "category": [
-            "Story",
-            "Bonus",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Mission - Thirsty River",
-        "category": [
-            "Story",
-            "Mission",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:15|"
-    },
-    {
-        "name": "Bonus - Thirsty River",
-        "category": [
-            "Story",
-            "Bonus",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:15|"
-    },
-    {
-        "name": "Mission - Elona Reach",
-        "category": [
-            "Story",
-            "Mission",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:16|"
-    },
-    {
-        "name": "Bonus - Elona Reach",
-        "category": [
-            "Story",
-            "Bonus",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:16|"
-    },
-    {
-        "name": "Mission - Augury Rock",
-        "category": [
-            "Story",
-            "Mission",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:17|"
-    },
-    {
-        "name": "Bonus - Augury Rock",
-        "category": [
-            "Story",
-            "Bonus",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:17|"
-    },
-    {
-        "name": "Mission - The Dragon's Lair",
-        "category": [
-            "Story",
-            "Mission",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:18|"
-    },
-    {
-        "name": "Bonus - The Dragon's Lair",
-        "category": [
-            "Story",
-            "Bonus",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:18|"
-    },
-    {
-        "name": "Mission - Ice Caves of Sorrow",
-        "category": [
-            "Story",
-            "Mission",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Bonus - Ice Caves of Sorrow",
-        "category": [
-            "Story",
-            "Bonus",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:19|"
-    },
-    {
-        "name": "Mission - Iron Mines of Moladune",
-        "category": [
-            "Story",
-            "Mission",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:20|"
-    },
-    {
-        "name": "Bonus - Iron Mines of Moladune",
-        "category": [
-            "Story",
-            "Bonus",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:20|"
-    },
-    {
-        "name": "Mission - Thunderhead Keep",
-        "category": [
-            "Story",
-            "Mission",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:21|"
-    },
-    {
-        "name": "Bonus - Thunderhead Keep",
-        "category": [
-            "Story",
-            "Bonus",
-            "Southern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:21|"
-    },
-    {
-        "name": "Mission - Ring of Fire",
-        "category": [
-            "Story",
-            "Mission",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:22|"
-    },
-    {
-        "name": "Bonus - Ring of Fire",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:22|"
-    },
-    {
-        "name": "Mission - Abaddon's Mouth",
-        "category": [
-            "Story",
-            "Mission",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Bonus - Abaddon's Mouth",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:23|"
-    },
-    {
-        "name": "Mission - Hell's Precipice",
-        "category": [
-            "Story",
-            "Mission",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:24|",
-        "place_item": [
-            "Victory"
-        ]
-    },
-    {
-        "name": "The Lich is defeated",
-        "category": [
-            "Story",
-            "Victory"
-        ],
-        "victory": true,
-        "requires": [
-            "Victory"
-        ]
-    },
-    {
-        "name": "Trade for chest armor in Ascalon (pre-Searing)",
-        "category": [
-            "Trade",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Trade for hand armor in Ascalon (pre-Searing)",
-        "category": [
-            "Trade",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Trade for leg armor in Ascalon (pre-Searing)",
-        "category": [
-            "Trade",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Trade for footwear in Ascalon (pre-Searing)",
-        "category": [
-            "Trade",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Trade for chest armor in Ascalon",
-        "category": [
-            "Trade",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Trade for hand armor in Ascalon",
-        "category": [
-            "Trade",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Trade for leg armor in Ascalon",
-        "category": [
-            "Trade",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Trade for footwear in Ascalon",
-        "category": [
-            "Trade",
-            "Ascalon"
-        ]
-    },
-    {
-        "name": "Trade for headgear in the Northern Shiverpeaks",
-        "category": [
-            "Trade",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Trade for chest armor in the Northern Shiverpeaks",
-        "category": [
-            "Trade",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Trade for hand armor in the Northern Shiverpeaks",
-        "category": [
-            "Trade",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Trade for footwear in the Northern Shiverpeaks",
-        "category": [
-            "Trade",
-            "Northern Shiverpeaks"
-        ],
-        "requires": "|Progressive Main Story:4|"
-    },
-    {
-        "name": "Trade for headgear in Kryta",
-        "category": [
-            "Trade",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade for chest armor in Kryta",
-        "category": [
-            "Trade",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade for hand armor in Kryta",
-        "category": [
-            "Trade",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade for leg armor in Kryta",
-        "category": [
-            "Trade",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade for footwear in Kryta",
-        "category": [
-            "Trade",
-            "Kryta"
-        ],
-        "requires": "|Progressive Main Story:6|"
-    },
-    {
-        "name": "Trade for headgear in Maguuma Jungle",
-        "category": [
-            "Trade",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Trade for chest armor in Maguuma Jungle",
-        "category": [
-            "Trade",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Trade for hand armor in Maguuma Jungle",
-        "category": [
-            "Trade",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Trade for leg armor in Maguuma Jungle",
-        "category": [
-            "Trade",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Trade for footwear in Maguuma Jungle",
-        "category": [
-            "Trade",
-            "Maguuma Jungle"
-        ],
-        "requires": "|Progressive Main Story:9|"
-    },
-    {
-        "name": "Trade for headgear in Crystal Desert",
-        "category": [
-            "Trade",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Trade for chest armor in Crystal Desert",
-        "category": [
-            "Trade",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Trade for hand armor in Crystal Desert",
-        "category": [
-            "Trade",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Trade for leg armor in Crystal Desert",
-        "category": [
-            "Trade",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    },
-    {
-        "name": "Trade for footwear in Crystal Desert",
-        "category": [
-            "Trade",
-            "Crystal Desert"
-        ],
-        "requires": "|Progressive Main Story:14|"
-    }
+	{
+		"name": "Complete Tutorial",
+		"category": [
+			"Story",
+			"Ascalon (pre-Searing)"
+		]
+	},
+	{
+		"name": "Mission - The Great Northern Wall",
+		"category": [
+			"Story",
+			"Mission",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Bonus - The Great Northern Wall",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Mission - Fort Ranik",
+		"category": [
+			"Story",
+			"Mission",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:1|"
+	},
+	{
+		"name": "Bonus - Fort Ranik",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:1|"
+	},
+	{
+		"name": "Mission - Ruins of Surmia",
+		"category": [
+			"Story",
+			"Mission",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:2|"
+	},
+	{
+		"name": "Bonus - Ruins of Surmia",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:2|"
+	},
+	{
+		"name": "Mission - Nolani Academy",
+		"category": [
+			"Story",
+			"Mission",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:3|"
+	},
+	{
+		"name": "Bonus - Nolani Academy",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ascalon"
+		],
+		"requires": "|Progressive Main Story:3|"
+	},
+	{
+		"name": "Mission - Borlis Pass",
+		"category": [
+			"Story",
+			"Mission",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Bonus - Borlis Pass",
+		"category": [
+			"Story",
+			"Bonus",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Mission - The Frost Gate",
+		"category": [
+			"Story",
+			"Mission",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:5|"
+	},
+	{
+		"name": "Bonus - The Frost Gate",
+		"category": [
+			"Story",
+			"Bonus",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:5|"
+	},
+	{
+		"name": "Mission - Gates of Kryta",
+		"category": [
+			"Story",
+			"Mission",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Bonus - Gates of Kryta",
+		"category": [
+			"Story",
+			"Bonus",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Mission - D'Alessio Seaboard",
+		"category": [
+			"Story",
+			"Mission",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:7|"
+	},
+	{
+		"name": "Bonus - D'Alessio Seaboard",
+		"category": [
+			"Story",
+			"Bonus",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:7|"
+	},
+	{
+		"name": "Mission - Divinity Coast",
+		"category": [
+			"Story",
+			"Mission",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:8|"
+	},
+	{
+		"name": "Bonus - Divinity Coast",
+		"category": [
+			"Story",
+			"Bonus",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:8|"
+	},
+	{
+		"name": "Mission - The Wilds",
+		"category": [
+			"Story",
+			"Mission",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Bonus - The Wilds",
+		"category": [
+			"Story",
+			"Bonus",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Mission - Bloodstone Fen",
+		"category": [
+			"Story",
+			"Mission",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:10|"
+	},
+	{
+		"name": "Bonus - Bloodstone Fen",
+		"category": [
+			"Story",
+			"Bonus",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:10|"
+	},
+	{
+		"name": "Mission - Aurora Glade",
+		"category": [
+			"Story",
+			"Mission",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:11|"
+	},
+	{
+		"name": "Bonus - Aurora Glade",
+		"category": [
+			"Story",
+			"Bonus",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:11|"
+	},
+	{
+		"name": "Mission - Riverside Province",
+		"category": [
+			"Story",
+			"Mission",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:12|"
+	},
+	{
+		"name": "Bonus - Riverside Province",
+		"category": [
+			"Story",
+			"Bonus",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:12|"
+	},
+	{
+		"name": "Mission - Sanctum Cay",
+		"category": [
+			"Story",
+			"Mission",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:13|"
+	},
+	{
+		"name": "Bonus - Sanctum Cay",
+		"category": [
+			"Story",
+			"Bonus",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:13|"
+	},
+	{
+		"name": "Mission - Dunes of Despair",
+		"category": [
+			"Story",
+			"Mission",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Bonus - Dunes of Despair",
+		"category": [
+			"Story",
+			"Bonus",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Mission - Thirsty River",
+		"category": [
+			"Story",
+			"Mission",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:15|"
+	},
+	{
+		"name": "Bonus - Thirsty River",
+		"category": [
+			"Story",
+			"Bonus",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:15|"
+	},
+	{
+		"name": "Mission - Elona Reach",
+		"category": [
+			"Story",
+			"Mission",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:16|"
+	},
+	{
+		"name": "Bonus - Elona Reach",
+		"category": [
+			"Story",
+			"Bonus",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:16|"
+	},
+	{
+		"name": "Mission - Augury Rock",
+		"category": [
+			"Story",
+			"Mission",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:17|"
+	},
+	{
+		"name": "Bonus - Augury Rock",
+		"category": [
+			"Story",
+			"Bonus",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:17|"
+	},
+	{
+		"name": "Mission - The Dragon's Lair",
+		"category": [
+			"Story",
+			"Mission",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:18|"
+	},
+	{
+		"name": "Bonus - The Dragon's Lair",
+		"category": [
+			"Story",
+			"Bonus",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:18|"
+	},
+	{
+		"name": "Mission - Ice Caves of Sorrow",
+		"category": [
+			"Story",
+			"Mission",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:19|"
+	},
+	{
+		"name": "Bonus - Ice Caves of Sorrow",
+		"category": [
+			"Story",
+			"Bonus",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:19|"
+	},
+	{
+		"name": "Mission - Iron Mines of Moladune",
+		"category": [
+			"Story",
+			"Mission",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:20|"
+	},
+	{
+		"name": "Bonus - Iron Mines of Moladune",
+		"category": [
+			"Story",
+			"Bonus",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:20|"
+	},
+	{
+		"name": "Mission - Thunderhead Keep",
+		"category": [
+			"Story",
+			"Mission",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:21|"
+	},
+	{
+		"name": "Bonus - Thunderhead Keep",
+		"category": [
+			"Story",
+			"Bonus",
+			"Southern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:21|"
+	},
+	{
+		"name": "Mission - Ring of Fire",
+		"category": [
+			"Story",
+			"Mission",
+			"Ring of Fire Islands"
+		],
+		"requires": "|Progressive Main Story:22|"
+	},
+	{
+		"name": "Bonus - Ring of Fire",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ring of Fire Islands"
+		],
+		"requires": "|Progressive Main Story:22|"
+	},
+	{
+		"name": "Mission - Abaddon's Mouth",
+		"category": [
+			"Story",
+			"Mission",
+			"Ring of Fire Islands"
+		],
+		"requires": "|Progressive Main Story:23|"
+	},
+	{
+		"name": "Bonus - Abaddon's Mouth",
+		"category": [
+			"Story",
+			"Bonus",
+			"Ring of Fire Islands"
+		],
+		"requires": "|Progressive Main Story:23|"
+	},
+	{
+		"name": "Mission - Hell's Precipice",
+		"category": [
+			"Story",
+			"Mission",
+			"Ring of Fire Islands"
+		],
+		"requires": "|Progressive Main Story:24|",
+		"place_item": [
+			"Victory"
+		]
+	},
+	{
+		"name": "The Lich is defeated",
+		"category": [
+			"Story",
+			"Victory"
+		],
+		"victory": true,
+		"requires": [
+			"Victory"
+		]
+	},
+	{
+		"name": "Trade for chest armor in Ascalon (pre-Searing)",
+		"category": [
+			"Trade",
+			"Ascalon (pre-Searing)"
+		]
+	},
+	{
+		"name": "Trade for hand armor in Ascalon (pre-Searing)",
+		"category": [
+			"Trade",
+			"Ascalon (pre-Searing)"
+		]
+	},
+	{
+		"name": "Trade for leg armor in Ascalon (pre-Searing)",
+		"category": [
+			"Trade",
+			"Ascalon (pre-Searing)"
+		]
+	},
+	{
+		"name": "Trade for footwear in Ascalon (pre-Searing)",
+		"category": [
+			"Trade",
+			"Ascalon (pre-Searing)"
+		]
+	},
+	{
+		"name": "Trade for chest armor in Ascalon",
+		"category": [
+			"Trade",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Trade for hand armor in Ascalon",
+		"category": [
+			"Trade",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Trade for leg armor in Ascalon",
+		"category": [
+			"Trade",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Trade for footwear in Ascalon",
+		"category": [
+			"Trade",
+			"Ascalon"
+		]
+	},
+	{
+		"name": "Trade for headgear in the Northern Shiverpeaks",
+		"category": [
+			"Trade",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Trade for chest armor in the Northern Shiverpeaks",
+		"category": [
+			"Trade",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Trade for hand armor in the Northern Shiverpeaks",
+		"category": [
+			"Trade",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Trade for footwear in the Northern Shiverpeaks",
+		"category": [
+			"Trade",
+			"Northern Shiverpeaks"
+		],
+		"requires": "|Progressive Main Story:4|"
+	},
+	{
+		"name": "Trade for headgear in Kryta",
+		"category": [
+			"Trade",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Trade for chest armor in Kryta",
+		"category": [
+			"Trade",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Trade for hand armor in Kryta",
+		"category": [
+			"Trade",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Trade for leg armor in Kryta",
+		"category": [
+			"Trade",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Trade for footwear in Kryta",
+		"category": [
+			"Trade",
+			"Kryta"
+		],
+		"requires": "|Progressive Main Story:6|"
+	},
+	{
+		"name": "Trade for headgear in Maguuma Jungle",
+		"category": [
+			"Trade",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Trade for chest armor in Maguuma Jungle",
+		"category": [
+			"Trade",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Trade for hand armor in Maguuma Jungle",
+		"category": [
+			"Trade",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Trade for leg armor in Maguuma Jungle",
+		"category": [
+			"Trade",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Trade for footwear in Maguuma Jungle",
+		"category": [
+			"Trade",
+			"Maguuma Jungle"
+		],
+		"requires": "|Progressive Main Story:9|"
+	},
+	{
+		"name": "Trade for headgear in Crystal Desert",
+		"category": [
+			"Trade",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Trade for chest armor in Crystal Desert",
+		"category": [
+			"Trade",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Trade for hand armor in Crystal Desert",
+		"category": [
+			"Trade",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Trade for leg armor in Crystal Desert",
+		"category": [
+			"Trade",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	},
+	{
+		"name": "Trade for footwear in Crystal Desert",
+		"category": [
+			"Trade",
+			"Crystal Desert"
+		],
+		"requires": "|Progressive Main Story:14|"
+	}
 ]
