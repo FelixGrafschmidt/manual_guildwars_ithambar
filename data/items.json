@@ -1,15 +1,8 @@
 [
 	{
-		"name": "Signet of Capture",
-		"category": [],
-		"count": 1,
-		"progression": false
-	},
-	{
 		"name": "Progressive Main Story",
 		"category": [
-			"Progression",
-			"Factions"
+			"Progression"
 		],
 		"count": 30,
 		"progression": true
