@@ -13,13 +13,13 @@ from .Game import game_name, filler_item_name, starting_items
 from .Meta import world_description, world_webworld, enable_region_diagram
 from .Locations import location_id_to_name, location_name_to_id, location_name_to_location, location_name_groups, victory_names
 from .Items import item_id_to_name, item_name_to_id, item_name_to_item, item_name_groups
-from .DataValidation import runGenerationDataValidation
+from .DataValidation import runGenerationDataValidation, runPreFillDataValidation
 
 from .Regions import create_regions
 from .Items import ManualItem
 from .Rules import set_rules
 from .Options import manual_options_data
-from .Helpers import is_option_enabled, is_item_enabled, get_option_value
+from .Helpers import is_option_enabled, is_item_enabled, get_option_value, get_items_for_player
 
 from BaseClasses import ItemClassification, Tutorial, Item
 from Options import PerGameCommonOptions
@@ -298,6 +298,10 @@ class ManualWorld(World):
             from Utils import visualize_regions
             visualize_regions(self.multiworld.get_region("Menu", self.player), f"{self.game}_{self.player}.puml")
 
+    def pre_fill(self):
+        # DataValidation after all the hooks are done but before fill
+        runPreFillDataValidation(self, self.multiworld)
+
     def fill_slot_data(self):
         slot_data = before_fill_slot_data({}, self, self.multiworld, self.player)
 
@@ -374,9 +378,10 @@ class ManualWorld(World):
         """returns the player real item count"""
         if player is None:
             player = self.player
+
         if not self.item_counts.get(player, {}) or reset:
-            real_pool = self.multiworld.get_items()
-            self.item_counts[player] = {i.name: real_pool.count(i) for i in real_pool if i.player == player}
+            real_pool = get_items_for_player(self.multiworld, player, True)
+            self.item_counts[player] = {i.name: real_pool.count(i) for i in real_pool}
         return self.item_counts.get(player)
 
     def client_data(self):
@@ -386,7 +391,7 @@ class ManualWorld(World):
             'player_id': self.player,
             'items': self.item_name_to_item,
             'locations': self.location_name_to_location,
-            # todo: extract connections out of mutliworld.get_regions() instead, in case hooks have modified the regions.
+            # todo: extract connections out of multiworld.get_regions() instead, in case hooks have modified the regions.
             'regions': region_table,
             'categories': category_table
         }
@@ -396,8 +401,13 @@ class ManualWorld(World):
 ###
 
 def launch_client(*args):
+    import CommonClient
     from .ManualClient import launch as Main
-    launch_subprocess(Main, name="Manual client")
+
+    if CommonClient.gui_enabled:
+        launch_subprocess(Main, name="Manual client")
+    else:
+        Main()
 
 class VersionedComponent(Component):
     def __init__(self, display_name: str, script_name: Optional[str] = None, func: Optional[Callable] = None, version: int = 0, file_identifier: Optional[Callable[[str], bool]] = None):
@@ -405,7 +415,7 @@ class VersionedComponent(Component):
         self.version = version
 
 def add_client_to_launcher() -> None:
-    version = 2024_04_10 # YYYYMMDD
+    version = 2024_07_10 # YYYYMMDD
     found = False
     for c in components:
         if c.display_name == "Manual Client":
