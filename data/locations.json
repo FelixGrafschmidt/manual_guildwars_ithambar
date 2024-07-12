@@ -2,6 +2,7 @@
 	{
 		"name": "Complete Tutorial",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Ascalon (pre-Searing)"
 		]
@@ -9,6 +10,7 @@
 	{
 		"name": "Mission - The Great Northern Wall",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ascalon"
@@ -17,6 +19,7 @@
 	{
 		"name": "Bonus - The Great Northern Wall",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ascalon"
@@ -25,6 +28,7 @@
 	{
 		"name": "Mission - Fort Ranik",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ascalon"
@@ -34,6 +38,7 @@
 	{
 		"name": "Bonus - Fort Ranik",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ascalon"
@@ -43,6 +48,7 @@
 	{
 		"name": "Mission - Ruins of Surmia",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ascalon"
@@ -52,6 +58,7 @@
 	{
 		"name": "Bonus - Ruins of Surmia",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ascalon"
@@ -61,6 +68,7 @@
 	{
 		"name": "Mission - Nolani Academy",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ascalon"
@@ -70,6 +78,7 @@
 	{
 		"name": "Bonus - Nolani Academy",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ascalon"
@@ -79,6 +88,7 @@
 	{
 		"name": "Mission - Borlis Pass",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Northern Shiverpeaks"
@@ -88,6 +98,7 @@
 	{
 		"name": "Bonus - Borlis Pass",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Northern Shiverpeaks"
@@ -97,6 +108,7 @@
 	{
 		"name": "Mission - The Frost Gate",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Northern Shiverpeaks"
@@ -106,6 +118,7 @@
 	{
 		"name": "Bonus - The Frost Gate",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Northern Shiverpeaks"
@@ -115,6 +128,7 @@
 	{
 		"name": "Mission - Gates of Kryta",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Kryta"
@@ -124,6 +138,7 @@
 	{
 		"name": "Bonus - Gates of Kryta",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Kryta"
@@ -133,6 +148,7 @@
 	{
 		"name": "Mission - D'Alessio Seaboard",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Kryta"
@@ -142,6 +158,7 @@
 	{
 		"name": "Bonus - D'Alessio Seaboard",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Kryta"
@@ -151,6 +168,7 @@
 	{
 		"name": "Mission - Divinity Coast",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Kryta"
@@ -160,6 +178,7 @@
 	{
 		"name": "Bonus - Divinity Coast",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Kryta"
@@ -169,6 +188,7 @@
 	{
 		"name": "Mission - The Wilds",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Maguuma Jungle"
@@ -178,6 +198,7 @@
 	{
 		"name": "Bonus - The Wilds",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Maguuma Jungle"
@@ -187,6 +208,7 @@
 	{
 		"name": "Mission - Bloodstone Fen",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Maguuma Jungle"
@@ -196,6 +218,7 @@
 	{
 		"name": "Bonus - Bloodstone Fen",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Maguuma Jungle"
@@ -205,6 +228,7 @@
 	{
 		"name": "Mission - Aurora Glade",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Maguuma Jungle"
@@ -214,6 +238,7 @@
 	{
 		"name": "Bonus - Aurora Glade",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Maguuma Jungle"
@@ -223,6 +248,7 @@
 	{
 		"name": "Mission - Riverside Province",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Kryta"
@@ -232,6 +258,7 @@
 	{
 		"name": "Bonus - Riverside Province",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Kryta"
@@ -241,6 +268,7 @@
 	{
 		"name": "Mission - Sanctum Cay",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Kryta"
@@ -250,6 +278,7 @@
 	{
 		"name": "Bonus - Sanctum Cay",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Kryta"
@@ -259,6 +288,7 @@
 	{
 		"name": "Mission - Dunes of Despair",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Crystal Desert"
@@ -268,6 +298,7 @@
 	{
 		"name": "Bonus - Dunes of Despair",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Crystal Desert"
@@ -277,6 +308,7 @@
 	{
 		"name": "Mission - Thirsty River",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Crystal Desert"
@@ -286,6 +318,7 @@
 	{
 		"name": "Bonus - Thirsty River",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Crystal Desert"
@@ -295,6 +328,7 @@
 	{
 		"name": "Mission - Elona Reach",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Crystal Desert"
@@ -304,6 +338,7 @@
 	{
 		"name": "Bonus - Elona Reach",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Crystal Desert"
@@ -313,6 +348,7 @@
 	{
 		"name": "Mission - Augury Rock",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Crystal Desert"
@@ -322,6 +358,7 @@
 	{
 		"name": "Bonus - Augury Rock",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Crystal Desert"
@@ -331,6 +368,7 @@
 	{
 		"name": "Mission - The Dragon's Lair",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Crystal Desert"
@@ -340,6 +378,7 @@
 	{
 		"name": "Bonus - The Dragon's Lair",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Crystal Desert"
@@ -349,6 +388,7 @@
 	{
 		"name": "Mission - Ice Caves of Sorrow",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Southern Shiverpeaks"
@@ -358,6 +398,7 @@
 	{
 		"name": "Bonus - Ice Caves of Sorrow",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Southern Shiverpeaks"
@@ -367,6 +408,7 @@
 	{
 		"name": "Mission - Iron Mines of Moladune",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Southern Shiverpeaks"
@@ -376,6 +418,7 @@
 	{
 		"name": "Bonus - Iron Mines of Moladune",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Southern Shiverpeaks"
@@ -385,6 +428,7 @@
 	{
 		"name": "Mission - Thunderhead Keep",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Southern Shiverpeaks"
@@ -394,6 +438,7 @@
 	{
 		"name": "Bonus - Thunderhead Keep",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Southern Shiverpeaks"
@@ -403,6 +448,7 @@
 	{
 		"name": "Mission - Ring of Fire",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ring of Fire Islands"
@@ -412,6 +458,7 @@
 	{
 		"name": "Bonus - Ring of Fire",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ring of Fire Islands"
@@ -421,6 +468,7 @@
 	{
 		"name": "Mission - Abaddon's Mouth",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ring of Fire Islands"
@@ -430,6 +478,7 @@
 	{
 		"name": "Bonus - Abaddon's Mouth",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Bonus",
 			"Ring of Fire Islands"
@@ -439,6 +488,7 @@
 	{
 		"name": "Mission - Hell's Precipice",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Mission",
 			"Ring of Fire Islands"
@@ -451,6 +501,7 @@
 	{
 		"name": "The Lich is defeated",
 		"category": [
+			"Prophecies",
 			"Story",
 			"Victory"
 		],
@@ -462,6 +513,7 @@
 	{
 		"name": "Trade for chest armor in Ascalon (pre-Searing)",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		]
@@ -469,6 +521,7 @@
 	{
 		"name": "Trade for hand armor in Ascalon (pre-Searing)",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		]
@@ -476,6 +529,7 @@
 	{
 		"name": "Trade for leg armor in Ascalon (pre-Searing)",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		]
@@ -483,6 +537,7 @@
 	{
 		"name": "Trade for footwear in Ascalon (pre-Searing)",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		]
@@ -490,6 +545,7 @@
 	{
 		"name": "Trade for chest armor in Ascalon",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon"
 		]
@@ -497,6 +553,7 @@
 	{
 		"name": "Trade for hand armor in Ascalon",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon"
 		]
@@ -504,6 +561,7 @@
 	{
 		"name": "Trade for leg armor in Ascalon",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon"
 		]
@@ -511,6 +569,7 @@
 	{
 		"name": "Trade for footwear in Ascalon",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Ascalon"
 		]
@@ -518,6 +577,7 @@
 	{
 		"name": "Trade for headgear in the Northern Shiverpeaks",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Northern Shiverpeaks"
 		],
@@ -526,6 +586,7 @@
 	{
 		"name": "Trade for chest armor in the Northern Shiverpeaks",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Northern Shiverpeaks"
 		],
@@ -534,6 +595,7 @@
 	{
 		"name": "Trade for hand armor in the Northern Shiverpeaks",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Northern Shiverpeaks"
 		],
@@ -542,6 +604,7 @@
 	{
 		"name": "Trade for footwear in the Northern Shiverpeaks",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Northern Shiverpeaks"
 		],
@@ -550,6 +613,7 @@
 	{
 		"name": "Trade for headgear in Kryta",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Kryta"
 		],
@@ -558,6 +622,7 @@
 	{
 		"name": "Trade for chest armor in Kryta",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Kryta"
 		],
@@ -566,6 +631,7 @@
 	{
 		"name": "Trade for hand armor in Kryta",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Kryta"
 		],
@@ -574,6 +640,7 @@
 	{
 		"name": "Trade for leg armor in Kryta",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Kryta"
 		],
@@ -582,6 +649,7 @@
 	{
 		"name": "Trade for footwear in Kryta",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Kryta"
 		],
@@ -590,6 +658,7 @@
 	{
 		"name": "Trade for headgear in Maguuma Jungle",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Maguuma Jungle"
 		],
@@ -598,6 +667,7 @@
 	{
 		"name": "Trade for chest armor in Maguuma Jungle",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Maguuma Jungle"
 		],
@@ -606,6 +676,7 @@
 	{
 		"name": "Trade for hand armor in Maguuma Jungle",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Maguuma Jungle"
 		],
@@ -614,6 +685,7 @@
 	{
 		"name": "Trade for leg armor in Maguuma Jungle",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Maguuma Jungle"
 		],
@@ -622,6 +694,7 @@
 	{
 		"name": "Trade for footwear in Maguuma Jungle",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Maguuma Jungle"
 		],
@@ -630,6 +703,7 @@
 	{
 		"name": "Trade for headgear in Crystal Desert",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Crystal Desert"
 		],
@@ -638,6 +712,7 @@
 	{
 		"name": "Trade for chest armor in Crystal Desert",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Crystal Desert"
 		],
@@ -646,6 +721,7 @@
 	{
 		"name": "Trade for hand armor in Crystal Desert",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Crystal Desert"
 		],
@@ -654,6 +730,7 @@
 	{
 		"name": "Trade for leg armor in Crystal Desert",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Crystal Desert"
 		],
@@ -662,6 +739,7 @@
 	{
 		"name": "Trade for footwear in Crystal Desert",
 		"category": [
+			"Prophecies",
 			"Trade",
 			"Crystal Desert"
 		],

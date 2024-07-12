@@ -1,6 +1,55 @@
 Manual_GuildWars_Ithambar:
   progression_balancing: 50
   accessibility: items
+  # Whether or not to include the content from Prophecies in the pool
+  # (Needed for start and end options in Prophecies to have an effect)
+  # true: Include Prophecies content
+  # false: Exclude Prophecies content
+  prophecies: "true"
+  # Whether or not to include the content from Factions in the pool
+  # (Needed for start and end options in Factions to have an effect)
+  # true: Include Factions content
+  # false: Exclude Factions content
+  factions: "true"
+  # Whether or not to include the content from Nightfall in the pool
+  # (Needed for start and end options in Nightfall to have an effect)
+  # true: Include Nightfall content
+  # false: Exclude Nightfall content
+  nightfall: "true"
+  # Whether or not to include the content from Eye of the North in the pool
+  # (Needed for start and end options in Eye of the North to have an effect)
+  # true: Include Eye of the North content
+  # false: Exclude Eye of the North content
+  eotn: "true"
+  # Which start locations should be included in the pool
+  # all: Prophecies, Factions, Nightfall
+  # prophecies: Prophecies
+  # factions: Factions
+  # nightfall: Nightfall
+  # prophecies_factions: Prophecies, Factions
+  # prophecies_nightfall: Prophecies, Nightfall
+  # factions_nightfall: Factions, Nightfall
+  start: "all"
+  # Which goals should be included in the pool
+  # all: Prophecies, Factions, Nightfall, Eye of the North
+  # prophecies: Prophecies
+  # factions: Factions
+  # nightfall: Nightfall
+  # eotn: Eye of the North
+  # prophecies_factions: Prophecies, Factions
+  # prophecies_nightfall: Prophecies, Nightfall
+  # prophecies_eotn: Prophecies, Eye of the North
+  # factions_nightfall: Factions, Nightfall
+  # factions_eotn: Factions, Eye of the North
+  # nightfall_eotn: Nightfall, Eye of the North
+  # prophecies_factions_nightfall: Prophecies, Factions, Nightfall
+  # prophecies_factions_eotn: Prophecies, Factions, Eye of the North
+  # prophecies_nightfall_eotn: Prophecies, Nightfall, Eye of the North
+  # factions_nightfall_eotn: Factions, Nightfall, Eye of the North
+  goal: "all"
+  # Whether to include the bonus from the Thirsty River mission in the pool
+  # This bonus can be extremely difficult to complete, since you might have to do it without any heroes and a very limited set of abilities.
+  thirsty_river_bonus: "true"
 description: ''
 game: Manual_GuildWars_Ithambar
 name: GW

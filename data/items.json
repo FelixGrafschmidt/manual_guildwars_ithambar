@@ -296,5 +296,75 @@
 		],
 		"count": 1,
 		"progression": true
+	},
+	{
+		"name": "Prophecies - Start",
+		"category": [
+			"Start",
+			"Prophecies",
+			"Prophecies - Start"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions - Start",
+		"category": [
+			"Start",
+			"Factions",
+			"Factions - Start"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall - Start",
+		"category": [
+			"Start",
+			"Nightfall",
+			"Nightfall - Start"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Prophecies - Goal",
+		"category": [
+			"Goal",
+			"Prophecies",
+			"Prophecies - Goal"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions - Goal",
+		"category": [
+			"Goal",
+			"Factions",
+			"Factions - Goal"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall - Goal",
+		"category": [
+			"Goal",
+			"Nightfall",
+			"Nightfall - Goal"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Eye of the North - Goal",
+		"category": [
+			"Goal",
+			"Eye of the North",
+			"Eye of the North - Goal"
+		],
+		"count": 1,
+		"progression": true
 	}
 ]
