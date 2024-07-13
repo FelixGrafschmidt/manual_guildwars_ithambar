@@ -19,46 +19,44 @@
 			"eotn"
 		]
 	},
-	"Prophecies - Start": {
+	"Prophecies Start": {
 		"yaml_option": [
-			"prophecies",
-			"|{ItemValue{YamlEnabled(start):all}} or {ItemValue{YamlEnabled(start):prophecies}} or {ItemValue{YamlEnabled(start):prophecies_factions}} or {ItemValue{YamlEnabled(start):prophecies_nightfall}}|"
+			"allow_prophecies_start"
 		]
 	},
-	"Factions - Start": {
+	"Factions Start": {
 		"yaml_option": [
-			"factions",
-			"|{ItemValue{YamlEnabled(start):all}} or {ItemValue{YamlEnabled(start):factions}} or {ItemValue{YamlEnabled(start):prophecies_factions}} or {ItemValue{YamlEnabled(start):factions_nightfall}}|"
+			"allow_factions_start"
 		]
 	},
-	"Nightfall - Start": {
+	"Nightfall Start": {
 		"yaml_option": [
-			"nightfall",
-			"|{ItemValue{YamlEnabled(start):all}} or {ItemValue{YamlEnabled(start):nightfall}} or {ItemValue{YamlEnabled(start):prophecies_nightfall}} or {ItemValue{YamlEnabled(start):factions_nightfall}}|"
+			"allow_nightfall_start"
 		]
 	},
-	"Prophecies - Goal": {
+	"Prophecies Goal": {
 		"yaml_option": [
-			"prophecies",
-			"|{ItemValue{YamlEnabled(goal):all}} or {ItemValue{YamlEnabled(goal):prophecies}} or {ItemValue{YamlEnabled(goal):prophecies_factions}} or {ItemValue{YamlEnabled(goal):prophecies_nightfall}} or {ItemValue{YamlEnabled(goal):prophecies_eotn}} or {ItemValue{YamlEnabled(goal):prophecies_factions_nightfall}} or {ItemValue{YamlEnabled(goal):prophecies_factions_eotn}} or {ItemValue{YamlEnabled(goal):prophecies_nightfall_eotn}}|"
+			"allow_prophecies_goal"
 		]
 	},
-	"Factions - Goal": {
+	"Factions Goal": {
 		"yaml_option": [
-			"factions",
-			"|{ItemValue{YamlEnabled(goal):all}} or {ItemValue{YamlEnabled(goal):factions}} or {ItemValue{YamlEnabled(goal):prophecies_factions}} or {ItemValue{YamlEnabled(goal):factions_nightfall}} or {ItemValue{YamlEnabled(goal):factions_eotn}} or {ItemValue{YamlEnabled(goal):prophecies_factions_nightfall}} or {ItemValue{YamlEnabled(goal):prophecies_factions_eotn}} or {ItemValue{YamlEnabled(goal):factions_nightfall_eotn}}|"
+			"allow_factions_goal"
 		]
 	},
-	"Nightfall - Goal": {
+	"Nightfall Goal": {
 		"yaml_option": [
-			"nightfall",
-			"|{ItemValue{YamlEnabled(goal):all}} or {ItemValue{YamlEnabled(goal):nightfall}} or {ItemValue{YamlEnabled(goal):prophecies_nightfall}} or {ItemValue{YamlEnabled(goal):factions_nightfall}} or {ItemValue{YamlEnabled(goal):nightfall_eotn}} or {ItemValue{YamlEnabled(goal):prophecies_factions_nightfall}} or {ItemValue{YamlEnabled(goal):prophecies_nightfall_eotn}} or {ItemValue{YamlEnabled(goal):factions_nightfall_eotn}}|"
+			"allow_nightfall_goal"
 		]
 	},
-	"Eye of the North - Goal": {
+	"Eye of the North Goal": {
 		"yaml_option": [
-			"eotn",
-			"|{ItemValue{YamlEnabled(goal):all}} or {ItemValue{YamlEnabled(goal):eotn}} or {ItemValue{YamlEnabled(goal):prophecies_eotn}} or {ItemValue{YamlEnabled(goal):factions_eotn}} or {ItemValue{YamlEnabled(goal):nightfall_eotn}} or {ItemValue{YamlEnabled(goal):prophecies_factions_eotnl}} or {ItemValue{YamlEnabled(goal):prophecies_nightfall_eotn}} or {ItemValue{YamlEnabled(goal):factions_nightfall_eotn}}|"
+			"allow_eotn_goal"
+		]
+	},
+	"Thirsty River Bonus": {
+		"yaml_option": [
+			"thirsty_river_bonus"
 		]
 	}
 }

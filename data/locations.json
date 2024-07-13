@@ -5,7 +5,8 @@
 			"Prophecies",
 			"Story",
 			"Ascalon (pre-Searing)"
-		]
+		],
+		"requires": "|Prophecies - Start|"
 	},
 	{
 		"name": "Mission - The Great Northern Wall",
@@ -33,7 +34,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:1|"
+		"requires": "|Progressive Prophecies Story:1|"
 	},
 	{
 		"name": "Bonus - Fort Ranik",
@@ -43,7 +44,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:1|"
+		"requires": "|Progressive Prophecies Story:1|"
 	},
 	{
 		"name": "Mission - Ruins of Surmia",
@@ -53,7 +54,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:2|"
+		"requires": "|Progressive Prophecies Story:2|"
 	},
 	{
 		"name": "Bonus - Ruins of Surmia",
@@ -63,7 +64,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:2|"
+		"requires": "|Progressive Prophecies Story:2|"
 	},
 	{
 		"name": "Mission - Nolani Academy",
@@ -73,7 +74,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:3|"
+		"requires": "|Progressive Prophecies Story:3|"
 	},
 	{
 		"name": "Bonus - Nolani Academy",
@@ -83,7 +84,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Main Story:3|"
+		"requires": "|Progressive Prophecies Story:3|"
 	},
 	{
 		"name": "Mission - Borlis Pass",
@@ -93,7 +94,7 @@
 			"Mission",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Bonus - Borlis Pass",
@@ -103,7 +104,7 @@
 			"Bonus",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Mission - The Frost Gate",
@@ -113,7 +114,7 @@
 			"Mission",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:5|"
+		"requires": "|Progressive Prophecies Story:5|"
 	},
 	{
 		"name": "Bonus - The Frost Gate",
@@ -123,7 +124,7 @@
 			"Bonus",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:5|"
+		"requires": "|Progressive Prophecies Story:5|"
 	},
 	{
 		"name": "Mission - Gates of Kryta",
@@ -133,7 +134,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Bonus - Gates of Kryta",
@@ -143,7 +144,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Mission - D'Alessio Seaboard",
@@ -153,7 +154,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:7|"
+		"requires": "|Progressive Prophecies Story:7|"
 	},
 	{
 		"name": "Bonus - D'Alessio Seaboard",
@@ -163,7 +164,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:7|"
+		"requires": "|Progressive Prophecies Story:7|"
 	},
 	{
 		"name": "Mission - Divinity Coast",
@@ -173,7 +174,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:8|"
+		"requires": "|Progressive Prophecies Story:8|"
 	},
 	{
 		"name": "Bonus - Divinity Coast",
@@ -183,7 +184,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:8|"
+		"requires": "|Progressive Prophecies Story:8|"
 	},
 	{
 		"name": "Mission - The Wilds",
@@ -193,7 +194,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Bonus - The Wilds",
@@ -203,7 +204,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Mission - Bloodstone Fen",
@@ -213,7 +214,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:10|"
+		"requires": "|Progressive Prophecies Story:10|"
 	},
 	{
 		"name": "Bonus - Bloodstone Fen",
@@ -223,7 +224,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:10|"
+		"requires": "|Progressive Prophecies Story:10|"
 	},
 	{
 		"name": "Mission - Aurora Glade",
@@ -233,7 +234,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:11|"
+		"requires": "|Progressive Prophecies Story:11|"
 	},
 	{
 		"name": "Bonus - Aurora Glade",
@@ -243,7 +244,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:11|"
+		"requires": "|Progressive Prophecies Story:11|"
 	},
 	{
 		"name": "Mission - Riverside Province",
@@ -253,7 +254,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:12|"
+		"requires": "|Progressive Prophecies Story:12|"
 	},
 	{
 		"name": "Bonus - Riverside Province",
@@ -263,7 +264,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:12|"
+		"requires": "|Progressive Prophecies Story:12|"
 	},
 	{
 		"name": "Mission - Sanctum Cay",
@@ -273,7 +274,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:13|"
+		"requires": "|Progressive Prophecies Story:13|"
 	},
 	{
 		"name": "Bonus - Sanctum Cay",
@@ -283,7 +284,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:13|"
+		"requires": "|Progressive Prophecies Story:13|"
 	},
 	{
 		"name": "Mission - Dunes of Despair",
@@ -293,7 +294,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Bonus - Dunes of Despair",
@@ -303,7 +304,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Mission - Thirsty River",
@@ -313,7 +314,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:15|"
+		"requires": "|Progressive Prophecies Story:15|"
 	},
 	{
 		"name": "Bonus - Thirsty River",
@@ -321,9 +322,10 @@
 			"Prophecies",
 			"Story",
 			"Bonus",
-			"Crystal Desert"
+			"Crystal Desert",
+			"Thirsty River Bonus"
 		],
-		"requires": "|Progressive Main Story:15|"
+		"requires": "|Progressive Prophecies Story:15|"
 	},
 	{
 		"name": "Mission - Elona Reach",
@@ -333,7 +335,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:16|"
+		"requires": "|Progressive Prophecies Story:16|"
 	},
 	{
 		"name": "Bonus - Elona Reach",
@@ -343,7 +345,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:16|"
+		"requires": "|Progressive Prophecies Story:16|"
 	},
 	{
 		"name": "Mission - Augury Rock",
@@ -353,7 +355,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:17|"
+		"requires": "|Progressive Prophecies Story:17|"
 	},
 	{
 		"name": "Bonus - Augury Rock",
@@ -363,7 +365,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:17|"
+		"requires": "|Progressive Prophecies Story:17|"
 	},
 	{
 		"name": "Mission - The Dragon's Lair",
@@ -373,7 +375,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:18|"
+		"requires": "|Progressive Prophecies Story:18|"
 	},
 	{
 		"name": "Bonus - The Dragon's Lair",
@@ -383,7 +385,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:18|"
+		"requires": "|Progressive Prophecies Story:18|"
 	},
 	{
 		"name": "Mission - Ice Caves of Sorrow",
@@ -393,7 +395,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:19|"
+		"requires": "|Progressive Prophecies Story:19|"
 	},
 	{
 		"name": "Bonus - Ice Caves of Sorrow",
@@ -403,7 +405,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:19|"
+		"requires": "|Progressive Prophecies Story:19|"
 	},
 	{
 		"name": "Mission - Iron Mines of Moladune",
@@ -413,7 +415,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:20|"
+		"requires": "|Progressive Prophecies Story:20|"
 	},
 	{
 		"name": "Bonus - Iron Mines of Moladune",
@@ -423,7 +425,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:20|"
+		"requires": "|Progressive Prophecies Story:20|"
 	},
 	{
 		"name": "Mission - Thunderhead Keep",
@@ -433,7 +435,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:21|"
+		"requires": "|Progressive Prophecies Story:21|"
 	},
 	{
 		"name": "Bonus - Thunderhead Keep",
@@ -443,7 +445,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:21|"
+		"requires": "|Progressive Prophecies Story:21|"
 	},
 	{
 		"name": "Mission - Ring of Fire",
@@ -453,7 +455,7 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Main Story:22|"
+		"requires": "|Progressive Prophecies Story:22|"
 	},
 	{
 		"name": "Bonus - Ring of Fire",
@@ -463,7 +465,7 @@
 			"Bonus",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Main Story:22|"
+		"requires": "|Progressive Prophecies Story:22|"
 	},
 	{
 		"name": "Mission - Abaddon's Mouth",
@@ -473,7 +475,7 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Main Story:23|"
+		"requires": "|Progressive Prophecies Story:23|"
 	},
 	{
 		"name": "Bonus - Abaddon's Mouth",
@@ -483,7 +485,7 @@
 			"Bonus",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Main Story:23|"
+		"requires": "|Progressive Prophecies Story:23|"
 	},
 	{
 		"name": "Mission - Hell's Precipice",
@@ -493,7 +495,7 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Main Story:24|",
+		"requires": "|Progressive Prophecies Story:24|",
 		"place_item": [
 			"Victory"
 		]
@@ -516,7 +518,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
-		]
+		],
+		"requires": "|Prophecies - Start|"
 	},
 	{
 		"name": "Trade for hand armor in Ascalon (pre-Searing)",
@@ -524,7 +527,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
-		]
+		],
+		"requires": "|Prophecies - Start|"
 	},
 	{
 		"name": "Trade for leg armor in Ascalon (pre-Searing)",
@@ -532,7 +536,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
-		]
+		],
+		"requires": "|Prophecies - Start|"
 	},
 	{
 		"name": "Trade for footwear in Ascalon (pre-Searing)",
@@ -540,7 +545,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon (pre-Searing)"
-		]
+		],
+		"requires": "|Prophecies - Start|"
 	},
 	{
 		"name": "Trade for chest armor in Ascalon",
@@ -581,7 +587,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for chest armor in the Northern Shiverpeaks",
@@ -590,7 +596,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for hand armor in the Northern Shiverpeaks",
@@ -599,7 +605,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for footwear in the Northern Shiverpeaks",
@@ -608,7 +614,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Main Story:4|"
+		"requires": "|Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for headgear in Kryta",
@@ -617,7 +623,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for chest armor in Kryta",
@@ -626,7 +632,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for hand armor in Kryta",
@@ -635,7 +641,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for leg armor in Kryta",
@@ -644,7 +650,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for footwear in Kryta",
@@ -653,7 +659,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Main Story:6|"
+		"requires": "|Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for headgear in Maguuma Jungle",
@@ -662,7 +668,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for chest armor in Maguuma Jungle",
@@ -671,7 +677,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for hand armor in Maguuma Jungle",
@@ -680,7 +686,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for leg armor in Maguuma Jungle",
@@ -689,7 +695,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for footwear in Maguuma Jungle",
@@ -698,7 +704,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Main Story:9|"
+		"requires": "|Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for headgear in Crystal Desert",
@@ -707,7 +713,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for chest armor in Crystal Desert",
@@ -716,7 +722,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for hand armor in Crystal Desert",
@@ -725,7 +731,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for leg armor in Crystal Desert",
@@ -734,7 +740,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for footwear in Crystal Desert",
@@ -743,6 +749,6 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Main Story:14|"
+		"requires": "|Progressive Prophecies Story:14|"
 	}
 ]

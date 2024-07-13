@@ -22,34 +22,17 @@ Manual_GuildWars_Ithambar:
   # false: Exclude Eye of the North content
   eotn: "true"
   # Which start locations should be included in the pool
-  # all: Prophecies, Factions, Nightfall
-  # prophecies: Prophecies
-  # factions: Factions
-  # nightfall: Nightfall
-  # prophecies_factions: Prophecies, Factions
-  # prophecies_nightfall: Prophecies, Nightfall
-  # factions_nightfall: Factions, Nightfall
-  start: "all"
+  allow_prophecies_start: "false"
+  allow_factions_start: "false"
+  allow_nightfall_start: "true"
   # Which goals should be included in the pool
-  # all: Prophecies, Factions, Nightfall, Eye of the North
-  # prophecies: Prophecies
-  # factions: Factions
-  # nightfall: Nightfall
-  # eotn: Eye of the North
-  # prophecies_factions: Prophecies, Factions
-  # prophecies_nightfall: Prophecies, Nightfall
-  # prophecies_eotn: Prophecies, Eye of the North
-  # factions_nightfall: Factions, Nightfall
-  # factions_eotn: Factions, Eye of the North
-  # nightfall_eotn: Nightfall, Eye of the North
-  # prophecies_factions_nightfall: Prophecies, Factions, Nightfall
-  # prophecies_factions_eotn: Prophecies, Factions, Eye of the North
-  # prophecies_nightfall_eotn: Prophecies, Nightfall, Eye of the North
-  # factions_nightfall_eotn: Factions, Nightfall, Eye of the North
-  goal: "all"
+  allow_prophecies_goal: "true"
+  allow_factions_goal: "true"
+  allow_nightfall_goal: "true"
+  allow_eotn_goal: "true"
   # Whether to include the bonus from the Thirsty River mission in the pool
   # This bonus can be extremely difficult to complete, since you might have to do it without any heroes and a very limited set of abilities.
-  thirsty_river_bonus: "true"
+  thirsty_river_bonus: "false"
 description: ''
 game: Manual_GuildWars_Ithambar
 name: GW

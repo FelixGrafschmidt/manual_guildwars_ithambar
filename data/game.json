@@ -10,12 +10,49 @@
 				"Attribute - Expertise",
 				"Attribute - Divine Favor",
 				"Attribute - Soul Reaping",
-				"Attribute - Energy Storage"
+				"Attribute - Energy Storage",
+				"Attribute - Critical Strikes",
+				"Attribute - Spawning Power",
+				"Attribute - Leadership",
+				"Attribute - Mysticism"
 			]
 		},
 		{
 			"item_categories": [
-				"Base Class"
+				"Start"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Goal"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Prophecies - Start"
+			],
+			"item_categories": [
+				"Prophecies Class"
+			],
+			"random": 2
+		},
+		{
+			"if_previous_item": [
+				"Factions - Start"
+			],
+			"item_categories": [
+				"Factions Class"
+			],
+			"random": 2
+		},
+		{
+			"if_previous_item": [
+				"Nightfall - Start"
+			],
+			"item_categories": [
+				"Nightfall Class"
 			],
 			"random": 2
 		},
@@ -70,6 +107,42 @@
 			],
 			"item_categories": [
 				"Elementalist Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Assassin"
+			],
+			"item_categories": [
+				"Assassin Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Ritualist"
+			],
+			"item_categories": [
+				"Ritualist Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Paragon"
+			],
+			"item_categories": [
+				"Paragon Attributes"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Class - Dervish"
+			],
+			"item_categories": [
+				"Dervish Attributes"
 			],
 			"random": 1
 		}
