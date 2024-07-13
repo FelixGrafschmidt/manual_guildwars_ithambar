@@ -9,6 +9,33 @@
 		"progression": true
 	},
 	{
+		"name": "Progressive Factions Story",
+		"category": [
+			"Progression",
+			"Factions"
+		],
+		"count": 20,
+		"progression": true
+	},
+	{
+		"name": "Progressive Nightfall Story",
+		"category": [
+			"Progression",
+			"Nightfall"
+		],
+		"count": 30,
+		"progression": true
+	},
+	{
+		"name": "Progressive Eye of the North Story",
+		"category": [
+			"Progression",
+			"Eye of the North"
+		],
+		"count": 20,
+		"progression": true
+	},
+	{
 		"name": "Class - Mesmer",
 		"category": [
 			"Prophecies Class",
@@ -499,7 +526,23 @@
 		"progression": true
 	},
 	{
-		"name": "Victory",
+		"name": "Prophecies Done",
+		"category": [
+			"Victory"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions Done",
+		"category": [
+			"Victory"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall Done",
 		"category": [
 			"Victory"
 		],

@@ -782,6 +782,352 @@
 		]
 	},
 	{
+		"name": "Mission - Chahbek Village",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Istan"
+		],
+		"requires": "|Nightfall - Start and Hero Slot - Warrior|"
+	},
+	{
+		"name": "Bonus - Chahbek Village",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "|Nightfall - Start and Hero Slot - Warrior|"
+	},
+	{
+		"name": "Mission - Jokanur Diggings",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Istan"
+		],
+		"requires": "|Progressive Nightfall Story:1 and Hero Slot - Dervish|"
+	},
+	{
+		"name": "Bonus - Jokanur Diggings",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "|Progressive Nightfall Story:1 and Hero Slot - Dervish|"
+	},
+	{
+		"name": "Mission - Blacktide Den",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Istan"
+		],
+		"requires": "|Progressive Nightfall Story:2 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Bonus - Blacktide Den",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "|Progressive Nightfall Story:2 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Mission - Consulate Docks",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:3 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Bonus - Consulate Docks",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:3 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Mission - Venta Cemetery",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:4 and Hero Slot - Warrior|"
+	},
+	{
+		"name": "Bonus - Venta Cemetery",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:4 and Hero Slot - Warrior|"
+	},
+	{
+		"name": "Mission - Kodonur Crossroads",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:5 and Hero Slot - Elementalist|"
+	},
+	{
+		"name": "Bonus - Kodonur Crossroads",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:5 and Hero Slot - Elementalist|"
+	},
+	{
+		"name": "Mission - Pogahn Passage or Mission - Rilohn Refuge",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:6 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+	},
+	{
+		"name": "Bonus - Pogahn Passage or Bonus - Rilohn Refuge",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:6 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+	},
+	{
+		"name": "Mission - Moddok Crevice",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:7 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Bonus - Moddok Crevice",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "|Progressive Nightfall Story:7 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Mission - Tihark Orchard",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Bonus - Tihark Orchard",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Mission - Dasha Vestibule or Mission - Dzagonur Bastion",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:9 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+	},
+	{
+		"name": "Bonus - Dasha Vestibule or Bonus - Dzagonur Bastion",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:9 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+	},
+	{
+		"name": "Mission - Grand Court of Sebelkeh",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:10 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Bonus - Grand Court of Sebelkeh",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:10 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Mission - Jennur's Horde or Mission - Nundu Bay",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:11 and Hero Slot - Warrior and Hero Slot - Dervish|"
+	},
+	{
+		"name": "Bonus - Jennur's Horde or Bonus - Nundu Bay",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "|Progressive Nightfall Story:11 and Hero Slot - Warrior and Hero Slot - Dervish|"
+	},
+	{
+		"name": "Mission - Gate of Desolation",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"The Desolation"
+		],
+		"requires": "|Progressive Nightfall Story:12 and Hero Slot - Elementalist|"
+	},
+	{
+		"name": "Bonus - Gate of Desolation",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"The Desolation"
+		],
+		"requires": "|Progressive Nightfall Story:12 and Hero Slot - Elementalist|"
+	},
+	{
+		"name": "Mission - Ruins of Morah",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"The Desolation"
+		],
+		"requires": "|Progressive Nightfall Story:13 and Hero Slot - Paragon|"
+	},
+	{
+		"name": "Bonus - Ruins of Morah",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"The Desolation"
+		],
+		"requires": "|Progressive Nightfall Story:13 and Hero Slot - Paragon|"
+	},
+	{
+		"name": "Mission - Gate of Pain",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Realm of Torment"
+		],
+		"requires": "|Progressive Nightfall Story:14 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Bonus - Gate of Pain",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Realm of Torment"
+		],
+		"requires": "|Progressive Nightfall Story:14 and Hero Slot - Monk|"
+	},
+	{
+		"name": "Mission - Gate of Madness",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Realm of Torment"
+		],
+		"requires": "|Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Bonus - Gate of Madness",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Realm of Torment"
+		],
+		"requires": "|Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Mission - Abaddon's Gate",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Mission",
+			"Realm of Torment"
+		],
+		"requires": "|Progressive Nightfall Story:16|",
+		"place_item": [
+			"Nightfall Done"
+		]
+	},
+	{
+		"name": "Abaddon is defeated",
+		"category": [
+			"Nightfall",
+			"Story",
+			"Victory"
+		],
+		"victory": true,
+		"requires": [
+			"Nightfall Done",
+			"Nightfall - Goal"
+		]
+	},
+	{
 		"name": "Trade for chest armor in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",
