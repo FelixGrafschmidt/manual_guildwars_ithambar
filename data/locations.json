@@ -497,7 +497,7 @@
 		],
 		"requires": "|Progressive Prophecies Story:24|",
 		"place_item": [
-			"Victory"
+			"Prophecies Done"
 		]
 	},
 	{
@@ -509,7 +509,276 @@
 		],
 		"victory": true,
 		"requires": [
+			"Prophecies Done",
+			"Prophecies - Goal"
+		]
+	},
+	{
+		"name": "Mission - Minister Cho's Estate",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Shing Jea"
+		],
+		"requires": "|Factions - Start|"
+	},
+	{
+		"name": "Bonus - Minister Cho's Estate",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Shing Jea"
+		],
+		"requires": "|Factions - Start|"
+	},
+	{
+		"name": "Mission - Zen Daijun",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Shing Jea"
+		],
+		"requires": "|Progressive Factions Story:1|"
+	},
+	{
+		"name": "Bonus - Zen Daijun",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Shing Jea"
+		],
+		"requires": "|Progressive Factions Story:1|"
+	},
+	{
+		"name": "Mission - Vizunah Square",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:2|"
+	},
+	{
+		"name": "Bonus - Vizunah Square",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:2|"
+	},
+	{
+		"name": "Mission - Nahpui Quarter",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:3|"
+	},
+	{
+		"name": "Bonus - Nahpui Quarter",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:3|"
+	},
+	{
+		"name": "Mission - Tahnnakai Temple",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:4|"
+	},
+	{
+		"name": "Bonus - Tahnnakai Temple",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:4|"
+	},
+	{
+		"name": "Mission - Arborstone",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Echovald Forest"
+		],
+		"requires": "|Progressive Factions Story:5|"
+	},
+	{
+		"name": "Bonus - Arborstone",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest"
+		],
+		"requires": "|Progressive Factions Story:5|"
+	},
+	{
+		"name": "Mission - Boreas Seabed",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:6|"
+	},
+	{
+		"name": "Bonus - Boreas Seabed",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:6|"
+	},
+	{
+		"name": "Mission - Sunjiang District",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:7|"
+	},
+	{
+		"name": "Bonus - Sunjiang District",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:7|"
+	},
+	{
+		"name": "Mission - The Eternal Grove",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Echovald Forest"
+		],
+		"requires": "|Progressive Factions Story:8|"
+	},
+	{
+		"name": "Bonus - The Eternal Grove",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest"
+		],
+		"requires": "|Progressive Factions Story:8|"
+	},
+	{
+		"name": "Mission - Unwaking Waters",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Echovald Forest"
+		],
+		"requires": "|Progressive Factions Story:9|"
+	},
+	{
+		"name": "Bonus - Unwaking Waters",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:9|"
+	},
+	{
+		"name": "Mission - Gyala Hatchery",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:8|"
+	},
+	{
+		"name": "Bonus - Gyala Hatchery",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:8|"
+	},
+	{
+		"name": "Mission - Raisu Palace",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:10|"
+	},
+	{
+		"name": "Bonus - Raisu Palace",
+		"category": [
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City",
+			"The Jade Sea"
+		],
+		"requires": "|Progressive Factions Story:10|"
+	},
+	{
+		"name": "Mission - Imperial Sanctum",
+		"category": [
+			"Factions",
+			"Story",
+			"Mission",
+			"Kaineng City"
+		],
+		"requires": "|Progressive Factions Story:11|",
+		"place_item": [
+			"Factions Done"
+		]
+	},
+	{
+		"name": "Shiro Tagachi is defeated",
+		"category": [
+			"Factions",
+			"Story",
 			"Victory"
+		],
+		"victory": true,
+		"requires": [
+			"Factions Done",
+			"Factions - Goal"
 		]
 	},
 	{
