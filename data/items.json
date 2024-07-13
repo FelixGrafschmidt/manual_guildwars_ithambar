@@ -5,7 +5,7 @@
 			"Progression",
 			"Prophecies"
 		],
-		"count": 30,
+		"count": 25,
 		"progression": true
 	},
 	{
@@ -14,7 +14,7 @@
 			"Progression",
 			"Factions"
 		],
-		"count": 20,
+		"count": 15,
 		"progression": true
 	},
 	{
@@ -23,16 +23,12 @@
 			"Progression",
 			"Nightfall"
 		],
-		"count": 30,
+		"count": 20,
 		"progression": true
 	},
 	{
-		"name": "Progressive Eye of the North Story",
-		"category": [
-			"Progression",
-			"Eye of the North"
-		],
-		"count": 20,
+		"name": "Unlock Campaigns",
+		"count": 3,
 		"progression": true
 	},
 	{
@@ -528,7 +524,8 @@
 	{
 		"name": "Prophecies Done",
 		"category": [
-			"Victory"
+			"Victory",
+			"Prophecies"
 		],
 		"count": 1,
 		"progression": true
@@ -536,7 +533,8 @@
 	{
 		"name": "Factions Done",
 		"category": [
-			"Victory"
+			"Victory",
+			"Factions"
 		],
 		"count": 1,
 		"progression": true
@@ -544,7 +542,17 @@
 	{
 		"name": "Nightfall Done",
 		"category": [
-			"Victory"
+			"Victory",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Eye of the North Done",
+		"category": [
+			"Victory",
+			"Eye of the North"
 		],
 		"count": 1,
 		"progression": true
@@ -624,42 +632,48 @@
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Monk",
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Ranger",
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Mesmer",
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Elementalist",
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Necromancer",
 		"category": [
 			"Hero Slot"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Assassin",
@@ -667,7 +681,8 @@
 			"Hero Slot",
 			"Factions"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Ritualist",
@@ -675,7 +690,8 @@
 			"Hero Slot",
 			"Factions"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Dervish",
@@ -683,7 +699,8 @@
 			"Hero Slot",
 			"Nightfall"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	},
 	{
 		"name": "Hero Slot - Paragon",
@@ -691,6 +708,7 @@
 			"Hero Slot",
 			"Nightfall"
 		],
-		"count": 3
+		"progression": true,
+		"count": 2
 	}
 ]

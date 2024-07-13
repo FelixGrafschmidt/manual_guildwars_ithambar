@@ -1,8 +1,17 @@
 [
 	{
+		"name": "Victory",
+		"category": [
+			"Victory"
+		],
+		"requires": "(|Prophecies Done| and |Prophecies - Goal|) or (|Factions Done| and |Factions - Goal|( or (|Nightfall Done| and |Nightfall - Goal|( or (|Eye of the North Done| and |Eye of the North - Goal|)",
+		"victory": true
+	},
+	{
 		"name": "Complete Tutorial",
 		"category": [
 			"Prophecies",
+			"Prophecies Start",
 			"Story",
 			"Ascalon (pre-Searing)"
 		],
@@ -15,7 +24,8 @@
 			"Story",
 			"Mission",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Bonus - The Great Northern Wall",
@@ -24,7 +34,8 @@
 			"Story",
 			"Bonus",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Mission - Fort Ranik",
@@ -34,7 +45,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:1|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:1|"
 	},
 	{
 		"name": "Bonus - Fort Ranik",
@@ -44,7 +55,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:1|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:1|"
 	},
 	{
 		"name": "Mission - Ruins of Surmia",
@@ -54,7 +65,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:2|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:2|"
 	},
 	{
 		"name": "Bonus - Ruins of Surmia",
@@ -64,7 +75,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:2|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:2|"
 	},
 	{
 		"name": "Mission - Nolani Academy",
@@ -74,7 +85,7 @@
 			"Mission",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:3|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:3|"
 	},
 	{
 		"name": "Bonus - Nolani Academy",
@@ -84,7 +95,7 @@
 			"Bonus",
 			"Ascalon"
 		],
-		"requires": "|Progressive Prophecies Story:3|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:3|"
 	},
 	{
 		"name": "Mission - Borlis Pass",
@@ -94,7 +105,7 @@
 			"Mission",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Bonus - Borlis Pass",
@@ -104,7 +115,7 @@
 			"Bonus",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Mission - The Frost Gate",
@@ -114,7 +125,7 @@
 			"Mission",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:5|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:5|"
 	},
 	{
 		"name": "Bonus - The Frost Gate",
@@ -124,7 +135,7 @@
 			"Bonus",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:5|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:5|"
 	},
 	{
 		"name": "Mission - Gates of Kryta",
@@ -134,7 +145,11 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|",
+		"place_item": [
+			"Unlock Campaigns",
+			"Progressive Prophecies Story"
+		]
 	},
 	{
 		"name": "Bonus - Gates of Kryta",
@@ -144,7 +159,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Mission - D'Alessio Seaboard",
@@ -154,7 +169,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:7|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:7|"
 	},
 	{
 		"name": "Bonus - D'Alessio Seaboard",
@@ -164,7 +179,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:7|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:7|"
 	},
 	{
 		"name": "Mission - Divinity Coast",
@@ -174,7 +189,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:8|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:8|"
 	},
 	{
 		"name": "Bonus - Divinity Coast",
@@ -184,7 +199,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:8|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:8|"
 	},
 	{
 		"name": "Mission - The Wilds",
@@ -194,7 +209,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Bonus - The Wilds",
@@ -204,7 +219,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Mission - Bloodstone Fen",
@@ -214,7 +229,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:10|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:10|"
 	},
 	{
 		"name": "Bonus - Bloodstone Fen",
@@ -224,7 +239,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:10|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:10|"
 	},
 	{
 		"name": "Mission - Aurora Glade",
@@ -234,7 +249,7 @@
 			"Mission",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:11|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:11|"
 	},
 	{
 		"name": "Bonus - Aurora Glade",
@@ -244,7 +259,7 @@
 			"Bonus",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:11|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:11|"
 	},
 	{
 		"name": "Mission - Riverside Province",
@@ -254,7 +269,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:12|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:12|"
 	},
 	{
 		"name": "Bonus - Riverside Province",
@@ -264,7 +279,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:12|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:12|"
 	},
 	{
 		"name": "Mission - Sanctum Cay",
@@ -274,7 +289,7 @@
 			"Mission",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:13|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:13|"
 	},
 	{
 		"name": "Bonus - Sanctum Cay",
@@ -284,7 +299,7 @@
 			"Bonus",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:13|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:13|"
 	},
 	{
 		"name": "Mission - Dunes of Despair",
@@ -294,7 +309,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Bonus - Dunes of Despair",
@@ -304,7 +319,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Mission - Thirsty River",
@@ -314,7 +329,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:15|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:15|"
 	},
 	{
 		"name": "Bonus - Thirsty River",
@@ -325,7 +340,7 @@
 			"Crystal Desert",
 			"Thirsty River Bonus"
 		],
-		"requires": "|Progressive Prophecies Story:15|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:15|"
 	},
 	{
 		"name": "Mission - Elona Reach",
@@ -335,7 +350,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:16|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:16|"
 	},
 	{
 		"name": "Bonus - Elona Reach",
@@ -345,7 +360,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:16|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:16|"
 	},
 	{
 		"name": "Mission - Augury Rock",
@@ -355,7 +370,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:17|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:17|"
 	},
 	{
 		"name": "Bonus - Augury Rock",
@@ -365,7 +380,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:17|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:17|"
 	},
 	{
 		"name": "Mission - The Dragon's Lair",
@@ -375,7 +390,7 @@
 			"Mission",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:18|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:18|"
 	},
 	{
 		"name": "Bonus - The Dragon's Lair",
@@ -385,7 +400,7 @@
 			"Bonus",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:18|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:18|"
 	},
 	{
 		"name": "Mission - Ice Caves of Sorrow",
@@ -395,7 +410,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:19|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
 	},
 	{
 		"name": "Bonus - Ice Caves of Sorrow",
@@ -405,7 +420,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:19|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
 	},
 	{
 		"name": "Mission - Iron Mines of Moladune",
@@ -415,7 +430,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:20|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:20|"
 	},
 	{
 		"name": "Bonus - Iron Mines of Moladune",
@@ -425,7 +440,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:20|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:20|"
 	},
 	{
 		"name": "Mission - Thunderhead Keep",
@@ -435,7 +450,7 @@
 			"Mission",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:21|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:21|"
 	},
 	{
 		"name": "Bonus - Thunderhead Keep",
@@ -445,7 +460,7 @@
 			"Bonus",
 			"Southern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:21|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:21|"
 	},
 	{
 		"name": "Mission - Ring of Fire",
@@ -455,7 +470,7 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Prophecies Story:22|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:22|"
 	},
 	{
 		"name": "Bonus - Ring of Fire",
@@ -465,7 +480,7 @@
 			"Bonus",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Prophecies Story:22|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:22|"
 	},
 	{
 		"name": "Mission - Abaddon's Mouth",
@@ -475,7 +490,7 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Prophecies Story:23|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:23|"
 	},
 	{
 		"name": "Bonus - Abaddon's Mouth",
@@ -485,7 +500,7 @@
 			"Bonus",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Prophecies Story:23|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:23|"
 	},
 	{
 		"name": "Mission - Hell's Precipice",
@@ -495,22 +510,9 @@
 			"Mission",
 			"Ring of Fire Islands"
 		],
-		"requires": "|Progressive Prophecies Story:24|",
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:24|",
 		"place_item": [
 			"Prophecies Done"
-		]
-	},
-	{
-		"name": "The Lich is defeated",
-		"category": [
-			"Prophecies",
-			"Story",
-			"Victory"
-		],
-		"victory": true,
-		"requires": [
-			"Prophecies Done",
-			"Prophecies - Goal"
 		]
 	},
 	{
@@ -519,9 +521,9 @@
 			"Factions",
 			"Story",
 			"Mission",
-			"Shing Jea"
+			"Shing Jea Island"
 		],
-		"requires": "|Factions - Start|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Bonus - Minister Cho's Estate",
@@ -529,9 +531,9 @@
 			"Factions",
 			"Story",
 			"Bonus",
-			"Shing Jea"
+			"Shing Jea Island"
 		],
-		"requires": "|Factions - Start|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Mission - Zen Daijun",
@@ -539,9 +541,9 @@
 			"Factions",
 			"Story",
 			"Mission",
-			"Shing Jea"
+			"Shing Jea Island"
 		],
-		"requires": "|Progressive Factions Story:1|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
 	},
 	{
 		"name": "Bonus - Zen Daijun",
@@ -549,9 +551,9 @@
 			"Factions",
 			"Story",
 			"Bonus",
-			"Shing Jea"
+			"Shing Jea Island"
 		],
-		"requires": "|Progressive Factions Story:1|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
 	},
 	{
 		"name": "Mission - Vizunah Square",
@@ -561,7 +563,11 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:2|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|",
+		"place_item": [
+			"Unlock Campaigns",
+			"Progressive Factions Story"
+		]
 	},
 	{
 		"name": "Bonus - Vizunah Square",
@@ -571,7 +577,7 @@
 			"Bonus",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:2|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	},
 	{
 		"name": "Mission - Nahpui Quarter",
@@ -581,7 +587,7 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:3|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
 	},
 	{
 		"name": "Bonus - Nahpui Quarter",
@@ -591,7 +597,7 @@
 			"Bonus",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:3|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
 	},
 	{
 		"name": "Mission - Tahnnakai Temple",
@@ -601,7 +607,7 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:4|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:4|"
 	},
 	{
 		"name": "Bonus - Tahnnakai Temple",
@@ -611,7 +617,7 @@
 			"Bonus",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:4|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:4|"
 	},
 	{
 		"name": "Mission - Arborstone",
@@ -621,7 +627,7 @@
 			"Mission",
 			"Echovald Forest"
 		],
-		"requires": "|Progressive Factions Story:5|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:5|"
 	},
 	{
 		"name": "Bonus - Arborstone",
@@ -631,7 +637,7 @@
 			"Bonus",
 			"Echovald Forest"
 		],
-		"requires": "|Progressive Factions Story:5|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:5|"
 	},
 	{
 		"name": "Mission - Boreas Seabed",
@@ -641,7 +647,7 @@
 			"Mission",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:6|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:6|"
 	},
 	{
 		"name": "Bonus - Boreas Seabed",
@@ -651,7 +657,7 @@
 			"Bonus",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:6|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:6|"
 	},
 	{
 		"name": "Mission - Sunjiang District",
@@ -661,7 +667,7 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:7|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:7|"
 	},
 	{
 		"name": "Bonus - Sunjiang District",
@@ -671,7 +677,7 @@
 			"Bonus",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:7|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:7|"
 	},
 	{
 		"name": "Mission - The Eternal Grove",
@@ -681,7 +687,7 @@
 			"Mission",
 			"Echovald Forest"
 		],
-		"requires": "|Progressive Factions Story:8|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:8|"
 	},
 	{
 		"name": "Bonus - The Eternal Grove",
@@ -691,7 +697,7 @@
 			"Bonus",
 			"Echovald Forest"
 		],
-		"requires": "|Progressive Factions Story:8|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:8|"
 	},
 	{
 		"name": "Mission - Unwaking Waters",
@@ -701,7 +707,7 @@
 			"Mission",
 			"Echovald Forest"
 		],
-		"requires": "|Progressive Factions Story:9|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:9|"
 	},
 	{
 		"name": "Bonus - Unwaking Waters",
@@ -712,7 +718,7 @@
 			"Echovald Forest",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:9|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:9|"
 	},
 	{
 		"name": "Mission - Gyala Hatchery",
@@ -722,7 +728,7 @@
 			"Mission",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:8|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:8|"
 	},
 	{
 		"name": "Bonus - Gyala Hatchery",
@@ -732,7 +738,7 @@
 			"Bonus",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:8|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:8|"
 	},
 	{
 		"name": "Mission - Raisu Palace",
@@ -742,7 +748,7 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:10|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:10|"
 	},
 	{
 		"name": "Bonus - Raisu Palace",
@@ -753,7 +759,7 @@
 			"Kaineng City",
 			"The Jade Sea"
 		],
-		"requires": "|Progressive Factions Story:10|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:10|"
 	},
 	{
 		"name": "Mission - Imperial Sanctum",
@@ -763,22 +769,9 @@
 			"Mission",
 			"Kaineng City"
 		],
-		"requires": "|Progressive Factions Story:11|",
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:11|",
 		"place_item": [
 			"Factions Done"
-		]
-	},
-	{
-		"name": "Shiro Tagachi is defeated",
-		"category": [
-			"Factions",
-			"Story",
-			"Victory"
-		],
-		"victory": true,
-		"requires": [
-			"Factions Done",
-			"Factions - Goal"
 		]
 	},
 	{
@@ -789,7 +782,7 @@
 			"Mission",
 			"Istan"
 		],
-		"requires": "|Nightfall - Start and Hero Slot - Warrior|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Hero Slot - Warrior|"
 	},
 	{
 		"name": "Bonus - Chahbek Village",
@@ -799,7 +792,7 @@
 			"Bonus",
 			"Istan"
 		],
-		"requires": "|Nightfall - Start and Hero Slot - Warrior|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Hero Slot - Warrior|"
 	},
 	{
 		"name": "Mission - Jokanur Diggings",
@@ -809,7 +802,7 @@
 			"Mission",
 			"Istan"
 		],
-		"requires": "|Progressive Nightfall Story:1 and Hero Slot - Dervish|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:1| and |Hero Slot - Dervish|"
 	},
 	{
 		"name": "Bonus - Jokanur Diggings",
@@ -819,7 +812,7 @@
 			"Bonus",
 			"Istan"
 		],
-		"requires": "|Progressive Nightfall Story:1 and Hero Slot - Dervish|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:1| and |Hero Slot - Dervish|"
 	},
 	{
 		"name": "Mission - Blacktide Den",
@@ -829,7 +822,11 @@
 			"Mission",
 			"Istan"
 		],
-		"requires": "|Progressive Nightfall Story:2 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:2| and |Hero Slot - Monk|",
+		"place_item": [
+			"Unlock Campaigns",
+			"Progressive Nightfall Story"
+		]
 	},
 	{
 		"name": "Bonus - Blacktide Den",
@@ -839,7 +836,7 @@
 			"Bonus",
 			"Istan"
 		],
-		"requires": "|Progressive Nightfall Story:2 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:2| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Mission - Consulate Docks",
@@ -849,7 +846,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:3 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:3| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Bonus - Consulate Docks",
@@ -859,7 +856,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:3 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:3| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Mission - Venta Cemetery",
@@ -869,7 +866,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:4 and Hero Slot - Warrior|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:4| and |Hero Slot - Warrior|"
 	},
 	{
 		"name": "Bonus - Venta Cemetery",
@@ -879,7 +876,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:4 and Hero Slot - Warrior|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:4| and |Hero Slot - Warrior|"
 	},
 	{
 		"name": "Mission - Kodonur Crossroads",
@@ -889,7 +886,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:5 and Hero Slot - Elementalist|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:5| and |Hero Slot - Elementalist|"
 	},
 	{
 		"name": "Bonus - Kodonur Crossroads",
@@ -899,7 +896,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:5 and Hero Slot - Elementalist|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:5| and |Hero Slot - Elementalist|"
 	},
 	{
 		"name": "Mission - Pogahn Passage or Mission - Rilohn Refuge",
@@ -909,7 +906,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:6 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:6| and |Hero Slot - Ranger| and |Hero Slot - Necromancer|"
 	},
 	{
 		"name": "Bonus - Pogahn Passage or Bonus - Rilohn Refuge",
@@ -919,7 +916,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:6 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:6| and |Hero Slot - Ranger| and |Hero Slot - Necromancer|"
 	},
 	{
 		"name": "Mission - Moddok Crevice",
@@ -929,7 +926,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:7 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:7| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Bonus - Moddok Crevice",
@@ -939,7 +936,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "|Progressive Nightfall Story:7 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:7| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Mission - Tihark Orchard",
@@ -949,7 +946,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:8|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:8|"
 	},
 	{
 		"name": "Bonus - Tihark Orchard",
@@ -959,7 +956,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:8|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:8|"
 	},
 	{
 		"name": "Mission - Dasha Vestibule or Mission - Dzagonur Bastion",
@@ -969,7 +966,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:9 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:9| and |Hero Slot - Ranger| and |Hero Slot - Necromancer|"
 	},
 	{
 		"name": "Bonus - Dasha Vestibule or Bonus - Dzagonur Bastion",
@@ -979,7 +976,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:9 and Hero Slot - Ranger and Hero Slot - Necromancer|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:9| and |Hero Slot - Ranger| and |Hero Slot - Necromancer|"
 	},
 	{
 		"name": "Mission - Grand Court of Sebelkeh",
@@ -989,7 +986,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:10 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:10| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Bonus - Grand Court of Sebelkeh",
@@ -999,7 +996,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:10 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:10| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Mission - Jennur's Horde or Mission - Nundu Bay",
@@ -1009,7 +1006,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:11 and Hero Slot - Warrior and Hero Slot - Dervish|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:11| and |Hero Slot - Warrior| and |Hero Slot - Dervish|"
 	},
 	{
 		"name": "Bonus - Jennur's Horde or Bonus - Nundu Bay",
@@ -1019,7 +1016,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "|Progressive Nightfall Story:11 and Hero Slot - Warrior and Hero Slot - Dervish|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:11| and |Hero Slot - Warrior| and |Hero Slot - Dervish|"
 	},
 	{
 		"name": "Mission - Gate of Desolation",
@@ -1029,7 +1026,7 @@
 			"Mission",
 			"The Desolation"
 		],
-		"requires": "|Progressive Nightfall Story:12 and Hero Slot - Elementalist|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:12| and |Hero Slot - Elementalist|"
 	},
 	{
 		"name": "Bonus - Gate of Desolation",
@@ -1039,7 +1036,7 @@
 			"Bonus",
 			"The Desolation"
 		],
-		"requires": "|Progressive Nightfall Story:12 and Hero Slot - Elementalist|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:12| and |Hero Slot - Elementalist|"
 	},
 	{
 		"name": "Mission - Ruins of Morah",
@@ -1049,7 +1046,7 @@
 			"Mission",
 			"The Desolation"
 		],
-		"requires": "|Progressive Nightfall Story:13 and Hero Slot - Paragon|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:13| and |Hero Slot - Paragon|"
 	},
 	{
 		"name": "Bonus - Ruins of Morah",
@@ -1059,7 +1056,7 @@
 			"Bonus",
 			"The Desolation"
 		],
-		"requires": "|Progressive Nightfall Story:13 and Hero Slot - Paragon|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:13| and |Hero Slot - Paragon|"
 	},
 	{
 		"name": "Mission - Gate of Pain",
@@ -1069,7 +1066,7 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "|Progressive Nightfall Story:14 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:14| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Bonus - Gate of Pain",
@@ -1079,7 +1076,7 @@
 			"Bonus",
 			"Realm of Torment"
 		],
-		"requires": "|Progressive Nightfall Story:14 and Hero Slot - Monk|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:14| and |Hero Slot - Monk|"
 	},
 	{
 		"name": "Mission - Gate of Madness",
@@ -1089,7 +1086,7 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "|Progressive Nightfall Story:15|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:15|"
 	},
 	{
 		"name": "Bonus - Gate of Madness",
@@ -1099,7 +1096,7 @@
 			"Bonus",
 			"Realm of Torment"
 		],
-		"requires": "|Progressive Nightfall Story:15|"
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:15|"
 	},
 	{
 		"name": "Mission - Abaddon's Gate",
@@ -1109,28 +1106,16 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "|Progressive Nightfall Story:16|",
+		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:16|",
 		"place_item": [
 			"Nightfall Done"
-		]
-	},
-	{
-		"name": "Abaddon is defeated",
-		"category": [
-			"Nightfall",
-			"Story",
-			"Victory"
-		],
-		"victory": true,
-		"requires": [
-			"Nightfall Done",
-			"Nightfall - Goal"
 		]
 	},
 	{
 		"name": "Trade for chest armor in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",
+			"Prophecies Start",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		],
@@ -1140,6 +1125,7 @@
 		"name": "Trade for hand armor in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",
+			"Prophecies Start",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		],
@@ -1149,6 +1135,7 @@
 		"name": "Trade for leg armor in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",
+			"Prophecies Start",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		],
@@ -1158,6 +1145,7 @@
 		"name": "Trade for footwear in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",
+			"Prophecies Start",
 			"Trade",
 			"Ascalon (pre-Searing)"
 		],
@@ -1169,7 +1157,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Trade for hand armor in Ascalon",
@@ -1177,7 +1166,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Trade for leg armor in Ascalon",
@@ -1185,7 +1175,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Trade for footwear in Ascalon",
@@ -1193,7 +1184,8 @@
 			"Prophecies",
 			"Trade",
 			"Ascalon"
-		]
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
 		"name": "Trade for headgear in the Northern Shiverpeaks",
@@ -1202,7 +1194,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for chest armor in the Northern Shiverpeaks",
@@ -1211,7 +1203,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for hand armor in the Northern Shiverpeaks",
@@ -1220,7 +1212,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for footwear in the Northern Shiverpeaks",
@@ -1229,7 +1221,7 @@
 			"Trade",
 			"Northern Shiverpeaks"
 		],
-		"requires": "|Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
 	},
 	{
 		"name": "Trade for headgear in Kryta",
@@ -1238,7 +1230,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for chest armor in Kryta",
@@ -1247,7 +1239,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for hand armor in Kryta",
@@ -1256,7 +1248,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for leg armor in Kryta",
@@ -1265,7 +1257,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for footwear in Kryta",
@@ -1274,7 +1266,7 @@
 			"Trade",
 			"Kryta"
 		],
-		"requires": "|Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
 		"name": "Trade for headgear in Maguuma Jungle",
@@ -1283,7 +1275,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for chest armor in Maguuma Jungle",
@@ -1292,7 +1284,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for hand armor in Maguuma Jungle",
@@ -1301,7 +1293,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for leg armor in Maguuma Jungle",
@@ -1310,7 +1302,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for footwear in Maguuma Jungle",
@@ -1319,7 +1311,7 @@
 			"Trade",
 			"Maguuma Jungle"
 		],
-		"requires": "|Progressive Prophecies Story:9|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
 		"name": "Trade for headgear in Crystal Desert",
@@ -1328,7 +1320,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for chest armor in Crystal Desert",
@@ -1337,7 +1329,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for hand armor in Crystal Desert",
@@ -1346,7 +1338,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for leg armor in Crystal Desert",
@@ -1355,7 +1347,7 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
 		"name": "Trade for footwear in Crystal Desert",
@@ -1364,6 +1356,141 @@
 			"Trade",
 			"Crystal Desert"
 		],
-		"requires": "|Progressive Prophecies Story:14|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Trade for headgear in Istan",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+	},
+	{
+		"name": "Trade for chest armor in Istan",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+	},
+	{
+		"name": "Trade for hand armor in Istan",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+	},
+	{
+		"name": "Trade for leg armor in Istan",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+	},
+	{
+		"name": "Trade for footwear in Istan",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+	},
+	{
+		"name": "Trade for headgear in Shing Jea Island",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
+	},
+	{
+		"name": "Trade for chest armor in Shing Jea Island",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
+	},
+	{
+		"name": "Trade for hand armor in Shing Jea Island",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
+	},
+	{
+		"name": "Trade for leg armor in Shing Jea Island",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
+	},
+	{
+		"name": "Trade for footwear in Shing Jea Island",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
+	},
+	{
+		"name": "Trade for headgear in Kaineng City",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Trade for chest armor in Kaineng City",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Trade for hand armor in Kaineng City",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Trade for leg armor in Kaineng City",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Trade for footwear in Kaineng City",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	}
 ]

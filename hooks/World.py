@@ -14,9 +14,9 @@ from ..Data import game_table, item_table, location_table, region_table
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 
+# calling logging.info("message") anywhere below in this file will output the message to both console and log file
+import logging
 import random
-
-
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -107,6 +107,10 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         if itemName != goal:
             itemNamesToRemove.append(itemName)
 
+    logging.info("#############################################")
+    logging.info(f"Player {player} will start with {start} and must reach {goal}")
+    logging.info("#############################################")
+
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name
@@ -193,3 +197,7 @@ def before_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld,
 # This is called after slot data is set and provides the slot data at the time, in case you want to check and modify it after Manual is done with it
 def after_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld, player: int) -> dict:
     return slot_data
+
+# This is called right at the end, in case you want to write stuff to the spoiler log
+def before_write_spoiler(world: World, multiworld: MultiWorld, spoiler_handle) -> None:
+    pass
