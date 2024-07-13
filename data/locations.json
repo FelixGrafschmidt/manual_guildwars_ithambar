@@ -1112,6 +1112,264 @@
 		]
 	},
 	{
+		"name": "Mission - The Beginning of the End",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission"
+		],
+		"requires": "|Unlock Campaigns|"
+	},
+	{
+		"name": "Mission - Finding Gadd",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:1|"
+	},
+	{
+		"name": "Mission - Lab Space",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:1|"
+	},
+	{
+		"name": "Mission - Finding the Bloodstone",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:2|"
+	},
+	{
+		"name": "Mission - The Elusive Golemancer",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:2|"
+	},
+	{
+		"name": "Mission - A Little Help",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:3|"
+	},
+	{
+		"name": "Mission - Genius Operated Living Enchanted Manifestation",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:4|"
+	},
+	{
+		"name": "Mission - The Knowledgeable Asura",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Asura"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:5|"
+	},
+	{
+		"name": "Mission - Search for the Ebon Vanguard",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:1|"
+	},
+	{
+		"name": "Mission - Against the Charr",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:2|"
+	},
+	{
+		"name": "Mission - The Dawn of Rebellion",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:3|"
+	},
+	{
+		"name": "Mission - Warband of Brothers",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:4|"
+	},
+	{
+		"name": "Mission - What Must Be Done",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:5|"
+	},
+	{
+		"name": "Mission - Assault on the Stronghold",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:6|"
+	},
+	{
+		"name": "Mission - The Missing Vanguard",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Vanguard"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:7|"
+	},
+	{
+		"name": "Mission - Tracking the Nornbear",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:1|"
+	},
+	{
+		"name": "Mission - Curse of the Nornbear",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:2|"
+	},
+	{
+		"name": "Mission - Flames of the Bear Spirit",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:3|"
+	},
+	{
+		"name": "Mission - Vision of the Raven Spirit",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:3|"
+	},
+	{
+		"name": "Mission - Blood Washes Blood",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:4|"
+	},
+	{
+		"name": "Mission - A Gate Too Far",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:4|"
+	},
+	{
+		"name": "Mission - Northern Allies",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission",
+			"Norn"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:5|"
+	},
+	{
+		"name": "Mission - Heart of the Shiverpeaks",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:8|"
+	},
+	{
+		"name": "Mission - Destruction's Depths",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:9|"
+	},
+	{
+		"name": "Mission - A Time for Heroes",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:10|"
+	},
+	{
+		"name": "Mission - Against the Destroyers",
+		"category": [
+			"Eye of the North",
+			"Story",
+			"Mission"
+		],
+		"requires": "|Unlock Campaigns| and |Progressive Eye of the North Story:11|",
+		"place_item": [
+			"Eye of the North Done"
+		]
+	},
+	{
 		"name": "Trade for chest armor in Ascalon (pre-Searing)",
 		"category": [
 			"Prophecies",

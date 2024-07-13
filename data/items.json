@@ -23,6 +23,15 @@
 			"Progression",
 			"Nightfall"
 		],
+		"count": 25,
+		"progression": true
+	},
+	{
+		"name": "Progressive Eye of the North Story",
+		"category": [
+			"Progression",
+			"Eye of the North"
+		],
 		"count": 20,
 		"progression": true
 	},
@@ -633,7 +642,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Monk",
@@ -641,7 +650,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Ranger",
@@ -649,7 +658,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Mesmer",
@@ -657,7 +666,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Elementalist",
@@ -665,7 +674,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Necromancer",
@@ -673,7 +682,7 @@
 			"Hero Slot"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Assassin",
@@ -682,7 +691,7 @@
 			"Factions"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Ritualist",
@@ -691,7 +700,7 @@
 			"Factions"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Dervish",
@@ -700,7 +709,7 @@
 			"Nightfall"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	},
 	{
 		"name": "Hero Slot - Paragon",
@@ -709,6 +718,6 @@
 			"Nightfall"
 		],
 		"progression": true,
-		"count": 2
+		"count": 3
 	}
 ]
