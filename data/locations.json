@@ -8,7 +8,7 @@
 		"victory": true
 	},
 	{
-		"name": "Complete Tutorial",
+		"name": "Complete Tutorial (Pre-Searing Ascalon)",
 		"category": [
 			"Prophecies",
 			"Prophecies Start",
@@ -16,6 +16,26 @@
 			"Ascalon (pre-Searing)"
 		],
 		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Complete Tutorial (Reach Shing Jea Monastery)",
+		"category": [
+			"Factions",
+			"Factions Start",
+			"Story",
+			"Shing Jea Island"
+		],
+		"requires": "|Factions - Start|"
+	},
+	{
+		"name": "Complete Tutorial (Reach Chahbek)",
+		"category": [
+			"Nightfall",
+			"Nightfall Start",
+			"Story",
+			"Istan"
+		],
+		"requires": "|Nightfall - Start|"
 	},
 	{
 		"name": "Mission - The Great Northern Wall",
@@ -147,8 +167,7 @@
 		],
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|",
 		"place_item": [
-			"Unlock Campaigns",
-			"Progressive Prophecies Story"
+			"Unlock Campaigns"
 		]
 	},
 	{
@@ -565,8 +584,7 @@
 		],
 		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|",
 		"place_item": [
-			"Unlock Campaigns",
-			"Progressive Factions Story"
+			"Unlock Campaigns"
 		]
 	},
 	{
@@ -824,8 +842,7 @@
 		],
 		"requires": "(|Nightfall - Start| or |Unlock Campaigns|) and |Progressive Nightfall Story:2| and |Hero Slot - Monk|",
 		"place_item": [
-			"Unlock Campaigns",
-			"Progressive Nightfall Story"
+			"Unlock Campaigns"
 		]
 	},
 	{
@@ -1623,7 +1640,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
 		"name": "Trade for chest armor in Istan",
@@ -1632,7 +1649,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
 		"name": "Trade for hand armor in Istan",
@@ -1641,7 +1658,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
 		"name": "Trade for leg armor in Istan",
@@ -1650,7 +1667,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
 		"name": "Trade for footwear in Istan",
@@ -1659,7 +1676,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
 		"name": "Trade for headgear in Shing Jea Island",
