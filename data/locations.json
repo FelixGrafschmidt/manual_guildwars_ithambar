@@ -1387,47 +1387,7 @@
 		]
 	},
 	{
-		"name": "Trade for chest armor in Ascalon (pre-Searing)",
-		"category": [
-			"Prophecies",
-			"Prophecies Start",
-			"Trade",
-			"Ascalon (pre-Searing)"
-		],
-		"requires": "|Prophecies - Start|"
-	},
-	{
-		"name": "Trade for hand armor in Ascalon (pre-Searing)",
-		"category": [
-			"Prophecies",
-			"Prophecies Start",
-			"Trade",
-			"Ascalon (pre-Searing)"
-		],
-		"requires": "|Prophecies - Start|"
-	},
-	{
-		"name": "Trade for leg armor in Ascalon (pre-Searing)",
-		"category": [
-			"Prophecies",
-			"Prophecies Start",
-			"Trade",
-			"Ascalon (pre-Searing)"
-		],
-		"requires": "|Prophecies - Start|"
-	},
-	{
-		"name": "Trade for footwear in Ascalon (pre-Searing)",
-		"category": [
-			"Prophecies",
-			"Prophecies Start",
-			"Trade",
-			"Ascalon (pre-Searing)"
-		],
-		"requires": "|Prophecies - Start|"
-	},
-	{
-		"name": "Trade for chest armor in Ascalon",
+		"name": "Acquire (15/25/35) head armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1436,7 +1396,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for hand armor in Ascalon",
+		"name": "Acquire (15/25/35) chest armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1445,7 +1405,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for leg armor in Ascalon",
+		"name": "Acquire (15/25/35) hand armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1454,7 +1414,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for footwear in Ascalon",
+		"name": "Acquire (15/25/35) leg armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1463,70 +1423,61 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for headgear in the Northern Shiverpeaks",
+		"name": "Acquire (15/25/35) footwear in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Northern Shiverpeaks"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for chest armor in the Northern Shiverpeaks",
+		"name": "Acquire (30/40/50) head armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Northern Shiverpeaks"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for hand armor in the Northern Shiverpeaks",
+		"name": "Acquire (30/40/50) chest armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Northern Shiverpeaks"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for footwear in the Northern Shiverpeaks",
+		"name": "Acquire (30/40/50) hand armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Northern Shiverpeaks"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:4|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for headgear in Kryta",
+		"name": "Acquire (30/40/50) leg armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Kryta"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for chest armor in Kryta",
+		"name": "Acquire (30/40/50) footwear in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
-			"Kryta"
+			"Ascalon"
 		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for hand armor in Kryta",
-		"category": [
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Trade for leg armor in Kryta",
+		"name": "Acquire (39/49/59) head armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1535,7 +1486,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
-		"name": "Trade for footwear in Kryta",
+		"name": "Acquire (39/49/59) chest armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1544,7 +1495,34 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
 	},
 	{
-		"name": "Trade for headgear in Maguuma Jungle",
+		"name": "Acquire (39/49/59) hand armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Kryta"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Acquire (39/49/59) leg armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Kryta"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Acquire (39/49/59) footwear in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Kryta"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Acquire (45/55/65) head armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1553,7 +1531,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
-		"name": "Trade for chest armor in Maguuma Jungle",
+		"name": "Acquire (45/55/65) chest armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1562,7 +1540,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
-		"name": "Trade for hand armor in Maguuma Jungle",
+		"name": "Acquire (45/55/65) hand armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1571,7 +1549,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
-		"name": "Trade for leg armor in Maguuma Jungle",
+		"name": "Acquire (45/55/65) leg armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1580,7 +1558,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
-		"name": "Trade for footwear in Maguuma Jungle",
+		"name": "Acquire (45/55/65) footwear in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1589,7 +1567,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:9|"
 	},
 	{
-		"name": "Trade for headgear in Crystal Desert",
+		"name": "Acquire (51/61/71) head armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1598,7 +1576,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
-		"name": "Trade for chest armor in Crystal Desert",
+		"name": "Acquire (51/61/71) chest armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1607,7 +1585,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
-		"name": "Trade for hand armor in Crystal Desert",
+		"name": "Acquire (51/61/71) hand armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1616,7 +1594,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
-		"name": "Trade for leg armor in Crystal Desert",
+		"name": "Acquire (51/61/71) leg armour in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1625,7 +1603,7 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
-		"name": "Trade for footwear in Crystal Desert",
+		"name": "Acquire (51/61/71) footwear in Tyria",
 		"category": [
 			"Prophecies",
 			"Trade",
@@ -1634,7 +1612,52 @@
 		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:14|"
 	},
 	{
-		"name": "Trade for headgear in Istan",
+		"name": "Acquire (60/70/80) head armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Southern Shiverpeaks"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Acquire (60/70/80) chest armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Southern Shiverpeaks"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Acquire (60/70/80) hand armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Southern Shiverpeaks"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Acquire (60/70/80) leg armour in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Southern Shiverpeaks"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Acquire (60/70/80) footwear in Tyria",
+		"category": [
+			"Prophecies",
+			"Trade",
+			"Southern Shiverpeaks"
+		],
+		"requires": "(|Prophecies - Start| or |Unlock Campaigns|) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Acquire (15/25/35) head armour in Elona",
 		"category": [
 			"Nightfall",
 			"Trade",
@@ -1643,7 +1666,7 @@
 		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
-		"name": "Trade for chest armor in Istan",
+		"name": "Acquire (15/25/35) chest armour in Elona",
 		"category": [
 			"Nightfall",
 			"Trade",
@@ -1652,7 +1675,7 @@
 		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
-		"name": "Trade for hand armor in Istan",
+		"name": "Acquire (15/25/35) hand armour in Elona",
 		"category": [
 			"Nightfall",
 			"Trade",
@@ -1661,7 +1684,7 @@
 		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
-		"name": "Trade for leg armor in Istan",
+		"name": "Acquire (15/25/35) leg armour in Elona",
 		"category": [
 			"Nightfall",
 			"Trade",
@@ -1670,7 +1693,7 @@
 		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
-		"name": "Trade for footwear in Istan",
+		"name": "Acquire (15/25/35) footwear in Elona",
 		"category": [
 			"Nightfall",
 			"Trade",
@@ -1679,7 +1702,142 @@
 		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
 	},
 	{
-		"name": "Trade for headgear in Shing Jea Island",
+		"name": "Acquire (30/40/50) head armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+	},
+	{
+		"name": "Acquire (30/40/50) chest armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+	},
+	{
+		"name": "Acquire (30/40/50) hand armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+	},
+	{
+		"name": "Acquire (30/40/50) leg armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+	},
+	{
+		"name": "Acquire (30/40/50) footwear in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+	},
+	{
+		"name": "Acquire (45/55/65) head armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+	},
+	{
+		"name": "Acquire (45/55/65) chest armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+	},
+	{
+		"name": "Acquire (45/55/65) hand armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+	},
+	{
+		"name": "Acquire (45/55/65) leg armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+	},
+	{
+		"name": "Acquire (45/55/65) footwear in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+	},
+	{
+		"name": "Acquire (60/70/80) head armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+	},
+	{
+		"name": "Acquire (60/70/80) chest armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+	},
+	{
+		"name": "Acquire (60/70/80) hand armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+	},
+	{
+		"name": "Acquire (60/70/80) leg armour in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+	},
+	{
+		"name": "Acquire (60/70/80) footwear in Elona",
+		"category": [
+			"Nightfall",
+			"Trade",
+			"Istan"
+		],
+		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+	},
+	{
+		"name": "Acquire (15/25/35) head armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
@@ -1688,7 +1846,7 @@
 		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for chest armor in Shing Jea Island",
+		"name": "Acquire (15/25/35) chest armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
@@ -1697,7 +1855,7 @@
 		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for hand armor in Shing Jea Island",
+		"name": "Acquire (15/25/35) hand armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
@@ -1706,7 +1864,7 @@
 		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for leg armor in Shing Jea Island",
+		"name": "Acquire (15/25/35) leg armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
@@ -1715,7 +1873,7 @@
 		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for footwear in Shing Jea Island",
+		"name": "Acquire (15/25/35) footwear in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
@@ -1724,48 +1882,138 @@
 		"requires": "(|Factions - Start| or |Unlock Campaigns|)"
 	},
 	{
-		"name": "Trade for headgear in Kaineng City",
+		"name": "Acquire (30/40/50) head armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
-			"Kaineng City"
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Acquire (30/40/50) chest armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Acquire (30/40/50) hand armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Acquire (30/40/50) leg armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Acquire (30/40/50) footwear in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Acquire (45/55/65) head armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
 		],
 		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	},
 	{
-		"name": "Trade for chest armor in Kaineng City",
+		"name": "Acquire (45/55/65) chest armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
-			"Kaineng City"
+			"Shing Jea Island"
 		],
 		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	},
 	{
-		"name": "Trade for hand armor in Kaineng City",
+		"name": "Acquire (45/55/65) hand armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
-			"Kaineng City"
+			"Shing Jea Island"
 		],
 		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	},
 	{
-		"name": "Trade for leg armor in Kaineng City",
+		"name": "Acquire (45/55/65) leg armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
-			"Kaineng City"
+			"Shing Jea Island"
 		],
 		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
 	},
 	{
-		"name": "Trade for footwear in Kaineng City",
+		"name": "Acquire (45/55/65) footwear in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Shing Jea Island"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Acquire (60/70/80) head armour in Cantha",
 		"category": [
 			"Factions",
 			"Trade",
 			"Kaineng City"
 		],
-		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:2|"
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Acquire (60/70/80) chest armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Acquire (60/70/80) hand armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Acquire (60/70/80) leg armour in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Acquire (60/70/80) footwear in Cantha",
+		"category": [
+			"Factions",
+			"Trade",
+			"Kaineng City"
+		],
+		"requires": "(|Factions - Start| or |Unlock Campaigns|) and |Progressive Factions Story:3|"
 	}
 ]
