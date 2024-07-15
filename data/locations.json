@@ -1663,7 +1663,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|))"
 	},
 	{
 		"name": "Acquire (15/25/35) chest armour in Elona",
@@ -1672,7 +1672,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|))"
 	},
 	{
 		"name": "Acquire (15/25/35) hand armour in Elona",
@@ -1681,7 +1681,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|))"
 	},
 	{
 		"name": "Acquire (15/25/35) leg armour in Elona",
@@ -1690,7 +1690,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|))"
 	},
 	{
 		"name": "Acquire (15/25/35) footwear in Elona",
@@ -1699,7 +1699,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:2|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|))"
 	},
 	{
 		"name": "Acquire (30/40/50) head armour in Elona",
@@ -1708,7 +1708,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:1|"
 	},
 	{
 		"name": "Acquire (30/40/50) chest armour in Elona",
@@ -1717,7 +1717,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:1|"
 	},
 	{
 		"name": "Acquire (30/40/50) hand armour in Elona",
@@ -1726,7 +1726,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:1|"
 	},
 	{
 		"name": "Acquire (30/40/50) leg armour in Elona",
@@ -1735,7 +1735,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:1|"
 	},
 	{
 		"name": "Acquire (30/40/50) footwear in Elona",
@@ -1744,7 +1744,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:3|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:1|"
 	},
 	{
 		"name": "Acquire (45/55/65) head armour in Elona",
@@ -1753,7 +1753,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:2|"
 	},
 	{
 		"name": "Acquire (45/55/65) chest armour in Elona",
@@ -1762,7 +1762,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:2|"
 	},
 	{
 		"name": "Acquire (45/55/65) hand armour in Elona",
@@ -1771,7 +1771,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:2|"
 	},
 	{
 		"name": "Acquire (45/55/65) leg armour in Elona",
@@ -1780,7 +1780,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:2|"
 	},
 	{
 		"name": "Acquire (45/55/65) footwear in Elona",
@@ -1789,7 +1789,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:4|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:2|"
 	},
 	{
 		"name": "Acquire (60/70/80) head armour in Elona",
@@ -1798,7 +1798,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:3|"
 	},
 	{
 		"name": "Acquire (60/70/80) chest armour in Elona",
@@ -1807,7 +1807,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:3|"
 	},
 	{
 		"name": "Acquire (60/70/80) hand armour in Elona",
@@ -1816,7 +1816,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:3|"
 	},
 	{
 		"name": "Acquire (60/70/80) leg armour in Elona",
@@ -1825,7 +1825,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:3|"
 	},
 	{
 		"name": "Acquire (60/70/80) footwear in Elona",
@@ -1834,7 +1834,7 @@
 			"Trade",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| and |Hero Slot - Warrior|) or (|Prophecies - Start| and |Progressive Prophecies Story:7|) or (|Factions - Start| and |Progressive Factions Story:5|)"
+		"requires": "((|Nightfall - Start| and |Hero Slot - Warrior|) or (|Unlock Campaigns|)) and |Progressive Nightfall Story:3|"
 	},
 	{
 		"name": "Acquire (15/25/35) head armour in Cantha",
