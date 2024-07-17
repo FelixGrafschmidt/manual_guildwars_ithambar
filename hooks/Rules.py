@@ -4,6 +4,7 @@ from ..Helpers import clamp, get_items_with_value
 from BaseClasses import MultiWorld, CollectionState
 
 import re
+import logging
 
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
 # Define a function here, and you can use it in a requires string with {function_name()}.
@@ -150,6 +151,7 @@ def locationChecked(world: World, multiworld: MultiWorld, state: CollectionState
         if l.player == player and l.name == location:
             return True
     return False
+
 
 def campaignsUnlocked(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Is the player able to switch campaigns?"""

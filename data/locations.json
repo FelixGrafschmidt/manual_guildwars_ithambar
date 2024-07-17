@@ -814,7 +814,7 @@
 			"Mission",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:1| and |Hero Class - Dervish|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:1| and |Hero Class - Dervish|"
 	},
 	{
 		"name": "Bonus - Jokanur Diggings",
@@ -824,7 +824,7 @@
 			"Bonus",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:1| and |Hero Class - Dervish|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:1| and |Hero Class - Dervish|"
 	},
 	{
 		"name": "Mission - Blacktide Den",
@@ -834,7 +834,7 @@
 			"Mission",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:2| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:2| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Bonus - Blacktide Den",
@@ -844,7 +844,7 @@
 			"Bonus",
 			"Istan"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:2| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:2| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Mission - Consulate Docks",
@@ -854,7 +854,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:3| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:3| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Bonus - Consulate Docks",
@@ -864,7 +864,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:3| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:3| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Mission - Venta Cemetery",
@@ -874,7 +874,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:4| and |Hero Class - Warrior|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:4| and |Hero Class - Warrior|"
 	},
 	{
 		"name": "Bonus - Venta Cemetery",
@@ -884,7 +884,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:4| and |Hero Class - Warrior|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:4| and |Hero Class - Warrior|"
 	},
 	{
 		"name": "Mission - Kodonur Crossroads",
@@ -894,7 +894,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:5| and |Hero Class - Elementalist|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:5| and |Hero Class - Elementalist|"
 	},
 	{
 		"name": "Bonus - Kodonur Crossroads",
@@ -904,7 +904,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:5| and |Hero Class - Elementalist|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:5| and |Hero Class - Elementalist|"
 	},
 	{
 		"name": "Mission - Pogahn Passage or Mission - Rilohn Refuge",
@@ -914,7 +914,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:6| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:6| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
 	},
 	{
 		"name": "Bonus - Pogahn Passage or Bonus - Rilohn Refuge",
@@ -924,7 +924,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:6| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:6| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
 	},
 	{
 		"name": "Mission - Moddok Crevice",
@@ -934,7 +934,7 @@
 			"Mission",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:7| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:7| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Bonus - Moddok Crevice",
@@ -944,7 +944,7 @@
 			"Bonus",
 			"Kourna"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:7| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:7| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Mission - Tihark Orchard",
@@ -954,7 +954,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:8|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
 	{
 		"name": "Bonus - Tihark Orchard",
@@ -964,7 +964,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:8|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
 	{
 		"name": "Mission - Dasha Vestibule or Mission - Dzagonur Bastion",
@@ -974,7 +974,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:9| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:9| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
 	},
 	{
 		"name": "Bonus - Dasha Vestibule or Bonus - Dzagonur Bastion",
@@ -984,7 +984,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:9| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:9| and |Hero Class - Ranger| and |Hero Class - Necromancer|"
 	},
 	{
 		"name": "Mission - Grand Court of Sebelkeh",
@@ -994,7 +994,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:10| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:10| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Bonus - Grand Court of Sebelkeh",
@@ -1004,7 +1004,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:10| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:10| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Mission - Jennur's Horde or Mission - Nundu Bay",
@@ -1014,7 +1014,7 @@
 			"Mission",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:11| and |Hero Class - Warrior| and |Hero Class - Dervish|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:11| and |Hero Class - Warrior| and |Hero Class - Dervish|"
 	},
 	{
 		"name": "Bonus - Jennur's Horde or Bonus - Nundu Bay",
@@ -1024,7 +1024,7 @@
 			"Bonus",
 			"Vabbi"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:11| and |Hero Class - Warrior| and |Hero Class - Dervish|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:11| and |Hero Class - Warrior| and |Hero Class - Dervish|"
 	},
 	{
 		"name": "Mission - Gate of Desolation",
@@ -1034,7 +1034,7 @@
 			"Mission",
 			"The Desolation"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:12| and |Hero Class - Elementalist|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:12| and |Hero Class - Elementalist|"
 	},
 	{
 		"name": "Bonus - Gate of Desolation",
@@ -1044,7 +1044,7 @@
 			"Bonus",
 			"The Desolation"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:12| and |Hero Class - Elementalist|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:12| and |Hero Class - Elementalist|"
 	},
 	{
 		"name": "Mission - Ruins of Morah",
@@ -1054,7 +1054,7 @@
 			"Mission",
 			"The Desolation"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:13| and |Hero Class - Paragon|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:13| and |Hero Class - Paragon|"
 	},
 	{
 		"name": "Bonus - Ruins of Morah",
@@ -1064,7 +1064,7 @@
 			"Bonus",
 			"The Desolation"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:13| and |Hero Class - Paragon|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:13| and |Hero Class - Paragon|"
 	},
 	{
 		"name": "Mission - Gate of Pain",
@@ -1074,7 +1074,7 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:14| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:14| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Bonus - Gate of Pain",
@@ -1084,7 +1084,7 @@
 			"Bonus",
 			"Realm of Torment"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:14| and |Hero Class - Monk|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:14| and |Hero Class - Monk|"
 	},
 	{
 		"name": "Mission - Gate of Madness",
@@ -1094,7 +1094,7 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:15|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
 	{
 		"name": "Bonus - Gate of Madness",
@@ -1104,7 +1104,7 @@
 			"Bonus",
 			"Realm of Torment"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:15|"
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
 	{
 		"name": "Mission - Abaddon's Gate",
@@ -1114,7 +1114,7 @@
 			"Mission",
 			"Realm of Torment"
 		],
-		"requires": "(|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:16|",
+		"requires": "{locationChecked(Mission - Chahbek Village)} and (|Nightfall - Start| or {campaignsUnlocked()}) and |Progressive Nightfall Story:16|",
 		"place_item": [
 			"Nightfall Done"
 		]
