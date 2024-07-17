@@ -145,20 +145,32 @@ def canReachLocation(world: World, multiworld: MultiWorld, state: CollectionStat
         return True
     return False
 
+def hasAllItems(world: World, multiworld: MultiWorld, state: CollectionState, player: int, items: str):
+    """Does the player have all of the given items?"""
+    itemsArray = items.split(";")
+    for item in itemsArray:
+        if not state.has(item, player):
+            return False
+    return True
+
 def locationChecked(world: World, multiworld: MultiWorld, state: CollectionState, player: int, location: str):
     """Has the player checked the given location?"""
+
     for l in state.locations_checked:
         if l.player == player and l.name == location:
             return True
     return False
 
+def nightfallCompletable(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Generation fails if this simply asks for completion of the previous mission, but this seems to work."""
+    return state.has_all(["Hero Class - Warrior", "Hero Class - Dervish", "Hero Class - Monk", "Hero Class - Ranger", "Hero Class - Necromancer", "Hero Class - Elementalist", "Hero Class - Paragon"], player)
 
 def campaignsUnlocked(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Is the player able to switch campaigns?"""
-    if state.has("Prophecies - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Gates of Kryta"):
+    if state.has("Prophecies - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Gates of Kryta"):
         return True
-    if state.has("Factions - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Vizunah Square"):
+    if state.has("Factions - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Vizunah Square"):
         return True
-    if state.has("Nightfall - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Blacktide Den"):
+    if state.has("Nightfall - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Blacktide Den"):
         return True
     return False

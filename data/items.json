@@ -36,11 +36,6 @@
 		"progression": true
 	},
 	{
-		"name": "Unlock Campaigns",
-		"count": 3,
-		"progression": true
-	},
-	{
 		"name": "Class - Mesmer",
 		"category": [
 			"Classes",
