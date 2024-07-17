@@ -143,3 +143,20 @@ def canReachLocation(world: World, multiworld: MultiWorld, state: CollectionStat
     if state.can_reach_location(location, player):
         return True
     return False
+
+def locationChecked(world: World, multiworld: MultiWorld, state: CollectionState, player: int, location: str):
+    """Has the player checked the given location?"""
+    for l in state.locations_checked:
+        if l.player == player and l.name == location:
+            return True
+    return False
+
+def campaignsUnlocked(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Is the player able to switch campaigns?"""
+    if state.has("Prophecies - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Gates of Kryta"):
+        return True
+    if state.has("Factions - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Vizunah Square"):
+        return True
+    if state.has("Nightfall - Start", player) and locationChecked(world, multiworld, state, player, "Mission - Blacktide Den"):
+        return True
+    return False

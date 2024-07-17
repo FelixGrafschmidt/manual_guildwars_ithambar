@@ -43,6 +43,7 @@
 	{
 		"name": "Class - Mesmer",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -53,6 +54,7 @@
 	{
 		"name": "Class - Warrior",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -63,6 +65,7 @@
 	{
 		"name": "Class - Monk",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -73,6 +76,7 @@
 	{
 		"name": "Class - Ranger",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -83,6 +87,7 @@
 	{
 		"name": "Class - Elementalist",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -93,6 +98,7 @@
 	{
 		"name": "Class - Necromancer",
 		"category": [
+			"Classes",
 			"Prophecies Class",
 			"Factions Class",
 			"Nightfall Class"
@@ -103,6 +109,7 @@
 	{
 		"name": "Class - Assassin",
 		"category": [
+			"Classes",
 			"Factions Class",
 			"Factions"
 		],
@@ -112,6 +119,7 @@
 	{
 		"name": "Class - Ritualist",
 		"category": [
+			"Classes",
 			"Factions Class",
 			"Factions"
 		],
@@ -121,6 +129,7 @@
 	{
 		"name": "Class - Dervish",
 		"category": [
+			"Classes",
 			"Nightfall Class",
 			"Nightfall"
 		],
@@ -130,6 +139,7 @@
 	{
 		"name": "Class - Paragon",
 		"category": [
+			"Classes",
 			"Nightfall Class",
 			"Nightfall"
 		],
@@ -140,7 +150,7 @@
 		"name": "Attribute - Fast Casting",
 		"category": [
 			"Attributes",
-			"Mesmer Attributes"
+			"Attributes - Mesmer"
 		],
 		"count": 1,
 		"progression": true
@@ -149,7 +159,7 @@
 		"name": "Attribute - Domination Magic",
 		"category": [
 			"Attributes",
-			"Mesmer Attributes"
+			"Attributes - Mesmer"
 		],
 		"count": 1,
 		"progression": true
@@ -158,7 +168,7 @@
 		"name": "Attribute - Illusion Magic",
 		"category": [
 			"Attributes",
-			"Mesmer Attributes"
+			"Attributes - Mesmer"
 		],
 		"count": 1,
 		"progression": true
@@ -167,7 +177,7 @@
 		"name": "Attribute - Inspiration Magic",
 		"category": [
 			"Attributes",
-			"Mesmer Attributes"
+			"Attributes - Mesmer"
 		],
 		"count": 1,
 		"progression": true
@@ -176,7 +186,7 @@
 		"name": "Attribute - Strength",
 		"category": [
 			"Attributes",
-			"Warrior Attributes"
+			"Attributes - Warrior"
 		],
 		"count": 1,
 		"progression": true
@@ -185,7 +195,7 @@
 		"name": "Attribute - Axe Mastery",
 		"category": [
 			"Attributes",
-			"Warrior Attributes"
+			"Attributes - Warrior"
 		],
 		"count": 1,
 		"progression": true
@@ -194,7 +204,7 @@
 		"name": "Attribute - Hammer Mastery",
 		"category": [
 			"Attributes",
-			"Warrior Attributes"
+			"Attributes - Warrior"
 		],
 		"count": 1,
 		"progression": true
@@ -203,7 +213,7 @@
 		"name": "Attribute - Swordsmanship",
 		"category": [
 			"Attributes",
-			"Warrior Attributes"
+			"Attributes - Warrior"
 		],
 		"count": 1,
 		"progression": true
@@ -212,7 +222,7 @@
 		"name": "Attribute - Tactics",
 		"category": [
 			"Attributes",
-			"Warrior Attributes"
+			"Attributes - Warrior"
 		],
 		"count": 1,
 		"progression": true
@@ -221,7 +231,7 @@
 		"name": "Attribute - Expertise",
 		"category": [
 			"Attributes",
-			"Ranger Attributes"
+			"Attributes - Ranger"
 		],
 		"count": 1,
 		"progression": true
@@ -230,7 +240,7 @@
 		"name": "Attribute - Beast Mastery",
 		"category": [
 			"Attributes",
-			"Ranger Attributes"
+			"Attributes - Ranger"
 		],
 		"count": 1,
 		"progression": true
@@ -239,7 +249,7 @@
 		"name": "Attribute - Marksmanship",
 		"category": [
 			"Attributes",
-			"Ranger Attributes"
+			"Attributes - Ranger"
 		],
 		"count": 1,
 		"progression": true
@@ -248,7 +258,7 @@
 		"name": "Attribute - Wilderness Survival",
 		"category": [
 			"Attributes",
-			"Ranger Attributes"
+			"Attributes - Ranger"
 		],
 		"count": 1,
 		"progression": true
@@ -257,7 +267,7 @@
 		"name": "Attribute - Divine Favor",
 		"category": [
 			"Attributes",
-			"Monk Attributes"
+			"Attributes - Monk"
 		],
 		"count": 1,
 		"progression": true
@@ -266,7 +276,7 @@
 		"name": "Attribute - Healing Prayers",
 		"category": [
 			"Attributes",
-			"Monk Attributes"
+			"Attributes - Monk"
 		],
 		"count": 1,
 		"progression": true
@@ -275,7 +285,7 @@
 		"name": "Attribute - Smiting Prayers",
 		"category": [
 			"Attributes",
-			"Monk Attributes"
+			"Attributes - Monk"
 		],
 		"count": 1,
 		"progression": true
@@ -284,7 +294,7 @@
 		"name": "Attribute - Protection Prayers",
 		"category": [
 			"Attributes",
-			"Monk Attributes"
+			"Attributes - Monk"
 		],
 		"count": 1,
 		"progression": true
@@ -293,7 +303,7 @@
 		"name": "Attribute - Soul Reaping",
 		"category": [
 			"Attributes",
-			"Necromancer Attributes"
+			"Attributes - Necromancer"
 		],
 		"count": 1,
 		"progression": true
@@ -302,7 +312,7 @@
 		"name": "Attribute - Curses",
 		"category": [
 			"Attributes",
-			"Necromancer Attributes"
+			"Attributes - Necromancer"
 		],
 		"count": 1,
 		"progression": true
@@ -311,7 +321,7 @@
 		"name": "Attribute - Blood Magic",
 		"category": [
 			"Attributes",
-			"Necromancer Attributes"
+			"Attributes - Necromancer"
 		],
 		"count": 1,
 		"progression": true
@@ -320,7 +330,7 @@
 		"name": "Attribute - Death Magic",
 		"category": [
 			"Attributes",
-			"Necromancer Attributes"
+			"Attributes - Necromancer"
 		],
 		"count": 1,
 		"progression": true
@@ -329,7 +339,7 @@
 		"name": "Attribute - Energy Storage",
 		"category": [
 			"Attributes",
-			"Elementalist Attributes"
+			"Attributes - Elementalist"
 		],
 		"count": 1,
 		"progression": true
@@ -338,7 +348,7 @@
 		"name": "Attribute - Air Magic",
 		"category": [
 			"Attributes",
-			"Elementalist Attributes"
+			"Attributes - Elementalist"
 		],
 		"count": 1,
 		"progression": true
@@ -347,7 +357,7 @@
 		"name": "Attribute - Earth Magic",
 		"category": [
 			"Attributes",
-			"Elementalist Attributes"
+			"Attributes - Elementalist"
 		],
 		"count": 1,
 		"progression": true
@@ -356,7 +366,7 @@
 		"name": "Attribute - Fire Magic",
 		"category": [
 			"Attributes",
-			"Elementalist Attributes"
+			"Attributes - Elementalist"
 		],
 		"count": 1,
 		"progression": true
@@ -365,7 +375,7 @@
 		"name": "Attribute - Water Magic",
 		"category": [
 			"Attributes",
-			"Elementalist Attributes"
+			"Attributes - Elementalist"
 		],
 		"count": 1,
 		"progression": true
@@ -374,7 +384,7 @@
 		"name": "Attribute - Channeling Magic",
 		"category": [
 			"Attributes",
-			"Ritualist Attributes",
+			"Attributes - Ritualist",
 			"Factions"
 		],
 		"count": 1,
@@ -384,7 +394,7 @@
 		"name": "Attribute - Restoration Magic",
 		"category": [
 			"Attributes",
-			"Ritualist Attributes",
+			"Attributes - Ritualist",
 			"Factions"
 		],
 		"count": 1,
@@ -394,7 +404,7 @@
 		"name": "Attribute - Communing",
 		"category": [
 			"Attributes",
-			"Ritualist Attributes",
+			"Attributes - Ritualist",
 			"Factions"
 		],
 		"count": 1,
@@ -404,7 +414,7 @@
 		"name": "Attribute - Spawning Power",
 		"category": [
 			"Attributes",
-			"Ritualist Attributes",
+			"Attributes - Ritualist",
 			"Factions"
 		],
 		"count": 1,
@@ -414,7 +424,7 @@
 		"name": "Attribute - Command",
 		"category": [
 			"Attributes",
-			"Paragon Attributes",
+			"Attributes - Paragon",
 			"Nightfall"
 		],
 		"count": 1,
@@ -424,7 +434,7 @@
 		"name": "Attribute - Leadership",
 		"category": [
 			"Attributes",
-			"Paragon Attributes",
+			"Attributes - Paragon",
 			"Nightfall"
 		],
 		"count": 1,
@@ -434,7 +444,7 @@
 		"name": "Attribute - Motivation",
 		"category": [
 			"Attributes",
-			"Paragon Attributes",
+			"Attributes - Paragon",
 			"Nightfall"
 		],
 		"count": 1,
@@ -444,7 +454,7 @@
 		"name": "Attribute - Spear Mastery",
 		"category": [
 			"Attributes",
-			"Dervish Attributes",
+			"Attributes - Paragon",
 			"Nightfall"
 		],
 		"count": 1,
@@ -454,7 +464,7 @@
 		"name": "Attribute - Earth Prayers",
 		"category": [
 			"Attributes",
-			"Dervish Attributes",
+			"Attributes - Dervish",
 			"Nightfall"
 		],
 		"count": 1,
@@ -464,7 +474,7 @@
 		"name": "Attribute - Mysticism",
 		"category": [
 			"Attributes",
-			"Dervish Attributes",
+			"Attributes - Dervish",
 			"Nightfall"
 		],
 		"count": 1,
@@ -474,7 +484,7 @@
 		"name": "Attribute - Scythe Mastery",
 		"category": [
 			"Attributes",
-			"Dervish Attributes",
+			"Attributes - Dervish",
 			"Nightfall"
 		],
 		"count": 1,
@@ -484,7 +494,7 @@
 		"name": "Attribute - Wind Prayers",
 		"category": [
 			"Attributes",
-			"Paragon Attributes",
+			"Attributes - Dervish",
 			"Nightfall"
 		],
 		"count": 1,
@@ -494,7 +504,7 @@
 		"name": "Attribute - Critical Strikes",
 		"category": [
 			"Attributes",
-			"Assassin Attributes",
+			"Attributes - Assassin",
 			"Factions"
 		],
 		"count": 1,
@@ -504,7 +514,7 @@
 		"name": "Attribute - Dagger Mastery",
 		"category": [
 			"Attributes",
-			"Assassin Attributes",
+			"Attributes - Assassin",
 			"Factions"
 		],
 		"count": 1,
@@ -514,7 +524,7 @@
 		"name": "Attribute - Deadly Arts",
 		"category": [
 			"Attributes",
-			"Assassin Attributes",
+			"Attributes - Assassin",
 			"Factions"
 		],
 		"count": 1,
@@ -524,7 +534,7 @@
 		"name": "Attribute - Shadow Arts",
 		"category": [
 			"Attributes",
-			"Assassin Attributes",
+			"Attributes - Assassin",
 			"Factions"
 		],
 		"count": 1,
@@ -570,8 +580,7 @@
 		"name": "Prophecies - Start",
 		"category": [
 			"Start",
-			"Prophecies",
-			"Prophecies - Start"
+			"Prophecies"
 		],
 		"count": 1,
 		"progression": true
@@ -580,8 +589,7 @@
 		"name": "Factions - Start",
 		"category": [
 			"Start",
-			"Factions",
-			"Factions - Start"
+			"Factions"
 		],
 		"count": 1,
 		"progression": true
@@ -590,8 +598,7 @@
 		"name": "Nightfall - Start",
 		"category": [
 			"Start",
-			"Nightfall",
-			"Nightfall - Start"
+			"Nightfall"
 		],
 		"count": 1,
 		"progression": true
@@ -600,8 +607,7 @@
 		"name": "Prophecies - Goal",
 		"category": [
 			"Goal",
-			"Prophecies",
-			"Prophecies - Goal"
+			"Prophecies"
 		],
 		"count": 1,
 		"progression": true
@@ -610,8 +616,7 @@
 		"name": "Factions - Goal",
 		"category": [
 			"Goal",
-			"Factions",
-			"Factions - Goal"
+			"Factions"
 		],
 		"count": 1,
 		"progression": true
@@ -620,8 +625,7 @@
 		"name": "Nightfall - Goal",
 		"category": [
 			"Goal",
-			"Nightfall",
-			"Nightfall - Goal"
+			"Nightfall"
 		],
 		"count": 1,
 		"progression": true
@@ -630,91 +634,90 @@
 		"name": "Eye of the North - Goal",
 		"category": [
 			"Goal",
-			"Eye of the North",
-			"Eye of the North - Goal"
+			"Eye of the North"
 		],
 		"count": 1,
 		"progression": true
 	},
 	{
-		"name": "Hero Slot - Warrior",
+		"name": "Hero Class - Warrior",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Monk",
+		"name": "Hero Class - Monk",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Ranger",
+		"name": "Hero Class - Ranger",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Mesmer",
+		"name": "Hero Class - Mesmer",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Elementalist",
+		"name": "Hero Class - Elementalist",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Necromancer",
+		"name": "Hero Class - Necromancer",
 		"category": [
-			"Hero Slot"
+			"Hero Class"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Assassin",
+		"name": "Hero Class - Assassin",
 		"category": [
-			"Hero Slot",
+			"Hero Class",
 			"Factions"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Ritualist",
+		"name": "Hero Class - Ritualist",
 		"category": [
-			"Hero Slot",
+			"Hero Class",
 			"Factions"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Dervish",
+		"name": "Hero Class - Dervish",
 		"category": [
-			"Hero Slot",
+			"Hero Class",
 			"Nightfall"
 		],
 		"progression": true,
 		"count": 3
 	},
 	{
-		"name": "Hero Slot - Paragon",
+		"name": "Hero Class - Paragon",
 		"category": [
-			"Hero Slot",
+			"Hero Class",
 			"Nightfall"
 		],
 		"progression": true,

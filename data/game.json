@@ -61,7 +61,7 @@
 				"Class - Warrior"
 			],
 			"item_categories": [
-				"Warrior Attributes"
+				"Attributes - Warrior"
 			],
 			"random": 1
 		},
@@ -70,7 +70,7 @@
 				"Class - Ranger"
 			],
 			"item_categories": [
-				"Ranger Attributes"
+				"Attributes - Ranger"
 			],
 			"random": 1
 		},
@@ -79,7 +79,7 @@
 				"Class - Monk"
 			],
 			"item_categories": [
-				"Monk Attributes"
+				"Attributes - Monk"
 			],
 			"random": 1
 		},
@@ -88,7 +88,7 @@
 				"Class - Necromancer"
 			],
 			"item_categories": [
-				"Necromancer Attributes"
+				"Attributes - Necromancer"
 			],
 			"random": 1
 		},
@@ -97,7 +97,7 @@
 				"Class - Mesmer"
 			],
 			"item_categories": [
-				"Mesmer Attributes"
+				"Attributes - Mesmer"
 			],
 			"random": 1
 		},
@@ -106,7 +106,7 @@
 				"Class - Elementalist"
 			],
 			"item_categories": [
-				"Elementalist Attributes"
+				"Attributes - Elementalist"
 			],
 			"random": 1
 		},
@@ -115,7 +115,7 @@
 				"Class - Assassin"
 			],
 			"item_categories": [
-				"Assassin Attributes"
+				"Attributes - Assassin"
 			],
 			"random": 1
 		},
@@ -124,7 +124,7 @@
 				"Class - Ritualist"
 			],
 			"item_categories": [
-				"Ritualist Attributes"
+				"Attributes - Ritualist"
 			],
 			"random": 1
 		},
@@ -133,7 +133,7 @@
 				"Class - Paragon"
 			],
 			"item_categories": [
-				"Paragon Attributes"
+				"Attributes - Paragon"
 			],
 			"random": 1
 		},
@@ -142,7 +142,7 @@
 				"Class - Dervish"
 			],
 			"item_categories": [
-				"Dervish Attributes"
+				"Attributes - Dervish"
 			],
 			"random": 1
 		}
