@@ -538,7 +538,6 @@
 	{
 		"name": "Prophecies Done",
 		"category": [
-			"Victory",
 			"Prophecies"
 		],
 		"count": 1,
@@ -547,7 +546,6 @@
 	{
 		"name": "Factions Done",
 		"category": [
-			"Victory",
 			"Factions"
 		],
 		"count": 1,
@@ -556,7 +554,6 @@
 	{
 		"name": "Nightfall Done",
 		"category": [
-			"Victory",
 			"Nightfall"
 		],
 		"count": 1,
@@ -565,7 +562,6 @@
 	{
 		"name": "Eye of the North Done",
 		"category": [
-			"Victory",
 			"Eye of the North"
 		],
 		"count": 1,

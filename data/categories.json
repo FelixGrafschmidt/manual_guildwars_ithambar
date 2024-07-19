@@ -94,5 +94,8 @@
 	},
 	"Trade": {
 		"hidden": true
+	},
+	"All": {
+		"hidden": true
 	}
 }
