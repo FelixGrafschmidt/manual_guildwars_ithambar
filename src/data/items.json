@@ -1,409 +1,717 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
-    "data": [
-        {
-            "name": "Jill",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "progression": true
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
-            "progression": true
-        },
-        {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
-        "progression": true
-        },
-        {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Strider Hiryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix Wright",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Nova",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ghost Rider",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Arthur",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Frank West",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Vergil",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Fist",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Zero",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dante",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Deadpool",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Tron",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chun-Li",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Trish",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "X-23",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Storm",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Thor",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "M.O.D.O.K.",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Felicia",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spencer",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Akuma",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Viewtiful Joe",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        }    ]
-
-}
+[
+	{
+		"name": "Progressive Prophecies Story",
+		"category": [
+			"Progression",
+			"Prophecies"
+		],
+		"count": 25,
+		"progression": true
+	},
+	{
+		"name": "Progressive Factions Story",
+		"category": [
+			"Progression",
+			"Factions"
+		],
+		"count": 15,
+		"progression": true
+	},
+	{
+		"name": "Progressive Nightfall Story",
+		"category": [
+			"Progression",
+			"Nightfall"
+		],
+		"count": 25,
+		"progression": true
+	},
+	{
+		"name": "Progressive Eye of the North Story",
+		"category": [
+			"Progression",
+			"Eye of the North"
+		],
+		"count": 20,
+		"progression": true
+	},
+	{
+		"name": "Class - Mesmer",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Warrior",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Monk",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Ranger",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Elementalist",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Necromancer",
+		"category": [
+			"Classes",
+			"Prophecies Class",
+			"Factions Class",
+			"Nightfall Class"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Assassin",
+		"category": [
+			"Classes",
+			"Factions Class",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Ritualist",
+		"category": [
+			"Classes",
+			"Factions Class",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Dervish",
+		"category": [
+			"Classes",
+			"Nightfall Class",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Class - Paragon",
+		"category": [
+			"Classes",
+			"Nightfall Class",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Fast Casting",
+		"category": [
+			"Attributes",
+			"Attributes - Mesmer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Domination Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Mesmer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Illusion Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Mesmer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Inspiration Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Mesmer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Strength",
+		"category": [
+			"Attributes",
+			"Attributes - Warrior"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Axe Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Warrior"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Hammer Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Warrior"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Swordsmanship",
+		"category": [
+			"Attributes",
+			"Attributes - Warrior"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Tactics",
+		"category": [
+			"Attributes",
+			"Attributes - Warrior"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Expertise",
+		"category": [
+			"Attributes",
+			"Attributes - Ranger"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Beast Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Ranger"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Marksmanship",
+		"category": [
+			"Attributes",
+			"Attributes - Ranger"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Wilderness Survival",
+		"category": [
+			"Attributes",
+			"Attributes - Ranger"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Divine Favor",
+		"category": [
+			"Attributes",
+			"Attributes - Monk"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Healing Prayers",
+		"category": [
+			"Attributes",
+			"Attributes - Monk"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Smiting Prayers",
+		"category": [
+			"Attributes",
+			"Attributes - Monk"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Protection Prayers",
+		"category": [
+			"Attributes",
+			"Attributes - Monk"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Soul Reaping",
+		"category": [
+			"Attributes",
+			"Attributes - Necromancer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Curses",
+		"category": [
+			"Attributes",
+			"Attributes - Necromancer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Blood Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Necromancer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Death Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Necromancer"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Energy Storage",
+		"category": [
+			"Attributes",
+			"Attributes - Elementalist"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Air Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Elementalist"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Earth Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Elementalist"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Fire Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Elementalist"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Water Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Elementalist"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Channeling Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Ritualist",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Restoration Magic",
+		"category": [
+			"Attributes",
+			"Attributes - Ritualist",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Communing",
+		"category": [
+			"Attributes",
+			"Attributes - Ritualist",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Spawning Power",
+		"category": [
+			"Attributes",
+			"Attributes - Ritualist",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Command",
+		"category": [
+			"Attributes",
+			"Attributes - Paragon",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Leadership",
+		"category": [
+			"Attributes",
+			"Attributes - Paragon",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Motivation",
+		"category": [
+			"Attributes",
+			"Attributes - Paragon",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Spear Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Paragon",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Earth Prayers",
+		"category": [
+			"Attributes",
+			"Attributes - Dervish",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Mysticism",
+		"category": [
+			"Attributes",
+			"Attributes - Dervish",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Scythe Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Dervish",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Wind Prayers",
+		"category": [
+			"Attributes",
+			"Attributes - Dervish",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Critical Strikes",
+		"category": [
+			"Attributes",
+			"Attributes - Assassin",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Dagger Mastery",
+		"category": [
+			"Attributes",
+			"Attributes - Assassin",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Deadly Arts",
+		"category": [
+			"Attributes",
+			"Attributes - Assassin",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Attribute - Shadow Arts",
+		"category": [
+			"Attributes",
+			"Attributes - Assassin",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Prophecies Done",
+		"category": [
+			"Prophecies"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions Done",
+		"category": [
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall Done",
+		"category": [
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Eye of the North Done",
+		"category": [
+			"Eye of the North"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Prophecies - Start",
+		"category": [
+			"Start",
+			"Prophecies"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions - Start",
+		"category": [
+			"Start",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall - Start",
+		"category": [
+			"Start",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Prophecies - Goal",
+		"category": [
+			"Goal",
+			"Prophecies"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Factions - Goal",
+		"category": [
+			"Goal",
+			"Factions"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Nightfall - Goal",
+		"category": [
+			"Goal",
+			"Nightfall"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Eye of the North - Goal",
+		"category": [
+			"Goal",
+			"Eye of the North"
+		],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Hero Class - Warrior",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Monk",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Ranger",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Mesmer",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Elementalist",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Necromancer",
+		"category": [
+			"Hero Class"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Assassin",
+		"category": [
+			"Hero Class",
+			"Factions"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Ritualist",
+		"category": [
+			"Hero Class",
+			"Factions"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Dervish",
+		"category": [
+			"Hero Class",
+			"Nightfall"
+		],
+		"progression": true,
+		"count": 3
+	},
+	{
+		"name": "Hero Class - Paragon",
+		"category": [
+			"Hero Class",
+			"Nightfall"
+		],
+		"progression": true,
+		"count": 3
+	}
+]

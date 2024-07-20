@@ -1,9 +1,101 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
-        "hidden": true
-    },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
-    }
+	"Prophecies": {
+		"yaml_option": [
+			"prophecies"
+		],
+		"hidden": true
+	},
+	"Factions": {
+		"yaml_option": [
+			"factions"
+		],
+		"hidden": true
+	},
+	"Nightfall": {
+		"yaml_option": [
+			"nightfall"
+		],
+		"hidden": true
+	},
+	"Eye of the North": {
+		"yaml_option": [
+			"eotn"
+		],
+		"hidden": true
+	},
+	"Prophecies Start": {
+		"yaml_option": [
+			"allow_prophecies_start"
+		],
+		"hidden": true
+	},
+	"Factions Start": {
+		"yaml_option": [
+			"allow_factions_start"
+		],
+		"hidden": true
+	},
+	"Nightfall Start": {
+		"yaml_option": [
+			"allow_nightfall_start"
+		],
+		"hidden": true
+	},
+	"Prophecies Goal": {
+		"yaml_option": [
+			"allow_prophecies_goal"
+		],
+		"hidden": true
+	},
+	"Factions Goal": {
+		"yaml_option": [
+			"allow_factions_goal"
+		],
+		"hidden": true
+	},
+	"Nightfall Goal": {
+		"yaml_option": [
+			"allow_nightfall_goal"
+		],
+		"hidden": true
+	},
+	"Eye of the North Goal": {
+		"yaml_option": [
+			"allow_eotn_goal"
+		],
+		"hidden": true
+	},
+	"Thirsty River Bonus": {
+		"yaml_option": [
+			"thirsty_river_bonus"
+		],
+		"hidden": true
+	},
+	"Prophecies Class": {
+		"hidden": true
+	},
+	"Factions Class": {
+		"hidden": true
+	},
+	"Nightfall Class": {
+		"hidden": true
+	},
+	"Attributes": {
+		"hidden": true
+	},
+	"Bonus": {
+		"hidden": true
+	},
+	"Mission": {
+		"hidden": true
+	},
+	"Story": {
+		"hidden": true
+	},
+	"Trade": {
+		"hidden": true
+	},
+	"All": {
+		"hidden": true
+	}
 }

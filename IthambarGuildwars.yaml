@@ -23,7 +23,7 @@ Manual_GuildWars_Ithambar:
   eotn: "true"
   # Which start locations should be included in the pool
   allow_prophecies_start: "false"
-  allow_factions_start: "false"
+  allow_factions_start: "true"
   allow_nightfall_start: "true"
   # Which goals should be included in the pool
   allow_prophecies_goal: "true"

@@ -16,6 +16,7 @@ from ..Helpers import is_option_enabled, get_option_value
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
+import random
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -52,6 +53,73 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    # Use this hook to remove items from the item pool
+    itemNamesToRemove = [] # List of item names
+    possible_starts = ["Prophecies - Start", "Factions - Start", "Nightfall - Start"]
+    possible_goals = ["Prophecies - Goal", "Factions - Goal", "Nightfall - Goal", "Eye of the North - Goal"]
+
+    if is_option_enabled(multiworld, player, "prophecies"):
+        if not is_option_enabled(multiworld, player, "allow_prophecies_start"):
+            itemNamesToRemove.append("Prophecies - Start")
+            possible_starts.remove("Prophecies - Start")
+        if not is_option_enabled(multiworld, player, "allow_prophecies_goal"):
+            itemNamesToRemove.append("Prophecies - Goal")
+            possible_goals.remove("Prophecies - Goal")
+    else:
+        possible_starts.remove("Prophecies - Start")
+        possible_goals.remove("Prophecies - Goal")
+    if is_option_enabled(multiworld, player, "factions"):
+        if not is_option_enabled(multiworld, player, "allow_factions_start"):
+            itemNamesToRemove.append("Factions - Start")
+            possible_starts.remove("Factions - Start")
+        if not is_option_enabled(multiworld, player, "allow_factions_goal"):
+            itemNamesToRemove.append("Factions - Goal")
+            possible_goals.remove("Factions - Goal")
+    else:
+        possible_starts.remove("Factions - Start")
+        possible_goals.remove("Factions - Goal")
+    if is_option_enabled(multiworld, player, "nightfall"):
+        if not is_option_enabled(multiworld, player, "allow_nightfall_start"):
+            itemNamesToRemove.append("Nightfall - Start")
+            possible_starts.remove("Nightfall - Start")
+        if not is_option_enabled(multiworld, player, "allow_nightfall_goal"):
+            itemNamesToRemove.append("Nightfall - Goal")
+            possible_goals.remove("Nightfall - Goal")
+    else:
+        possible_starts.remove("Nightfall - Start")
+        possible_goals.remove("Nightfall - Goal")
+    if is_option_enabled(multiworld, player, "eotn"):
+        if not is_option_enabled(multiworld, player, "allow_eotn_goal"):
+            itemNamesToRemove.append("Eye of the North - Goal")
+            possible_goals.remove("Eye of the North - Goal")
+    else:
+        possible_goals.remove("Eye of the North - Goal")
+
+    start = random.choice(possible_starts)
+
+    for itemName in possible_starts:
+        if itemName != start:
+            itemNamesToRemove.append(itemName)
+
+    goal = random.choice(possible_goals)
+
+    for itemName in possible_goals:
+        if itemName != goal:
+            itemNamesToRemove.append(itemName)
+
+    logging.info("#############################################")
+    logging.info(f"Player {player} will start with {start} and must reach {goal}")
+    logging.info("#############################################")
+
+    # Add your code here to calculate which items to remove.
+    #
+    # Because multiple copies of an item can exist, you need to add an item name
+    # to the list multiple times if you want to remove multiple copies of it.
+
+    for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
+
     return item_pool
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
