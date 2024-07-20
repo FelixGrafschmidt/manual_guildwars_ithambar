@@ -1,4 +1,4 @@
-name: Create Release - Stable
+name: Release
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   create-release:
-    name: Create stable apworld
+    name: Create release
     runs-on: ubuntu-latest
 
     steps:
@@ -37,7 +37,7 @@ jobs:
       - name: Create an stable release
         uses: ncipollo/release-action@v1
         with:
-          name: "${{ env.VERSION }}"
-          tag: ${{ env.VERSION }}
+          name: "${{ inputs.version }}"
+          tag: ${{ inputs.version }}"
           commit: main
           artifacts: "${{ env.BASENAME }}.apworld,IthambarGuildwars.yaml"
