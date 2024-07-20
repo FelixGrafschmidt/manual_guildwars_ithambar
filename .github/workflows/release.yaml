@@ -1,0 +1,43 @@
+name: Create Release - Stable
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version'
+        required: true
+        type: string
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  create-release:
+    name: Create stable apworld
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set expected file basename to env
+        run: echo "BASENAME=manual_guildwars_ithambar" >> "$GITHUB_ENV"
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Create apworld file
+        # rename src folder, zip it, change extension
+        run: |
+          mv src ${{ env.BASENAME }}
+          zip -r ${{ env.BASENAME }}.zip ${{ env.BASENAME }}/*
+          mv ${{ env.BASENAME }}.zip ${{ env.BASENAME }}.apworld
+      - name: Upload apworld as an artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.BASENAME }}.apworld
+          path: ${{ env.BASENAME }}.apworld
+          if-no-files-found: error
+      - name: Create an stable release
+        uses: ncipollo/release-action@v1
+        with:
+          name: "${{ env.VERSION }}"
+          tag: ${{ env.VERSION }}
+          commit: main
+          artifacts: "${{ env.BASENAME }}.apworld,IthambarGuildwars.yaml"
