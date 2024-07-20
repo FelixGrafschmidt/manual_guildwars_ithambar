@@ -38,6 +38,6 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           name: "${{ inputs.version }}"
-          tag: ${{ inputs.version }}"
+          tag: ${{ inputs.version }}
           commit: main
           artifacts: "${{ env.BASENAME }}.apworld,IthambarGuildwars.yaml"
