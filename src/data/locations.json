@@ -1520,294 +1520,48 @@
 		]
 	},
 	{
-		"name": "Acquire (15/25/35) head armour in Tyria",
+		"name": "Acquire (60/70/80) head armor in Tyria",
 		"category": [
 			"All",
 			"Prophecies",
 			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) chest armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) hand armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) leg armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) footwear in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) head armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) chest armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) hand armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) leg armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) footwear in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Ascalon"
-		],
-		"requires": "({propheciesUnlocked()})"
-	},
-	{
-		"name": "Acquire (39/49/59) head armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Acquire (39/49/59) chest armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Acquire (39/49/59) hand armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Acquire (39/49/59) leg armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Acquire (39/49/59) footwear in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Kryta"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
-	},
-	{
-		"name": "Acquire (45/55/65) head armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Maguuma Jungle"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
-	},
-	{
-		"name": "Acquire (45/55/65) chest armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Maguuma Jungle"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
-	},
-	{
-		"name": "Acquire (45/55/65) hand armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Maguuma Jungle"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
-	},
-	{
-		"name": "Acquire (45/55/65) leg armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Maguuma Jungle"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
-	},
-	{
-		"name": "Acquire (45/55/65) footwear in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Maguuma Jungle"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
-	},
-	{
-		"name": "Acquire (51/61/71) head armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Crystal Desert"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
-	},
-	{
-		"name": "Acquire (51/61/71) chest armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Crystal Desert"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
-	},
-	{
-		"name": "Acquire (51/61/71) hand armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Crystal Desert"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
-	},
-	{
-		"name": "Acquire (51/61/71) leg armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Crystal Desert"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
-	},
-	{
-		"name": "Acquire (51/61/71) footwear in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
-			"Crystal Desert"
-		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
-	},
-	{
-		"name": "Acquire (60/70/80) head armour in Tyria",
-		"category": [
-			"All",
-			"Prophecies",
-			"Trade",
+			"Armor - Prophecies",
 			"Southern Shiverpeaks"
 		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19| and |Prophecies - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) chest armour in Tyria",
+		"name": "Acquire (60/70/80) chest armor in Tyria",
 		"category": [
 			"All",
 			"Prophecies",
 			"Trade",
+			"Armor - Prophecies",
 			"Southern Shiverpeaks"
 		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19| and |Prophecies - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) hand armour in Tyria",
+		"name": "Acquire (60/70/80) hand armor in Tyria",
 		"category": [
 			"All",
 			"Prophecies",
 			"Trade",
+			"Armor - Prophecies",
 			"Southern Shiverpeaks"
 		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19| and |Prophecies - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) leg armour in Tyria",
+		"name": "Acquire (60/70/80) leg armor in Tyria",
 		"category": [
 			"All",
 			"Prophecies",
 			"Trade",
+			"Armor - Prophecies",
 			"Southern Shiverpeaks"
 		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19| and |Prophecies - Start|"
 	},
 	{
 		"name": "Acquire (60/70/80) footwear in Tyria",
@@ -1815,199 +1569,54 @@
 			"All",
 			"Prophecies",
 			"Trade",
+			"Armor - Prophecies",
 			"Southern Shiverpeaks"
 		],
-		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19| and |Prophecies - Start|"
 	},
 	{
-		"name": "Acquire (15/25/35) head armour in Elona",
+		"name": "Acquire (60/70/80) head armor in Elona",
 		"category": [
 			"All",
 			"Nightfall",
 			"Trade",
+			"Armor - Nightfall",
 			"Istan"
 		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()}"
+		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3| and |Nightfall - Start|"
 	},
 	{
-		"name": "Acquire (15/25/35) chest armour in Elona",
+		"name": "Acquire (60/70/80) chest armor in Elona",
 		"category": [
 			"All",
 			"Nightfall",
 			"Trade",
+			"Armor - Nightfall",
 			"Istan"
 		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()}"
+		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3| and |Nightfall - Start|"
 	},
 	{
-		"name": "Acquire (15/25/35) hand armour in Elona",
+		"name": "Acquire (60/70/80) hand armor in Elona",
 		"category": [
 			"All",
 			"Nightfall",
 			"Trade",
+			"Armor - Nightfall",
 			"Istan"
 		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()}"
+		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3| and |Nightfall - Start|"
 	},
 	{
-		"name": "Acquire (15/25/35) leg armour in Elona",
+		"name": "Acquire (60/70/80) leg armor in Elona",
 		"category": [
 			"All",
 			"Nightfall",
 			"Trade",
+			"Armor - Nightfall",
 			"Istan"
 		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()}"
-	},
-	{
-		"name": "Acquire (15/25/35) footwear in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()}"
-	},
-	{
-		"name": "Acquire (30/40/50) head armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) chest armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) hand armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) leg armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) footwear in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
-	},
-	{
-		"name": "Acquire (45/55/65) head armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) chest armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) hand armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) leg armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) footwear in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
-	},
-	{
-		"name": "Acquire (60/70/80) head armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
-	},
-	{
-		"name": "Acquire (60/70/80) chest armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
-	},
-	{
-		"name": "Acquire (60/70/80) hand armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
-	},
-	{
-		"name": "Acquire (60/70/80) leg armour in Elona",
-		"category": [
-			"All",
-			"Nightfall",
-			"Trade",
-			"Istan"
-		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
+		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3| and |Nightfall - Start|"
 	},
 	{
 		"name": "Acquire (60/70/80) footwear in Elona",
@@ -2015,199 +1624,54 @@
 			"All",
 			"Nightfall",
 			"Trade",
+			"Armor - Nightfall",
 			"Istan"
 		],
-		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
+		"requires": "|Hero Class - Warrior| and |Hero Class - Dervish| and |Hero Class - Monk| and {nightfallUnlocked()} and |Progressive Nightfall Story:3| and |Nightfall - Start|"
 	},
 	{
-		"name": "Acquire (15/25/35) head armour in Cantha",
+		"name": "Acquire (60/70/80) head armor in Cantha",
 		"category": [
 			"All",
 			"Factions",
 			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) chest armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) hand armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) leg armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()})"
-	},
-	{
-		"name": "Acquire (15/25/35) footwear in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()})"
-	},
-	{
-		"name": "Acquire (30/40/50) head armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) chest armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) hand armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) leg armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
-	},
-	{
-		"name": "Acquire (30/40/50) footwear in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
-	},
-	{
-		"name": "Acquire (45/55/65) head armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) chest armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) hand armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) leg armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
-	},
-	{
-		"name": "Acquire (45/55/65) footwear in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
-			"Shing Jea Island"
-		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
-	},
-	{
-		"name": "Acquire (60/70/80) head armour in Cantha",
-		"category": [
-			"All",
-			"Factions",
-			"Trade",
+			"Armor - Factions",
 			"Kaineng City"
 		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3| and |Factions - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) chest armour in Cantha",
+		"name": "Acquire (60/70/80) chest armor in Cantha",
 		"category": [
 			"All",
 			"Factions",
 			"Trade",
+			"Armor - Factions",
 			"Kaineng City"
 		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3| and |Factions - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) hand armour in Cantha",
+		"name": "Acquire (60/70/80) hand armor in Cantha",
 		"category": [
 			"All",
 			"Factions",
 			"Trade",
+			"Armor - Factions",
 			"Kaineng City"
 		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3| and |Factions - Start|"
 	},
 	{
-		"name": "Acquire (60/70/80) leg armour in Cantha",
+		"name": "Acquire (60/70/80) leg armor in Cantha",
 		"category": [
 			"All",
 			"Factions",
 			"Trade",
+			"Armor - Factions",
 			"Kaineng City"
 		],
-		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3| and |Factions - Start|"
 	},
 	{
 		"name": "Acquire (60/70/80) footwear in Cantha",
@@ -2215,8 +1679,99 @@
 			"All",
 			"Factions",
 			"Trade",
+			"Armor - Factions",
+			"Kaineng City"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3| and |Factions - Start|"
+	},
+	{
+		"name": "Reach 100 points in Dragon's Throat",
+		"category": [
+			"All",
+			"Factions",
+			"Challenge Mission",
 			"Kaineng City"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Reach 100 points in Altrumm Ruins",
+		"category": [
+			"All",
+			"Factions",
+			"Challenge Mission",
+			"Echovald Forest"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Reach 100 points in Amatz Basin",
+		"category": [
+			"All",
+			"Factions",
+			"Challenge Mission",
+			"Echovald Forest"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach 100 points in Zos Shivros Channel",
+		"category": [
+			"All",
+			"Factions",
+			"Challenge Mission",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Reach 100 points in The Aurios Mines",
+		"category": [
+			"All",
+			"Factions",
+			"Challenge Mission",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach 100 points in Dajkah Inlet",
+		"category": [
+			"All",
+			"Nightfall",
+			"Challenge Mission",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach 100 points in Remains of Sahlahja",
+		"category": [
+			"All",
+			"Nightfall",
+			"Challenge Mission",
+			"The Desolation"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach 100 points in The Shadow Nexus",
+		"category": [
+			"All",
+			"Nightfall",
+			"Challenge Mission",
+			"Realm of Torment"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach 100 points in Glint's Challenge",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Challenge Mission",
+			"Far Shiverpeaks"
+		],
+		"requires": "{eotnUnlocked()} and |Progressive Eye of the North Story:10|"
 	}
 ]
