@@ -1773,5 +1773,138 @@
 			"Far Shiverpeaks"
 		],
 		"requires": "{eotnUnlocked()} and |Progressive Eye of the North Story:10|"
+	},
+	{
+		"name": "Reach Lvl 2",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 3",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 4",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 5",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 6",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 7",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 8",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 9",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 10",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 11",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 12",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 13",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 14",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 15",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 16",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 17",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 18",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 19",
+		"category": [
+			"All",
+			"Levels"
+		]
+	},
+	{
+		"name": "Reach Lvl 20",
+		"category": [
+			"All",
+			"Levels"
+		]
 	}
 ]
