@@ -15,7 +15,7 @@
 
 ## To change
 
-* Tutorial max lavel 8
+* Tutorial max level 8
 * maybe less quests in tutorial
 * switch from completion to speed -> only main story as checks, ca. 70 - 100 checks only (progression, attributes, classes)
 
