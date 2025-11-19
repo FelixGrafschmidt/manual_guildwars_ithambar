@@ -636,6 +636,7 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
@@ -644,6 +645,7 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
@@ -652,6 +654,7 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
@@ -660,6 +663,7 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
@@ -668,6 +672,7 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
@@ -676,42 +681,43 @@
 			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
 		"name": "Hero Class - Assassin",
 		"category": [
-			"Hero Class",
-			"Factions"
+			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
 		"name": "Hero Class - Ritualist",
 		"category": [
-			"Hero Class",
-			"Factions"
+			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
 		"name": "Hero Class - Dervish",
 		"category": [
-			"Hero Class",
-			"Nightfall"
+			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	},
 	{
 		"name": "Hero Class - Paragon",
 		"category": [
-			"Hero Class",
-			"Nightfall"
+			"Hero Class"
 		],
 		"progression": true,
+		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
 		"count": 3
 	}
 ]
