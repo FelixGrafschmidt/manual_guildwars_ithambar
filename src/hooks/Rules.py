@@ -189,11 +189,10 @@ def nightfallUnlocked(world: World, multiworld: MultiWorld, state: CollectionSta
 
 def eotnUnlocked(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Is the player able to access the Eye of the North campaign?"""
-    # if state.has("Prophecies - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Gates of Kryta"):
-    #     return True
-    # if state.has("Factions - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Vizunah Square"):
-    #     return True
-    # if state.has("Nightfall - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Blacktide Den"):
-    #     return True
-    # return False
-    return canReachLocation(world, multiworld, state, player, "Mission - Gates of Kryta") or canReachLocation(world, multiworld, state, player, "Mission - Vizunah Square") or canReachLocation(world, multiworld, state, player, "Mission - Blacktide Den")
+    if state.has("Prophecies - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Gates of Kryta"):
+        return True
+    if state.has("Factions - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Vizunah Square"):
+        return True
+    if state.has("Nightfall - Start", player) and canReachLocation(world, multiworld, state, player, "Mission - Blacktide Den"):
+        return True
+    return False

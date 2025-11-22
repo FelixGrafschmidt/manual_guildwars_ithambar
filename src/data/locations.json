@@ -596,7 +596,18 @@
 		"requires": "({factionsUnlocked()})"
 	},
 	{
-		"name": "Bonus - Minister Cho's Estate",
+		"name": "Expert-Bonus - Minister Cho's Estate",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Shing Jea Island"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Master-Bonus - Minister Cho's Estate",
 		"category": [
 			"All",
 			"Factions",
@@ -618,7 +629,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
 	},
 	{
-		"name": "Bonus - Zen Daijun",
+		"name": "Expert-Bonus - Zen Daijun",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Shing Jea Island"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Master-Bonus - Zen Daijun",
 		"category": [
 			"All",
 			"Factions",
@@ -640,7 +662,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
 	},
 	{
-		"name": "Bonus - Vizunah Square",
+		"name": "Expert-Bonus - Vizunah Square",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Master-Bonus - Vizunah Square",
 		"category": [
 			"All",
 			"Factions",
@@ -662,7 +695,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
 	},
 	{
-		"name": "Bonus - Nahpui Quarter",
+		"name": "Expert-Bonus - Nahpui Quarter",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Master-Bonus - Nahpui Quarter",
 		"category": [
 			"All",
 			"Factions",
@@ -684,7 +728,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
 	},
 	{
-		"name": "Bonus - Tahnnakai Temple",
+		"name": "Expert-Bonus - Tahnnakai Temple",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
+	},
+	{
+		"name": "Master-Bonus - Tahnnakai Temple",
 		"category": [
 			"All",
 			"Factions",
@@ -706,7 +761,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
 	},
 	{
-		"name": "Bonus - Arborstone",
+		"name": "Expert-Bonus - Arborstone",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Master-Bonus - Arborstone",
 		"category": [
 			"All",
 			"Factions",
@@ -728,7 +794,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
 	},
 	{
-		"name": "Bonus - Boreas Seabed",
+		"name": "Expert-Bonus - Boreas Seabed",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Master-Bonus - Boreas Seabed",
 		"category": [
 			"All",
 			"Factions",
@@ -750,7 +827,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
 	},
 	{
-		"name": "Bonus - Sunjiang District",
+		"name": "Expert-Bonus - Sunjiang District",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Master-Bonus - Sunjiang District",
 		"category": [
 			"All",
 			"Factions",
@@ -772,7 +860,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
 	{
-		"name": "Bonus - The Eternal Grove",
+		"name": "Exeprt-Bonus - The Eternal Grove",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Master-Bonus - The Eternal Grove",
 		"category": [
 			"All",
 			"Factions",
@@ -794,7 +893,19 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
 	{
-		"name": "Bonus - Unwaking Waters",
+		"name": "Expert-Bonus - Unwaking Waters",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Echovald Forest",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Master-Bonus - Unwaking Waters",
 		"category": [
 			"All",
 			"Factions",
@@ -817,7 +928,18 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
 	{
-		"name": "Bonus - Gyala Hatchery",
+		"name": "Expert-Bonus - Gyala Hatchery",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Master-Bonus - Gyala Hatchery",
 		"category": [
 			"All",
 			"Factions",
@@ -839,7 +961,19 @@
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
 	},
 	{
-		"name": "Bonus - Raisu Palace",
+		"name": "Expert-Bonus - Raisu Palace",
+		"category": [
+			"All",
+			"Factions",
+			"Story",
+			"Bonus",
+			"Kaineng City",
+			"The Jade Sea"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
+	},
+	{
+		"name": "Master-Bonus - Raisu Palace",
 		"category": [
 			"All",
 			"Factions",
@@ -876,7 +1010,18 @@
 		"requires": "{nightfallUnlocked()} and |Hero Class - Warrior|"
 	},
 	{
-		"name": "Bonus - Chahbek Village",
+		"name": "Expert-Bonus - Chahbek Village",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "{nightfallUnlocked()} and |Hero Class - Warrior|"
+	},
+	{
+		"name": "Master-Bonus - Chahbek Village",
 		"category": [
 			"All",
 			"Nightfall",
@@ -898,7 +1043,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish)} and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
 	},
 	{
-		"name": "Bonus - Jokanur Diggings",
+		"name": "Expert-Bonus - Jokanur Diggings",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish)} and {nightfallUnlocked()} and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Master-Bonus - Jokanur Diggings",
 		"category": [
 			"All",
 			"Nightfall",
@@ -920,7 +1076,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
 	},
 	{
-		"name": "Bonus - Blacktide Den",
+		"name": "Expert-Bonus - Blacktide Den",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Istan"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Master-Bonus - Blacktide Den",
 		"category": [
 			"All",
 			"Nightfall",
@@ -942,7 +1109,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
 	},
 	{
-		"name": "Bonus - Consulate Docks",
+		"name": "Expert-Bonus - Consulate Docks",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:3|"
+	},
+	{
+		"name": "Master-Bonus - Consulate Docks",
 		"category": [
 			"All",
 			"Nightfall",
@@ -964,7 +1142,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:4|"
 	},
 	{
-		"name": "Bonus - Venta Cemetery",
+		"name": "Expert-Bonus - Venta Cemetery",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk)} and {nightfallUnlocked()} and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Master-Bonus - Venta Cemetery",
 		"category": [
 			"All",
 			"Nightfall",
@@ -986,7 +1175,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist)} and {nightfallUnlocked()} and |Progressive Nightfall Story:5|"
 	},
 	{
-		"name": "Bonus - Kodonur Crossroads",
+		"name": "Expert-Bonus - Kodonur Crossroads",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist)} and {nightfallUnlocked()} and |Progressive Nightfall Story:5|"
+	},
+	{
+		"name": "Master-Bonus - Kodonur Crossroads",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1008,7 +1208,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:6|"
 	},
 	{
-		"name": "Bonus - Pogahn Passage or Bonus - Rilohn Refuge",
+		"name": "Expert-Bonus - Pogahn Passage or Expert-Bonus - Rilohn Refuge",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:6|"
+	},
+	{
+		"name": "Master-Bonus - Pogahn Passage or Master-Bonus - Rilohn Refuge",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1030,7 +1241,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:7|"
 	},
 	{
-		"name": "Bonus - Moddok Crevice",
+		"name": "Expert-Bonus - Moddok Crevice",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Kourna"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:7|"
+	},
+	{
+		"name": "Master-Bonus - Moddok Crevice",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1052,7 +1274,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:8|"
 	},
 	{
-		"name": "Bonus - Tihark Orchard",
+		"name": "Expert-Bonus - Tihark Orchard",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Master-Bonus - Tihark Orchard",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1074,7 +1307,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:9|"
 	},
 	{
-		"name": "Bonus - Dasha Vestibule or Bonus - Dzagonur Bastion",
+		"name": "Expert-Bonus - Dasha Vestibule or Expert-Bonus - Dzagonur Bastion",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:9|"
+	},
+	{
+		"name": "Master-Bonus - Dasha Vestibule or Master-Bonus - Dzagonur Bastion",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1096,7 +1340,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:10|"
 	},
 	{
-		"name": "Bonus - Grand Court of Sebelkeh",
+		"name": "Expert-Bonus - Grand Court of Sebelkeh",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Master-Bonus - Grand Court of Sebelkeh",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1118,7 +1373,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:11|"
 	},
 	{
-		"name": "Bonus - Jennur's Horde or Bonus - Nundu Bay",
+		"name": "Expert-Bonus - Jennur's Horde or Expert-Bonus - Nundu Bay",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Vabbi"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:11|"
+	},
+	{
+		"name": "Master-Bonus - Jennur's Horde or Master-Bonus - Nundu Bay",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1140,7 +1406,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:12|"
 	},
 	{
-		"name": "Bonus - Gate of Desolation",
+		"name": "Expert-Bonus - Gate of Desolation",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"The Desolation"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer)} and {nightfallUnlocked()} and |Progressive Nightfall Story:12|"
+	},
+	{
+		"name": "Master-Bonus - Gate of Desolation",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1162,7 +1439,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:13|"
 	},
 	{
-		"name": "Bonus - Ruins of Morah",
+		"name": "Expert-Bonus - Ruins of Morah",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"The Desolation"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Master-Bonus - Ruins of Morah",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1184,7 +1472,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:14|"
 	},
 	{
-		"name": "Bonus - Gate of Pain",
+		"name": "Expert-Bonus - Gate of Pain",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Realm of Torment"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Master-Bonus - Gate of Pain",
 		"category": [
 			"All",
 			"Nightfall",
@@ -1206,7 +1505,18 @@
 		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:15|"
 	},
 	{
-		"name": "Bonus - Gate of Madness",
+		"name": "Expert-Bonus - Gate of Madness",
+		"category": [
+			"All",
+			"Nightfall",
+			"Story",
+			"Bonus",
+			"Realm of Torment"
+		],
+		"requires": "{hasAllItems(Hero Class - Warrior;Hero Class - Dervish;Hero Class - Monk;Hero Class - Elementalist;Hero Class - Ranger;Hero Class - Necromancer;Hero Class - Paragon)} and {nightfallUnlocked()} and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Master-Bonus - Gate of Madness",
 		"category": [
 			"All",
 			"Nightfall",

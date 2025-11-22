@@ -637,7 +637,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Monk",
@@ -646,7 +646,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Ranger",
@@ -655,7 +655,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Mesmer",
@@ -664,7 +664,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Elementalist",
@@ -673,7 +673,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Necromancer",
@@ -682,7 +682,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Assassin",
@@ -691,7 +691,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Ritualist",
@@ -700,7 +700,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Dervish",
@@ -709,7 +709,7 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	},
 	{
 		"name": "Hero Class - Paragon",
@@ -718,6 +718,6 @@
 		],
 		"progression": true,
 		"requires": "{YamlEnabled(nightfall)} or {YamlEnabled(eotn)}",
-		"count": 3
+		"count": 2
 	}
 ]
