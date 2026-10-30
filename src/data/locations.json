@@ -2231,5 +2231,196 @@
 			"Levels"
 		],
 		"requires": "{eotnUnlocked()}"
+	},
+	{
+		"name": "Reach Ashford Abbey (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Foible's Fair (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Fort Ranik (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach The Barradin Estate (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Ascalon City",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Frontier Gate",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach Grendich Courthouse",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
+	},
+	{
+		"name": "Reach Piken Square",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()})"
+	}
+	,
+	{
+		"name": "Reach Sardelac Sanitarium",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Serenity Temple",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach The Great Northern Wall",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Fort Ranik",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:1|"
+	},
+	{
+		"name": "Reach Ruins of Surmia",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach Nolani Academy",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
+	},
+	{
+		"name": "Reach Yak's Bend",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
+	},
+	{
+		"name": "Reach Borlis Pass",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
+	},
+	{
+		"name": "Reach The Frost Gate",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:5|"
+	},
+	{
+		"name": "Reach Ice Tooth Cave",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Beacon's Perch",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
 	}
 ]
