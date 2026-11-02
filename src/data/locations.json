@@ -3332,5 +3332,445 @@
 			"Outpost"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:11|"
+	},
+	{
+		"name": "Reach Chahbek Village",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()})"
+	},
+	{
+		"name": "Reach Kamadan, Jewel of Istan",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Sunspear Great Hall",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach The Astralarium",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Champion's Dawn",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Jokanur Diggings",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Beknur Harbor",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Kodlonu Hamlet",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Blacktide Den",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Consulate Docks",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:3|"
+	},
+	{
+		"name": "Reach Yohlon Haven",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Sunspear Sanctuary",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Venta Cemetary",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Dajkah Inlet",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Kodonur Crossroads",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:5|"
+	},
+	{
+		"name": "Reach Pogahn Passage or Rilohn Refuge",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:6|"
+	},
+	{
+		"name": "Reach Camp Hojanu",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
+	},
+	{
+		"name": "Reach Moddok Crevice",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
+	},
+	{
+		"name": "Reach Wehhan Terraces",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Chantry of Secrets",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Yahnur Market",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach The Kodash Bazaar",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Tihark Orchard",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Grand Court of Sebelkeh",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Dasha Vestibule or Dzagonur Bastion",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:9|"
+	},
+	{
+		"name": "Reach Mihanu Township",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Honur Hill",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Jennur's Horde or Nundu Bay",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Gate of Desolation",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:12|"
+	},
+	{
+		"name": "Reach Remains of Sahlahja",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Bone Palace",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Basalt Grotto",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Ruins of Morah",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach The Mouth of Torment",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Lair of the Forgotten",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Torment",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach The Shadow Nexus",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Pain",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Fear",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate Nightfallen Lands",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate of Secrets",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate of Madness",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Abbadon's Gate",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:16|"
+	},
+	{
+		"name": "Reach Gate of Anguish",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost"
+		],
+		"requires": "({nightfallUnlocked()}) and |Nightfall - Goal:1|"
 	}
 ]
