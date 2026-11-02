@@ -2922,5 +2922,415 @@
 			"Outpost"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Dragon's Throat",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Reach Nahpui Quarter",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Reach Senji's Corner",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
+	},
+	{
+		"name": "Reach Tahnnakai's Temple",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
+	},
+	{
+		"name": "Reach Zin Ku Corridor",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Maatu Keep",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Tanglewood Copse",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Arborstone",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Altrumm Ruins",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Reach Boreas Seabed",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Reach Zos Shivros Channel",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Reach Sunjiang District",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Reach House Zu Heltzer",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Saint Anjeka's Shrine",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Aspenwood Gate (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Fort Aspenwood (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Lutgardis Conservatory",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Braur Academy",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Jade Flats (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Jade Quarry (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Eternal Grove",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Cavalon",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Aspenwood Gate (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Fort Aspenwood (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Breaker Hollow",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Jade Flats (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Jade Quarry (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Bai Paasu Reach",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Eredon Terrace",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Gyala Hatchery",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Leviathan Pits",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach The Aurios Mines",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Seafarer's Rest",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Unwaking Waters (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Vasburg Armory",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Amatz Basin",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Durheim Archives",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Unwaking Waters (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Harvest Temple",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
+	},
+	{
+		"name": "Reach Raisu Palace",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
+	},
+	{
+		"name": "Reach Imperial Sanctum",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:11|"
 	}
 ]
