@@ -2832,5 +2832,95 @@
 			"Outpost"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:24|"
+	},
+	{
+		"name": "Reach Shing Jea Monastary",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Tsumei Village",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Minister Cho's Estate",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Ran Musu Gardens",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach Seitung Harbor",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach Zen Daijun",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach The Marketplace",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Kaineng Center",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Vizunah Square",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
 	}
 ]
