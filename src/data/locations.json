@@ -2422,5 +2422,415 @@
 			"Outpost"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Gates of Kryta",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Lion's Arch",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
+	},
+	{
+		"name": "Reach D'Alessio Seaboard",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
+	},
+	{
+		"name": "Reach Divinity Coast",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Bergen Hot Springs",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Beetletun",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Temple of the Ages",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Druid's Overlook",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
+	},
+	{
+		"name": "Reach The Wilds",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
+	},
+	{
+		"name": "Reach Bloodstone Fen",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:10|"
+	},
+	{
+		"name": "Reach Quarrel Falls",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
+	},
+	{
+		"name": "Reach Aurora Glade",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
+	},
+	{
+		"name": "Reach Henge of Denravi",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Ventari's Refuge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Maguuma Stade",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Riverside Province",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Sanctum Cay",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
+	},
+	{
+		"name": "Reach Fisherman's Haven",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
+	},
+	{
+		"name": "Reach Amnoon Oasis",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Heroes' Audience",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Destiny's Gorge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Seeker's Passage",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Dunes of Despair",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Thirsty River",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Elona Reach",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Augury Rock",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach The Dragon's Lair",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
+	},
+	{
+		"name": "Reach Tomb of Primeval Kings",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
+	},
+	{
+		"name": "Reach Droknar's Forge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Ice Caves of Sorrow",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Camp Rankor",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Deldrimor War Camp",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Iron Mines of Moladune",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach Copperhammer Mines",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach The Granite Citadel",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach Thunderhead Keep",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
+	},
+	{
+		"name": "Reach Marhan's Grotto",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
+	},
+	{
+		"name": "Reach Ember Light Camp",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
+	},
+	{
+		"name": "Reach Ring of Fire",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
+	},
+	{
+		"name": "Reach Abbadon's Mouth",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:23|"
+	},
+	{
+		"name": "Reach Hell's Precipice",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:24|"
 	}
 ]
