@@ -100,5 +100,30 @@
 	},
 	"Outpost":{
 		"hidden": true
+	},
+	"Prophecies Pre-Searing Outposts": {
+		"yaml_option": {
+			"description": "Include visiting Pre-Searing outposts",
+			"tooltip":"test"
+		},
+		"hidden": true
+	},
+	"Prophecies Outposts": {
+		"yaml_option": [
+			"Include visiting Prophecies outposts"
+		],
+		"hidden": true
+	},
+	"Factions Outposts": {
+		"yaml_option": [
+			"Include visiting Factions outposts"
+		],
+		"hidden": true
+	},
+	"Nightfall Outposts": {
+		"yaml_option": [
+			"Include visiting Nightfall outposts"
+		],
+		"hidden": true
 	}
 }
