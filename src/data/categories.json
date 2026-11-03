@@ -102,10 +102,9 @@
 		"hidden": true
 	},
 	"Prophecies Pre-Searing Outposts": {
-		"yaml_option": {
-			"description": "Include visiting Pre-Searing outposts",
-			"tooltip":"test"
-		},
+		"yaml_option": [
+			"Include visiting Pre-Searing outposts (Don't toggle unless starting in Prophecies)"
+		],
 		"hidden": true
 	},
 	"Prophecies Outposts": {
