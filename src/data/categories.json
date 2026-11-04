@@ -124,5 +124,11 @@
 			"include_visiting_nightfall_outposts"
 		],
 		"hidden": true
+	},
+	"Eye of the North Outposts": {
+		"yaml_option": [
+			"include_visiting_eyeofthenorth_outposts"
+		],
+		"hidden": true
 	}
 }
