@@ -2238,7 +2238,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2248,7 +2249,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2258,7 +2260,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2268,7 +2271,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2278,7 +2282,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2288,7 +2293,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
 	},
@@ -2298,7 +2304,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
 	},
@@ -2308,7 +2315,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	}
@@ -2319,7 +2327,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2329,7 +2338,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
 	},
@@ -2339,7 +2349,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2349,7 +2360,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:1|"
 	},
@@ -2359,7 +2371,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
 	},
@@ -2369,7 +2382,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
 	},
@@ -2379,7 +2393,8 @@
 			"All",
 			"Prophecies",
 			"Northern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
 	},
@@ -2389,7 +2404,8 @@
 			"All",
 			"Prophecies",
 			"Northern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
 	},
@@ -2399,7 +2415,8 @@
 			"All",
 			"Prophecies",
 			"Northern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:5|"
 	},
@@ -2409,7 +2426,8 @@
 			"All",
 			"Prophecies",
 			"Northern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
 	},
@@ -2419,7 +2437,8 @@
 			"All",
 			"Prophecies",
 			"Northern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
 	},
@@ -2429,7 +2448,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
 	},
@@ -2439,7 +2459,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
 	},
@@ -2449,7 +2470,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
 	},
@@ -2459,7 +2481,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
 	},
@@ -2469,7 +2492,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
 	},
@@ -2479,7 +2503,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
 	},
@@ -2489,7 +2514,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
 	},
@@ -2499,7 +2525,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
 	},
@@ -2509,7 +2536,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
 	},
@@ -2519,7 +2547,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:10|"
 	},
@@ -2529,7 +2558,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
 	},
@@ -2539,7 +2569,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
 	},
@@ -2549,7 +2580,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
 	},
@@ -2559,7 +2591,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
 	},
@@ -2569,7 +2602,8 @@
 			"All",
 			"Prophecies",
 			"Maguuma Jungle",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
 	},
@@ -2579,7 +2613,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
 	},
@@ -2589,7 +2624,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
 	},
@@ -2599,7 +2635,8 @@
 			"All",
 			"Prophecies",
 			"Kryta",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
 	},
@@ -2609,7 +2646,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2619,7 +2657,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2629,7 +2668,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2639,7 +2679,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2649,7 +2690,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2659,7 +2701,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2669,7 +2712,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2679,7 +2723,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
 	},
@@ -2689,7 +2734,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
 	},
@@ -2699,7 +2745,8 @@
 			"All",
 			"Prophecies",
 			"Crystal Desert",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
 	},
@@ -2709,7 +2756,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
 	},
@@ -2719,7 +2767,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
 	},
@@ -2729,7 +2778,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
 	},
@@ -2739,7 +2789,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
 	},
@@ -2749,7 +2800,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
 	},
@@ -2759,7 +2811,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
 	},
@@ -2769,7 +2822,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
 	},
@@ -2779,7 +2833,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
 	},
@@ -2789,7 +2844,8 @@
 			"All",
 			"Prophecies",
 			"Southern Shiverpeaks",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
 	},
@@ -2799,7 +2855,8 @@
 			"All",
 			"Prophecies",
 			"Ring of Fire Islands",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
 	},
@@ -2809,7 +2866,8 @@
 			"All",
 			"Prophecies",
 			"Ring of Fire Islands",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
 	},
@@ -2819,7 +2877,8 @@
 			"All",
 			"Prophecies",
 			"Ring of Fire Islands",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:23|"
 	},
@@ -2829,7 +2888,8 @@
 			"All",
 			"Prophecies",
 			"Ring of Fire Islands",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:24|"
 	},
@@ -2839,7 +2899,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2849,7 +2910,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2859,7 +2921,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2869,7 +2932,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
 	},
@@ -2879,7 +2943,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
 	},
@@ -2889,7 +2954,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
 	},
@@ -2899,7 +2965,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
 	},
@@ -2909,7 +2976,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
 	},
@@ -2919,7 +2987,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
 	},
@@ -2929,7 +2998,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
 	},
@@ -2939,7 +3009,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
 	},
@@ -2949,7 +3020,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
 	},
@@ -2959,7 +3031,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
 	},
@@ -2969,7 +3042,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
 	},
@@ -2979,7 +3053,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
 	},
@@ -2989,7 +3064,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
 	},
@@ -2999,7 +3075,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
 	},
@@ -3009,7 +3086,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
 	},
@@ -3019,7 +3097,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
 	},
@@ -3029,7 +3108,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
 	},
@@ -3039,7 +3119,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
 	},
@@ -3049,7 +3130,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3059,7 +3141,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3069,7 +3152,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3079,7 +3163,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3089,7 +3174,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3099,7 +3185,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3109,7 +3196,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3119,7 +3207,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3129,7 +3218,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3139,7 +3229,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3149,7 +3240,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3159,7 +3251,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3169,7 +3262,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3179,7 +3273,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3189,7 +3284,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3199,7 +3295,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3209,7 +3306,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3219,7 +3317,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
 	},
@@ -3229,7 +3328,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3239,7 +3339,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3249,7 +3350,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3259,7 +3361,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3269,7 +3372,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3279,7 +3383,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3289,7 +3394,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3299,7 +3405,8 @@
 			"All",
 			"Factions",
 			"Echovald Forest",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
 	},
@@ -3309,7 +3416,8 @@
 			"All",
 			"Factions",
 			"The Jade Sea",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
 	},
@@ -3319,7 +3427,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
 	},
@@ -3329,7 +3438,8 @@
 			"All",
 			"Factions",
 			"Kaineng City",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:11|"
 	},
@@ -3339,7 +3449,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()})"
 	},
@@ -3349,7 +3460,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
 	},
@@ -3359,7 +3471,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
 	},
@@ -3369,7 +3482,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
 	},
@@ -3379,7 +3493,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
 	},
@@ -3389,7 +3504,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
 	},
@@ -3399,7 +3515,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
 	},
@@ -3409,7 +3526,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
 	},
@@ -3419,7 +3537,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
 	},
@@ -3429,7 +3548,8 @@
 			"All",
 			"Nightfall",
 			"Istan",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:3|"
 	},
@@ -3439,7 +3559,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
 	},
@@ -3449,7 +3570,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
 	},
@@ -3459,7 +3581,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
 	},
@@ -3469,7 +3592,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
 	},
@@ -3479,7 +3603,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:5|"
 	},
@@ -3489,7 +3614,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:6|"
 	},
@@ -3499,7 +3625,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
 	},
@@ -3509,7 +3636,8 @@
 			"All",
 			"Nightfall",
 			"Kourna",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
 	},
@@ -3519,7 +3647,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3529,7 +3658,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3539,7 +3669,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3549,7 +3680,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3559,7 +3691,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3569,7 +3702,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
 	},
@@ -3579,7 +3713,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:9|"
 	},
@@ -3589,7 +3724,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
 	},
@@ -3599,7 +3735,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
 	},
@@ -3609,7 +3746,8 @@
 			"All",
 			"Nightfall",
 			"Vabbi",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
 	},
@@ -3619,7 +3757,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:12|"
 	},
@@ -3629,7 +3768,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
 	},
@@ -3639,7 +3779,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
 	},
@@ -3649,7 +3790,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
 	},
@@ -3659,7 +3801,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
 	},
@@ -3669,7 +3812,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
 	},
@@ -3679,7 +3823,8 @@
 			"All",
 			"Nightfall",
 			"The Desolation",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
 	},
@@ -3689,7 +3834,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
 	},
@@ -3699,7 +3845,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
 	},
@@ -3709,7 +3856,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
 	},
@@ -3719,17 +3867,19 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
 	{
-		"name": "Reach Gate Nightfallen Lands",
+		"name": "Reach Gate of the Nightfallen Lands",
 		"category": [
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
@@ -3739,7 +3889,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
@@ -3749,7 +3900,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
 	},
@@ -3759,7 +3911,8 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:16|"
 	},
@@ -3769,8 +3922,152 @@
 			"All",
 			"Nightfall",
 			"Realm of Torment",
-			"Outpost"
+			"Outpost",
+			"Nightfall Outposts"
 		],
 		"requires": "({nightfallUnlocked()}) and |Nightfall - Goal:1|"
+	},
+	{
+		"name": "Reach Boreal Station",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Eye of the North",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Gunnar's Hold",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Olafstead",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Sifhalla",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Longeye's Ledge",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Vanguard",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Doomlore Shrine",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Vanguard",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Umbral Grotto",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Vlox's Falls",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Rata Sum",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 4|"
+	},
+	{
+		"name": "Reach Tarnished Haven",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 5|"
+	},
+	{
+		"name": "Reach Gadd's Encampment",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 5|"
+	},
+	{
+		"name": "Reach Central Transfer Chamber",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Far Shiverpeaks",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 8|"
 	}
 ]
