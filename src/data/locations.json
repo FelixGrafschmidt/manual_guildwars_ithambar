@@ -2238,7 +2238,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2248,7 +2249,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2258,7 +2260,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2268,7 +2271,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon (pre-Searing)",
-			"Outpost"
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
 		],
 		"requires": "|Prophecies - Start|"
 	},
@@ -2278,7 +2282,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2288,7 +2293,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
 	},
@@ -2298,7 +2304,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
 	},
@@ -2308,7 +2315,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	}
@@ -2319,7 +2327,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2329,7 +2338,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
 	},
@@ -2339,7 +2349,8 @@
 			"All",
 			"Prophecies",
 			"Ascalon",
-			"Outpost"
+			"Outpost",
+			"Prophecies Outposts"
 		],
 		"requires": "({propheciesUnlocked()})"
 	},
@@ -2839,7 +2850,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2849,7 +2861,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2859,7 +2872,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()})"
 	},
@@ -2869,7 +2883,8 @@
 			"All",
 			"Factions",
 			"Shing Jea Island",
-			"Outpost"
+			"Outpost",
+			"Factions Outposts"
 		],
 		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
 	},

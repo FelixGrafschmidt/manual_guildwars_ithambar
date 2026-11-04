@@ -103,25 +103,25 @@
 	},
 	"Prophecies Pre-Searing Outposts": {
 		"yaml_option": [
-			"Include visiting Pre-Searing outposts (Don't toggle unless starting in Prophecies)"
+			"include_visiting_presearing_outposts"
 		],
 		"hidden": true
 	},
 	"Prophecies Outposts": {
 		"yaml_option": [
-			"Include visiting Prophecies outposts"
+			"include_visiting_prophecies_outposts"
 		],
 		"hidden": true
 	},
 	"Factions Outposts": {
 		"yaml_option": [
-			"Include visiting Factions outposts"
+			"include_visiting_factions_outposts"
 		],
 		"hidden": true
 	},
 	"Nightfall Outposts": {
 		"yaml_option": [
-			"Include visiting Nightfall outposts"
+			"include_visiting_nightfall_outposts"
 		],
 		"hidden": true
 	}
