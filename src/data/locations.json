@@ -2231,5 +2231,1843 @@
 			"Levels"
 		],
 		"requires": "{eotnUnlocked()}"
+	},
+	{
+		"name": "Reach Ashford Abbey (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Foible's Fair (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Fort Ranik (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach The Barradin Estate (Pre-Searing)",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon (pre-Searing)",
+			"Outpost",
+			"Prophecies Pre-Searing Outposts"
+		],
+		"requires": "|Prophecies - Start|"
+	},
+	{
+		"name": "Reach Ascalon City",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Frontier Gate",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach Grendich Courthouse",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
+	},
+	{
+		"name": "Reach Piken Square",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()})"
+	}
+	,
+	{
+		"name": "Reach Sardelac Sanitarium",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Serenity Temple",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach The Great Northern Wall",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()})"
+	},
+	{
+		"name": "Reach Fort Ranik",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:1|"
+	},
+	{
+		"name": "Reach Ruins of Surmia",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:2|"
+	},
+	{
+		"name": "Reach Nolani Academy",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ascalon",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:3|"
+	},
+	{
+		"name": "Reach Yak's Bend",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
+	},
+	{
+		"name": "Reach Borlis Pass",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:4|"
+	},
+	{
+		"name": "Reach The Frost Gate",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:5|"
+	},
+	{
+		"name": "Reach Ice Tooth Cave",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Beacon's Perch",
+		"category": [
+			"All",
+			"Prophecies",
+			"Northern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Gates of Kryta",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:6|"
+	},
+	{
+		"name": "Reach Lion's Arch",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
+	},
+	{
+		"name": "Reach D'Alessio Seaboard",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:7|"
+	},
+	{
+		"name": "Reach Divinity Coast",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Bergen Hot Springs",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Beetletun",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Temple of the Ages",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:8|"
+	},
+	{
+		"name": "Reach Druid's Overlook",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
+	},
+	{
+		"name": "Reach The Wilds",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:9|"
+	},
+	{
+		"name": "Reach Bloodstone Fen",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:10|"
+	},
+	{
+		"name": "Reach Quarrel Falls",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
+	},
+	{
+		"name": "Reach Aurora Glade",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:11|"
+	},
+	{
+		"name": "Reach Henge of Denravi",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Ventari's Refuge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Maguuma Stade",
+		"category": [
+			"All",
+			"Prophecies",
+			"Maguuma Jungle",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Riverside Province",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:12|"
+	},
+	{
+		"name": "Reach Sanctum Cay",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
+	},
+	{
+		"name": "Reach Fisherman's Haven",
+		"category": [
+			"All",
+			"Prophecies",
+			"Kryta",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:13|"
+	},
+	{
+		"name": "Reach Amnoon Oasis",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Heroes' Audience",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Destiny's Gorge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Seeker's Passage",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Dunes of Despair",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Thirsty River",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Elona Reach",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach Augury Rock",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:14|"
+	},
+	{
+		"name": "Reach The Dragon's Lair",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
+	},
+	{
+		"name": "Reach Tomb of Primeval Kings",
+		"category": [
+			"All",
+			"Prophecies",
+			"Crystal Desert",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:18|"
+	},
+	{
+		"name": "Reach Droknar's Forge",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Ice Caves of Sorrow",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Camp Rankor",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Deldrimor War Camp",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:19|"
+	},
+	{
+		"name": "Reach Iron Mines of Moladune",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach Copperhammer Mines",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach The Granite Citadel",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:20|"
+	},
+	{
+		"name": "Reach Thunderhead Keep",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
+	},
+	{
+		"name": "Reach Marhan's Grotto",
+		"category": [
+			"All",
+			"Prophecies",
+			"Southern Shiverpeaks",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:21|"
+	},
+	{
+		"name": "Reach Ember Light Camp",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
+	},
+	{
+		"name": "Reach Ring of Fire",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:22|"
+	},
+	{
+		"name": "Reach Abbadon's Mouth",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:23|"
+	},
+	{
+		"name": "Reach Hell's Precipice",
+		"category": [
+			"All",
+			"Prophecies",
+			"Ring of Fire Islands",
+			"Outpost",
+			"Prophecies Outposts"
+		],
+		"requires": "({propheciesUnlocked()}) and |Progressive Prophecies Story:24|"
+	},
+	{
+		"name": "Reach Shing Jea Monastary",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Tsumei Village",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Minister Cho's Estate",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()})"
+	},
+	{
+		"name": "Reach Ran Musu Gardens",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach Seitung Harbor",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach Zen Daijun",
+		"category": [
+			"All",
+			"Factions",
+			"Shing Jea Island",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:1|"
+	},
+	{
+		"name": "Reach The Marketplace",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Kaineng Center",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Vizunah Square",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:2|"
+	},
+	{
+		"name": "Reach Dragon's Throat",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Reach Nahpui Quarter",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:3|"
+	},
+	{
+		"name": "Reach Senji's Corner",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
+	},
+	{
+		"name": "Reach Tahnnakai's Temple",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:4|"
+	},
+	{
+		"name": "Reach Zin Ku Corridor",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Maatu Keep",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Tanglewood Copse",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Arborstone",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:5|"
+	},
+	{
+		"name": "Reach Altrumm Ruins",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Reach Boreas Seabed",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:6|"
+	},
+	{
+		"name": "Reach Zos Shivros Channel",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Reach Sunjiang District",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:7|"
+	},
+	{
+		"name": "Reach House Zu Heltzer",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Saint Anjeka's Shrine",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Aspenwood Gate (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Fort Aspenwood (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Lutgardis Conservatory",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Braur Academy",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Jade Flats (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Jade Quarry (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Eternal Grove",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Cavalon",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Aspenwood Gate (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Fort Aspenwood (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Breaker Hollow",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Jade Flats (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach The Jade Quarry (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Bai Paasu Reach",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Eredon Terrace",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Gyala Hatchery",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:8|"
+	},
+	{
+		"name": "Reach Leviathan Pits",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach The Aurios Mines",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Seafarer's Rest",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Unwaking Waters (Luxon)",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Vasburg Armory",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Amatz Basin",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Durheim Archives",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Unwaking Waters (Kurzick)",
+		"category": [
+			"All",
+			"Factions",
+			"Echovald Forest",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:9|"
+	},
+	{
+		"name": "Reach Harvest Temple",
+		"category": [
+			"All",
+			"Factions",
+			"The Jade Sea",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
+	},
+	{
+		"name": "Reach Raisu Palace",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:10|"
+	},
+	{
+		"name": "Reach Imperial Sanctum",
+		"category": [
+			"All",
+			"Factions",
+			"Kaineng City",
+			"Outpost",
+			"Factions Outposts"
+		],
+		"requires": "({factionsUnlocked()}) and |Progressive Factions Story:11|"
+	},
+	{
+		"name": "Reach Chahbek Village",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()})"
+	},
+	{
+		"name": "Reach Kamadan, Jewel of Istan",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Sunspear Great Hall",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach The Astralarium",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Champion's Dawn",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Jokanur Diggings",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:1|"
+	},
+	{
+		"name": "Reach Beknur Harbor",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Kodlonu Hamlet",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Blacktide Den",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:2|"
+	},
+	{
+		"name": "Reach Consulate Docks",
+		"category": [
+			"All",
+			"Nightfall",
+			"Istan",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:3|"
+	},
+	{
+		"name": "Reach Yohlon Haven",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Sunspear Sanctuary",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Venta Cemetary",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Dajkah Inlet",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:4|"
+	},
+	{
+		"name": "Reach Kodonur Crossroads",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:5|"
+	},
+	{
+		"name": "Reach Pogahn Passage or Rilohn Refuge",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:6|"
+	},
+	{
+		"name": "Reach Camp Hojanu",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
+	},
+	{
+		"name": "Reach Moddok Crevice",
+		"category": [
+			"All",
+			"Nightfall",
+			"Kourna",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:7|"
+	},
+	{
+		"name": "Reach Wehhan Terraces",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Chantry of Secrets",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Yahnur Market",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach The Kodash Bazaar",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Tihark Orchard",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Grand Court of Sebelkeh",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:8|"
+	},
+	{
+		"name": "Reach Dasha Vestibule or Dzagonur Bastion",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:9|"
+	},
+	{
+		"name": "Reach Mihanu Township",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Honur Hill",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Jennur's Horde or Nundu Bay",
+		"category": [
+			"All",
+			"Nightfall",
+			"Vabbi",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:10|"
+	},
+	{
+		"name": "Reach Gate of Desolation",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:12|"
+	},
+	{
+		"name": "Reach Remains of Sahlahja",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Bone Palace",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Basalt Grotto",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach Ruins of Morah",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:13|"
+	},
+	{
+		"name": "Reach The Mouth of Torment",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Lair of the Forgotten",
+		"category": [
+			"All",
+			"Nightfall",
+			"The Desolation",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Torment",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach The Shadow Nexus",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Pain",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:14|"
+	},
+	{
+		"name": "Reach Gate of Fear",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate of the Nightfallen Lands",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate of Secrets",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Gate of Madness",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:15|"
+	},
+	{
+		"name": "Reach Abbadon's Gate",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Progressive Nightfall Story:16|"
+	},
+	{
+		"name": "Reach Gate of Anguish",
+		"category": [
+			"All",
+			"Nightfall",
+			"Realm of Torment",
+			"Outpost",
+			"Nightfall Outposts"
+		],
+		"requires": "({nightfallUnlocked()}) and |Nightfall - Goal:1|"
+	},
+	{
+		"name": "Reach Boreal Station",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Eye of the North",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Gunnar's Hold",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Olafstead",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Sifhalla",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Norn",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()})"
+	},
+	{
+		"name": "Reach Longeye's Ledge",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Vanguard",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Doomlore Shrine",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Vanguard",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Umbral Grotto",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Vlox's Falls",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 3|"
+	},
+	{
+		"name": "Reach Rata Sum",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 4|"
+	},
+	{
+		"name": "Reach Tarnished Haven",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 5|"
+	},
+	{
+		"name": "Reach Gadd's Encampment",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Asura",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 5|"
+	},
+	{
+		"name": "Reach Central Transfer Chamber",
+		"category": [
+			"All",
+			"Eye of the North",
+			"Outpost",
+			"Far Shiverpeaks",
+			"Eye of the North Outposts"
+		],
+		"requires": "({eotnUnlocked()}) and |Progressive Eye of the North Story: 8|"
 	}
 ]

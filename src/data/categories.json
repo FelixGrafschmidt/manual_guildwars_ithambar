@@ -97,5 +97,38 @@
 	},
 	"All": {
 		"hidden": true
+	},
+	"Outpost":{
+		"hidden": true
+	},
+	"Prophecies Pre-Searing Outposts": {
+		"yaml_option": [
+			"include_visiting_presearing_outposts"
+		],
+		"hidden": true
+	},
+	"Prophecies Outposts": {
+		"yaml_option": [
+			"include_visiting_prophecies_outposts"
+		],
+		"hidden": true
+	},
+	"Factions Outposts": {
+		"yaml_option": [
+			"include_visiting_factions_outposts"
+		],
+		"hidden": true
+	},
+	"Nightfall Outposts": {
+		"yaml_option": [
+			"include_visiting_nightfall_outposts"
+		],
+		"hidden": true
+	},
+	"Eye of the North Outposts": {
+		"yaml_option": [
+			"include_visiting_eyeofthenorth_outposts"
+		],
+		"hidden": true
 	}
 }
